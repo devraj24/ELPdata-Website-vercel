@@ -1,0 +1,478 @@
+1ShoppingCart
+2Checkout
+3Dcart
+7Cart eCommerce
+AbanteCart
+Able Commerce Gold
+AbleCommerce
+Acadaca
+Accertify
+Acclaim Software
+Acuity Scheduling
+AddShoppers
+Adobe Commerce
+Adverity
+AfterShip
+Agiliron
+Algonomy
+Alibaba (Unspecified Product)
+Alimama
+AliPay
+Alkemics
+Amazon Business
+Amazon Pay
+Amazon Product Advertising API
+Amazon Webstore
+Americommerce
+Amilia
+Ankorstore
+Anywhere Commerce
+Apache OFBiz
+Aplazame
+ApparelMagic
+AppDirect
+Apptus
+Apttus E-Commerce
+AspDotNetStorefront
+Attraqt
+Auryc
+Avangate Monetization Platform
+Avetti Commerce
+Bambuser
+Baozun
+Barilliance
+BASE
+Big Cartel
+BigCommerce
+BillTrust
+Blinkit
+BloomReach
+Blue Link ERP
+BMT Micro
+Bold Commerce
+Boomerang Commerce
+BorderFree
+Brandbassador
+Brandboom
+Brandscope
+Brandwise
+Bringg
+Broadleaf Commerce
+BT Fresca
+BytePro
+CaaStle
+Carousell
+Catsy PIM
+Celebros
+CEVA Logistics
+ChannelAdvisor
+Checkout by Amazon
+Churn Buster
+Citcon
+Clarity eCommerce
+Clarivate Techstreet
+Cleverbridge
+ClickBank
+CoLinear
+Comestri
+Commerce Central
+Commerce Server
+Commerce7
+CommerceHub
+CommerceIQ
+commercetools
+Configio
+ConvertCart
+ConvertFlow
+Convertize
+CoreMedia
+Coupa Invoice
+Coveo
+Craft Commerce
+CS-Cart
+CubeCart
+cux.io
+Data Impact by NielsenIQ
+DataFeedWatch
+DataWeave
+DCL Logistics
+Deck Commerce
+Destini
+Digital River
+Doofinder
+Dovetale
+Drip
+Drupal Commerce
+Dynamicweb
+E-junkie
+Easy Digital Downloads
+EasyAsk
+eBay (Unspecified Product)
+EC-CUBE
+Ecwid
+Edge by Ascential
+edrone
+Eduzz
+EFI MarketDirect StoreFront
+EKM
+Elastic Path
+Elite Seller
+Ellucian Colleague Financial Aid
+Emerald Elastic
+ePages
+ERP-ONE
+eStore Solution Stack
+Ethereum
+Eulerian
+Evergage
+Expeditors
+eZCom
+Fabric Commerce
+FactFinder
+Fanplayr
+FastSpring
+Feedonomics
+Feedvisor
+FindoLogic
+Fit Analytics
+Flexe
+Flooid
+Flowcode
+Fluent Commerce
+Fonecta
+FoxyCart
+Fresha
+Gambio
+Getsitecontrol
+GiftRocket
+GoDataFeed
+Google Analytics 4 (GA4)
+Google Channel Intelligence
+Google Cloud Vertex AI Search for Retail
+Google Orbitera
+Google Trusted Stores
+GrazeCart
+GroupBy
+Gubagoo
+Gumroad
+HCL Commerce Cloud
+Helium 10
+Heymarket
+HiConversion
+HikaMarket
+HikaShop
+Hotcakes Commerce
+Hotmart
+HoverOwl
+HubSoft
+Hubwoo
+Hyperledger
+IBM WebSphere Commerce
+idev Ecommerce
+Indigo8
+InkSoft
+InsiteCommerce
+Instamojo
+Intershop Commerce Suite
+iQmetrix
+Ivalua eInvoicing
+Ivalua Invoicing
+IZBERG
+J2Store
+Jagged Peak EDGE
+JOOR
+Jrox
+JTL-Shop
+Jumpseller
+k-eCommerce
+Kalio
+Kentico
+Kibo Commerce
+Kibo Unified Commerce Cloud
+Klarna
+Klaviyo
+Klevu
+KonaKart
+Krible
+Lawson e-Sales
+Lead Commerce
+LeafLink
+LemonStand
+Lengow
+LiftIgniter
+Lightspeed Retail
+LiteCommerce
+Litium
+LivePerson Automotive
+LoyaltyLion
+Mabaya
+Mabisy
+Magento 2
+Magento Open Source
+magnews
+MakeShop
+MarketTime
+Mastercard Click to Pay
+Matrix Velocity
+MemberMouse
+Mercado Libre
+Meridian Ecommerce
+Metorik
+Microsoft Dynamics 365 Retail
+Miiduu
+MikMak
+Mintsoft
+Mirakl
+Miva Merchant
+MIXMarket
+Moglix
+Monax
+Monitus
+Monsoon Commerce
+MyBuys
+MyCommerce
+Neto Ecommerce
+NetSuite for Retail
+NetSuite SuiteCommerce
+Network Solutions eCommerce
+Newtron
+Nexternal eCommerce
+Nextopia
+NitroSell
+noon.com
+NopCommerce
+Nosto
+Now Commerce
+NPD (Unspecified Product)
+NuORDER
+Nuvem Shop
+Octoparse
+Odoo (Unspecified Product)
+Odoo eCommerce
+Okendo
+OnBuy
+OpenCart
+Opentable
+OpenText Liaison Athena
+Optimizely Commerce Cloud​
+Oracle ATG Web Commerce
+Oracle B2B
+Oracle Commerce
+Oracle Commerce Cloud
+Oracle Customer Order Management
+Oracle CX Commerce
+Oracle HCM Cloud
+Oracle iStore
+Oracle Order Management Cloud
+Oracle Retail
+Oracle Retail Assortment and Item Planning Cloud Service
+Oracle Retail Brand Compliance Management
+Oracle Retail Merchandising System
+Orckestra
+OrderGroove
+OrderMotion
+Ordoro
+OroCommerce
+Oscar ECommerce
+osCommerce Online Merchant
+Oxalys
+Oxatis
+Oxid eShop
+OzLINK
+Pacvue
+PagSeguro
+PatronManager
+PayPro Global
+Pepperi
+Perfect Commerce
+Perpetua
+PFSweb
+Photoslurp
+Pimcore
+Pinnacle Cart
+PixelSilk
+plentymarkets
+Plytix
+PrestaShop
+PriceSpider
+Proactis
+Proactis Invoice
+Proactis Sell
+Proactis Supplier Management
+ProductCart
+Productsup
+Profitero
+Promoboxx
+ProStores
+PunchOut Catalogs
+Quartile
+Quiet Platform
+Radial
+RangeMe
+ReadyCloud
+Recart
+RedPrairie Commerce Suite
+Rejoiner
+RELEX
+RepSpark
+Repzio
+ResellerRatings
+RetailRocket
+Riskified
+RLM Apparel Software
+Rockerbox
+Saddle Creek Logistics
+Salesfloor
+Salesforce B2B Commerce
+Salesforce B2C Commerce Cloud
+Salesforce Commerce Cloud
+Salesforce Commerce Cloud Order Management
+Salesforce Commerce Cloud SFRA
+SalonBiz
+Salsify
+SamCart
+Sana Commerce
+SAP Commerce Cloud
+SAP for Retail (ISR)
+SAP Hybris
+SAP Hybris B2B Commerce
+SAP Hybris B2C Commerce
+SAP Spartacus
+Sapo
+Searchspring
+Segmentify
+Sellbrite
+Selz
+SendOwl
+SEOshop
+Sezzle
+ShipBob
+ShipHero
+ShipMonk
+ShipStation
+Shop2Market
+Shopatron
+ShopEx
+Shopify (Unspecified Product)
+Shopify Developer Platform
+Shopify Fulfillment
+Shopify Plus
+Shoplo
+Shopp
+Shopper Approved
+Shopping Cart Elite
+Shopr
+ShopRocket
+shopserve
+ShopSite
+ShopVisible
+shopware
+Shopzilla
+Signifyd
+SimpleCart
+SingleFeed
+Sitecore Experience Commerce
+Sitoo
+Skava
+Skilljar
+Slatwall
+SLI Systems
+Snipcart
+SoCloz
+Solentris
+Solid Commerce
+Solidus
+Solutions For Direct Selling (S4DS)
+Sooqr
+Sophus3
+Spree Commerce
+Springbot
+Spryker
+Square
+Squarespace
+Squire
+StackCommerce
+sticky.io
+Stone Edge Order Manager
+Storeden
+Storenvy
+SupaDupa
+SWIFT
+Sylius
+Tapcart
+Target2Sell
+TaxJar
+Teikametrics
+theFind.com
+ThriveCart
+TicketWeb
+Tictail
+TIE Kinetix
+Tiendanube
+Tomax
+TrackStreet
+Tradebyte
+TradeCentric
+Transact
+Trendyol
+Trinity Software
+Triple Whale
+True Fit
+TrueCommerce
+TrustedShops
+Tulip Mobile Platform
+Ubercart
+Ucommerce
+uCoz
+Udaan
+Ultracart
+Unbxd
+Unilog
+UniteU
+UpClick
+USPS
+VARCommerce
+Venda
+Viamedici
+Virto Commerce
+VirtueMart
+Visible Equity
+Vistaprint
+Visualsoft
+Visulon
+Viva Wallet
+Volusion
+VTEX
+Vue Storefront Frontend Platform
+Wallapop
+Webgility
+Webgility Unify
+Weblinc
+WebsPlanet Cosmos
+Webware.io
+Weebly
+WhatConverts
+Whisbi
+Whitespark
+Wix eCommerce
+Wix Stores
+WooCommerce
+Workarea
+X-Cart
+Xt-commerce
+Yahoo Store
+Yahoo! Small Business
+Yieldify
+Yodlee
+Yotpo
+Yotpo SMSBump
+Zazzle
+Zen Cart
+Zentail
+Zinrelo
+Zipify
+Znode
+Znode Multi-Store
+Zoey
+Zoovu
+Zycus Procure-to-Pay Software

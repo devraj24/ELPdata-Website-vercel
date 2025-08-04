@@ -1,0 +1,51 @@
+erify your site ownership
+What is ownership verification?
+Ownership verification means proving to Search Console that you own a specific website. A verified owner has the highest degree of permissions in Search Console.
+
+Why is this so complicated?
+Site owners in Search Console have access to sensitive Google Search information about a site. Site owners can also perform actions that can affect a site's presence and behavior on Google Search and other Google services. Because of this, we want to make sure that only a real site owner is granted owner permissions on Search Console.
+Verify site ownership
+Either add a new property or choose an unverified property from your property selector.
+Choose one of the verification methods listed below and follow the instructions. The verification page will list which methods are available and recommended for your site.
+If you are unable to verify site ownership for some reason, ask a current owner to grant you access to the property in Search Console.
+Using multiple verification methods
+
+You can add multiple verification methods in your property's verification settings page. You might want to add more than one verification method in case one of your existing verification methods fails (for example, if you verified using a Google Analytics tracking code, and someone changes a template on your website that omits the tag).
+
+To add an additional verification method, visit the Settings page for the property and click Ownership verification
+
+Multiple people can verify ownership of the same website property, using the same or different verification methods. If you use the same verification method, just be sure that you don't overwrite the verification tokens of any other owners.
+
+Verifying child properties
+
+Once you have verified a property, any child properties that you add will be auto-verified using the same verification method as the parent. That is, if you verified ownership of example.com using the HTML file upload method, any child properties that you create (m.example.com or https://example.com/some/path) will be auto-verified using the same HTML file upload.
+
+How long does verification last?
+Verification lasts as long as Search Console can confirm the presence and validity of your verification token. Search Console periodically checks if your verification token is still present and valid. If verification can no longer be confirmed, you will be notified. If the issue is not fixed, your permissions on that property will expire after a certain grace period.
+
+If all verified owners lose access to a property, all users will lose access to the Search Console property.
+
+Google uses the Google Site Verifier user agent to perform site verification.
+
+When will I start to see data?
+Data is collected for a property as soon as anyone adds it in Search Console, even before verification occurs. However, it takes a few days for data to start to accrue for the property.
+
+We lost our only verified site owner!
+
+If the only verified owner of your site leaves your team, you should verify ownership to maintain (or regain) access to the property.
+
+If you are taking over a site from another owner, after you verify ownership you can unverify previous owners by removing their verification token (for example, removing the HTML tag from the site, for HTML-tag-verified owners). See Add or remove owners for more information.
+
+ 
+
+Choosing a verification method
+Search Console supports several different verification methods. See the table below to help choose a method that works best for you.
+
+Method	Notes
+HTML file upload	Relatively simple, but requires the ability to upload a file and publish it on your site at a specific URL. Might not be possible on a site hosting platform.
+HTML tag	Relatively simple, but requires the ability to edit the HTML source code of your site's homepage. Might not be possible on a site hosting platform.
+Google Analytics tracking code	Simple, if the page already has a Google Analytics tracking code for a Google Analytics account that you can access. If the page does not have a tracking code, you must add one (which may require creating a Google Analytics account if you don't already have one).
+Google Tag Manager	Simple if the page already has a Google Tag Manager snippet for a Google Tag Manager account that you can access. If the page does not have a snippet, you must add one (which may require creating a Tag Manager account if you don't already have one).
+Google Sites or Blogger account	Use the recommended method for each platform.
+Domain name provider	More complex, but is the only way to verify a Domain property. If your domain provider is listed in the verification wizard, then this is a simple process. Domain properties are useful because they include data for all protocol (http/https) and subdomain variations of your property.
+Verification method details

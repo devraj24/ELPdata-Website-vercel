@@ -1,0 +1,333 @@
+Seobility Onpage SEO Tool
+Home  SEO Checker
+Analyze your website with Seobility:
+You have 2 of 3 checks left today.
+
+https://www.elpdata.com/
+Elpdata.com - SEO Checker
+Overview of the SEO Check
+
+
+Meta information
+48% 
+Page quality
+48% 
+Page structure
+58% 
+Link structure
+0% 
+Server
+0% 
+External factors
+0% 
+SEO Score
+31%
+SEO Score Widget
+ Response time0.22 s
+ File size3.90 kB
+ Words0
+ Media files0
+ Number of links0 internal / 0 external
+Task list of SEO Improvements10 Tasks
+
+Only provide one canonical link.
+Very important!
+
+Add a H1 heading to this page.
+Very important!
+
+Use good headings on the page.
+Very important!
+
+This page has only very few internal links. If it's a welcome page, consider removing it.
+Very important!
+
+Use 301 redirects to drive traffic to URLS with the same domain and sub domain (www and non-www subdomain).
+Very important!
+View all
+Meta specifications48% achieved
+Title
+ELP Data - Premium Technology Data & Business Intelligence Platform
+ The page title should be shorter than 580 pixels. It is 634 pixels long.Optimize title
+ There are no duplicate words in the title
+ Meta Title
+Meta description
+Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers, target specific implementations, and accelerate B2B sales with 96% accurate data.
+ The meta description is too long: 1227 pixels from max. 1000 pixels.Optimize description
+ Meta Description
+Crawlability
+ There are no problems in accessing the website.
+ Search Engine Crawlers
+Canonical URL
+https://elpdata.com/
+https://www.elpdata.com
+ The specified canonical link points to a different page.
+ There is more than one canonical link on this page.
+ Canonical Tag
+Language
+Language defined in HTML: en
+Server location: India
+ The following language is defined by HTML: en
+ Declaring language in HTML
+Alternate/Hreflang Links
+ There are no alternate links specified on this page.
+ Hreflang
+Other meta tags
+ There is no rel next meta tag on this page.
+ There is no rel prev meta tag on this page.
+ Meta Tags
+Domain
+ The domain is no subdomain.
+ The domain length is good.
+ The domain does not contain non-latin characters.
+ Domain for SEO
+Page URL
+ No parameters were found in the URL.
+ No session ID was found in the URL.
+ The URL does not have too many subdirectories.
+ SEO-friendly URLs
+Charset encoding
+ The charset encoding (UTF-8) is set correctly.
+ Character Encoding
+Doctype
+ The doctype HTML 5 is set correctly.
+ The doctype is placed at first in the HTML code.
+ HTML Doctype
+Favicon
+ No favicon is linked in the HTML code.
+ Favicon
+Meta tags
+Name	Value
+viewport	width=device-width, initial-scale=1.0, maximum-scale=1
+description	Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers, target specific implementations, and accelerate B2B sales with 96% accurate data.
+keywords	technology data, enterprise data, B2B data, technology users, CRM data, ERP users, database lists, business intelligence, lead generation
+author	ELP Data
+robots	index, follow
+referrer	strict-origin-when-cross-origin
+theme-color	#1e40af
+msapplication-TileColor	#1e40af
+lang	en
+twitter:card	summary_large_image
+twitter:url	https://elpdata.com
+twitter:title	ELP Data - Premium Technology Data & Business Intelligence Platform
+twitter:description	Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers and accelerate B2B sales.
+twitter:image	https://elpdata.com/twitter-image.jpg
+og:type	website
+og:url	https://elpdata.com
+og:title	ELP Data - Premium Technology Data & Business Intelligence Platform
+og:description	Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers and accelerate B2B sales with 96% accurate data.
+og:image	https://elpdata.com/og-image.jpg
+og:site_name	ELP Data
+Strict-Transport-Security	max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options	nosniff
+X-Frame-Options	DENY
+X-XSS-Protection	1; mode=block
+charset	UTF-8
+
+Automatically check elpdata.com including all subpages at once!
+ Check 300+ SEO parameters on every page of your website
+ Easy troubleshooting with optimization suggestions
+ Automated check for keyword optimization
+
+Guaranteed free of charge during trial period.
+Page quality48% achieved
+Content
+ There are only 0 words on this page. Use at least 250 words to provide useful information.
+ Some words from the page title are not used within the pages content
+ No paragraphs were detected.
+ No placeholders texts or images were found.
+ Content is King
+Frames
+ This page does not use a frameset.
+ Frames and framesets
+Mobile optimization
+ No Apple touch icon is specified.
+ A viewport "width=device-width, initial-scale=1.0, maximum-scale=1" is provided.
+ Mobile Optimization
+Bold and strong tags
+ The usage of strong and bold tags is perfect. We recommend the use of up to 6 tags for this page.
+ Strong and Bold Tags
+Image SEO
+ Alt text (alternative text) is correctly used on all found images.
+ Image SEO
+Social Networks
+ There are only a few social sharing widgets on the page. Make your website popular in social networks with social sharing widgets.
+ Social Sharing
+Additional markup
+ No additional page markup was found.
+HTTPS
+ This website uses HTTPS to protect privacy and integrity of the exchanged data.
+ All included files are also transferred via HTTPS.
+ HTTPS
+Media list
+No media files were found.
+Page structure58% achieved
+H1 heading
+ There is no H1 heading specified.
+ H1-H6 headings
+Headings
+ There are no headings specified on the page. Headings are important for search engine optimization and help to structure your content.
+ H1-H6 headings
+Heading structure
+No headings were found.
+Link structure0% achieved
+Internal links
+ This page seems to be an entry page, because only very few links were found.
+ Internal Linking
+External links
+ There are no external links on this page.
+ External Links
+Found links on this page
+No internal links were found.
+Server configuration0% achieved
+HTTP redirects
+This page redirects to "https://www.elpdata.com/"
+ This website uses URLs with www and non-www subdomain. This may cause duplicate content and bad links to your website. Redirect Checker
+ WWW Redirect
+HTTP header
+ The HTML page should be transferred using GZip compression.
+ The X-powered header is sent within the response header. (unnecessary)
+ HTTP headers
+Performance
+ The page response time is excellent with 0.22 seconds.
+ The file size of the HTML document is fine (4 kB).
+ Page Speed
+HTTP Response Header
+Name	Value
+accept-ranges	bytes
+access-control-allow-headers	Origin, X-Requested-With, Content-Type, Accept, Authorization
+access-control-allow-methods	GET, POST, PUT, DELETE, OPTIONS
+access-control-allow-origin	*
+cache-control	no-cache, no-store, must-revalidate
+content-length	3986
+content-security-policy	default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https: wss: ws:; frame-ancestors 'none';
+content-type	text/html; charset=UTF-8
+date	Mon, 23 Jun 2025 19:28:25 GMT
+etag	W/"f92-1979de6dff8"
+expires	0
+last-modified	Mon, 23 Jun 2025 17:47:23 GMT
+link	<https://www.elpdata.com>; rel="canonical"
+permissions-policy	geolocation=(), microphone=(), camera=()
+pragma	no-cache
+referrer-policy	strict-origin-when-cross-origin
+server	Google Frontend
+strict-transport-security	max-age=63072000; includeSubDomains
+x-cloud-trace-context	50ce2f1867d315706058e6daa87408d5
+x-content-type-options	nosniff
+x-frame-options	DENY
+x-powered-by	Express
+x-xss-protection	1; mode=block
+via	1.1 google
+alt-svc	h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+statuscode	200
+http_version	HTTP/2
+External factors0% achieved
+Backlinks
+ We didn't find any backlinks to this page.
+ Backlinks
+Links from Wikipedia
+No links from Wikipedia were found.
+Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_redirects
+
+# Technology Database Pages
+Allow: /vmware-users-list
+Allow: /sap-users-list
+Allow: /ibm-users-list
+Allow: /oracle-users-list
+Allow: /salesforce-users-list
+
+# Industry Email Lists
+Allow: /healthcare-industry-email-list
+Allow: /technology-industry-email-list
+Allow: /financial-services-email-list
+Allow: /manufacturing-industry-email-list
+
+# Role-Based Lists
+Allow: /ceo-email-list
+Allow: /cto-email-list
+Allow: /cfo-email-list
+
+# Crawl-delay for bots
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://www.elpdata.com/sitemap.xml
+Similar sites
+seniorsoftware.ro
+de.pons.com
+charisma.ro
+govdata.de
+merriam-webster.com
+data.gov
+bbc.co.uk
+kit.edu
+memory-alpha.fandom.com
+britannica.com
+technologyreview.com
+data.gov.uk
+premiumcredit.com
+austral.ro
+gdata.de
+nytimes.com
+ibm.com
+investopedia.com
+linguee.de
+data.org
+Search preview
+www.elpdata.com
+ELP Data - Premium Technology Data & Business Intelligence Plat...
+Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers, target specific implementations, and accelerate B2B sales with 96% accurate data.
+Most important keywords
+Following keywords were found. You can check the keyword optimization of this page for each keyword.
+
+Keyword	Result	Recheck
+data	34%	Check
+ELP Data	29%	Check
+technology	23%	Check
+ELP	23%	Check
+Enterprise Data	23%	Check
+Premium Technology Data	23%	Check
+Technology Data Business	21%	Check
+Premium Technology Data Business	19%	Check
+Technology Data Business Intelligence	17%	Check
+Data Business Intelligence Platform	13%	Check
+Keywords
+
+Automatically check elpdata.com including all subpages at once!
+ Check 300+ SEO parameters on every page of your website
+ Easy troubleshooting with optimization suggestions
+ Automated check for keyword optimization
+
+Guaranteed free of charge during trial period.
+Seobility Logo
+All-In-One SEO Software and Tools for website optimization and top rankings on Google
+
+Contact
+ support@seobility.net
+   
+
+Features
+Site Audit
+Website Rankings
+Backlink Analysis
+TF*IDF Tool
+Keyword Research Tool
+Plans & Pricing
+SEO Tools
+SEO Checker
+Keyword Checker
+Ranking Checker
+SEO Compare
+Backlink Checker
+Redirect Checker
+SERP Snippet Generator
+Resources
+Blog
+Wiki
+FAQ
+Team

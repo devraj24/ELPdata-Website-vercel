@@ -1,0 +1,237 @@
+1C Enterprise
+7Shifts
+Access EasyPay
+Accountedge
+ACCURAT HCM
+ActivityHD
+AcuStaf
+ADP (Unspecified Product)
+ADP Celergo
+ADP Comprehensive Services
+ADP CSS HRizon
+ADP Enterprise HR
+ADP Global Payroll
+ADP GlobalView Payroll
+ADP HCM
+ADP HR Anytime
+ADP HR/Perspective
+ADP iPay
+ADP Paisy
+ADP Payroll
+ADP PersonnelView
+ADP Streamline
+ADP TotalSource
+ADP Workforce Now
+Adrenalin
+Ahola
+Alliance HCM
+APS Payroll
+Ascender
+Ascentis
+AspireHR
+Asure Software (Unspecified Product)
+Attendance On Demand
+Avanti
+BenefitMall (Unspecified Product)
+BenefitMall PayFocus
+Bizimply
+bob
+BrightPay
+CascadeHR
+CDK Global Payroll Plus
+Ceridian eSource
+Ceridian HR/Payroll
+Cezanne
+CheckWriters
+Chronotek
+CIPHR
+CloudPay
+CoAdvantage
+Collage
+Comdata
+CompAnalyst
+CompTrak
+ComputerEase
+CoreHR
+Cougar Mountain Denali
+CrunchTime
+CYMA Systems
+DATEV Accounting
+DATIS
+Dayforce
+Dayforce Payroll
+Dayforce Powerpay
+Deel
+Deltek Costpoint
+Deluxe Payroll
+DFAS myPay
+Doculivery
+Easyclocking
+Ecount ERP
+Efficenter
+Ellucian Colleague Human Resources
+Emplicity
+Employee Express
+Employment Hero
+EPAY
+ExtensisHR
+Fingercheck
+FlowHCM
+Foundation Software
+Frontier Software
+greytHR
+Gusto
+Heartland Payroll
+HR Access
+HR2000
+HRMatrix
+Humanic
+Humanity.com
+ichris
+INAZ Paghe
+Info-Tech Systems Integrators
+Integrho
+Intuit Payroll
+IRIS Earnie IQ
+IRIS Payroll Professional
+iSolved People Cloud
+JD Edwards World Canadian Payroll
+JD Edwards World US Payroll
+JobBOSS
+JOBPOWER
+Jonas Construction
+JustLogin
+Justworks
+KashFlow
+KIDICAP
+Kronos
+Kronos SaaShr
+Kronos Workforce Payroll
+Lattice HRIS
+Maincare M-GELF
+Maincare RH
+MediSolution
+MEDITECH Expanse HR Planning Payroll
+MenaPay
+Meta4
+MHR iTrent
+MiPih AGIRH
+Moorepay
+MYOB
+Namely
+Neocase HR Power
+Netchex
+NetSuite SuitePeople
+NGA HR
+Optimum Payroll
+Oracle Fusion Human Capital Management
+Oracle Global Payroll
+Oracle HCM Cloud
+Oracle Human Capital Management (HCM)
+Oracle JD Edwards EnterpriseOne Human Capital Management
+Oracle JD Edwards EnterpriseOne Payroll
+Oracle Payroll
+Oracle PeopleSoft
+Oracle Workforce Compensation
+Oracle Workforce Rewards Cloud
+OrgPlus
+P&I LogaHR
+Papaya
+Patriot Payroll
+Patriot Software (Unspecified Product)
+Payboy
+Paychex (Unspecified Product)
+Paychex Flex
+Paycom
+Paycor (Unspecified Product)
+Payfactors
+PayFit
+Paylocity (Unspecified Product)
+PayMaster (Unspecified Product)
+PaymentEvolution
+Payroll 1
+Payroll Mate
+Payroll2U
+PayrollServe
+PayScale (Unspecified Product)
+PayScale MarketPay
+PENTA Construction Software
+PeopleSoft ePay
+PeopleSpheres (Unspecified Product)
+PeopleStrategy
+PeopleStrategy eHCM
+PeopleStreme
+PrimePay
+PrismHR
+Proliant
+QuickBooks
+QuickBooks Desktop Pro
+QuickBooks Enterprise
+QuickBooks Online
+QuickBooks Payroll
+Raet
+Ramco
+RazorSync
+ResourceLink
+Rhevolution
+Rippling
+RUN Powered by ADP
+Safeguard GMP
+Sage (Unspecified Product)
+Sage 100
+Sage 100cloud
+Sage 300 People
+Sage 50
+Sage 500
+Sage HRMS
+Sage Intacct
+Sage Payroll
+SAP ERP Human Capital Management (HCM)
+SAP PY
+SAP SuccessFactors Employee Central Payroll
+SentricWorkforce
+Sequoia One
+Sheakley PaySystems
+Silae (Unspecified Product)
+Silae Paie
+Sistemi PROFIS
+Sopra HR Software
+Square Payroll
+StarGarden
+SumTotal
+SurePayroll
+TelePayroll
+Time Doctor
+TIMECO
+Times Software
+TMF HR & Payroll
+TOTVS HR
+TriNet
+TriNet HR
+Trivantus
+Truework
+TruPay
+UKG Autotime
+UKG Pro
+UKG Ready Payroll
+UKG Workforce Central
+Ultimate Software
+Unit4 HCM
+Vibe HCM
+Visma HRM & Payroll
+Vista
+Viventium
+Wagepoint
+Wave Payroll
+WebHR
+WebPay
+WinTeam
+Workday
+Workday Human Capital Management
+Workday Payroll
+Works Applications HR Suite
+WorkSafeBC
+Wrapbook
+Zenefits
+ZingHR
+Zucchetti

@@ -1,0 +1,390 @@
+Algorithmics
+AMICAS
+AMICAS HeartSuite
+AMICAS RadSuite
+AnthillPro
+Cognos TM1
+Emageon
+Explorys
+Fiberlink
+IBM 3084
+IBM 3090
+IBM 3490
+IBM 3592 Tape Cartridge
+IBM AIX
+IBM API Connect
+IBM App Connect
+IBM Aspera
+IBM Atlas eDiscovery
+IBM BDAM
+IBM Blockchain Platform
+IBM Bluemix
+IBM Blueworks Live
+IBM Business Automation Workflow
+IBM Business Process Manager
+IBM Case Manager
+IBM CICS
+IBM Clinical Development
+IBM Cloud Application Performance Management
+IBM Cloud Automation Manager
+IBM Cloud Brokerage Managed Services
+IBM Cloud IAM Services
+IBM Cloud Kubernetes Service
+IBM Cloud Lite
+IBM Cloud Object Storage
+IBM Cloud Orchestrator
+IBM Cloud Pak for Automation
+IBM Cloud Pak for Data
+IBM Cloud Pak for Integration
+IBM Cloud Paks
+IBM Cloud Platform
+IBM Cloud Private
+IBM Cloud Services
+IBM Cloudant
+IBM Cognos 10
+IBM Cognos 8 Business Intelligence
+IBM Cognos 9
+IBM Cognos Analytics
+IBM Cognos Controller
+IBM Cognos Enterprise
+IBM Cognos Express
+IBM Cognos Financial Statement Reporting (FSR)
+IBM Cognos Impromptu
+IBM Cognos Insight
+IBM Cognos Integration Server
+IBM Cognos Planning Analytics
+IBM Cognos Planning Contributor
+IBM Cognos Series 7
+IBM Cognos Visualizer
+IBM Comergent
+IBM Commerce on Cloud
+IBM Content Collector
+IBM Content Foundation
+IBM Content Manager
+IBM Content Manager for iSeries
+IBM Content Manager OnDemand
+IBM Control Desk
+IBM Counter Fraud Management
+IBM CustomerInsight
+IBM Data Management
+IBM Data Warehouse
+IBM Databand
+IBM Datacap
+IBM DataMirror
+IBM DataPower Gateway
+IBM DataStage
+IBM Db2
+IBM Db2 Analytics Accelerator
+IBM Db2 Big SQL
+IBM Db2 Connect
+IBM Db2 Content Manager
+IBM Db2 Database
+IBM Db2 for Linux, UNIX, and Microsoft Windows
+IBM Db2 for z/OS
+IBM Db2 Hosted
+IBM Db2 Warehouse
+IBM DFHSM
+IBM DFSMS
+IBM DS3400
+IBM DS3500
+IBM DS4300
+IBM DS4800
+IBM DS5000
+IBM DS5020
+IBM DS8000
+IBM Emptoris Contract Management
+IBM Emptoris Program Management
+IBM Emptoris Sourcing
+IBM Emptoris Spend Analysis
+IBM Emptoris Supplier Lifecycle Management
+IBM Engineering Requirements Management DOORS Next
+IBM Engineering Test Management
+IBM Engineering Workflow Management
+IBM Enterprise Business Servers
+IBM Envizi ESG Suite
+IBM ES/9000
+IBM ESS
+IBM ExperienceOne
+IBM FileNet Business Process Framework
+IBM FileNet Content Manager
+IBM FileNet Image Services
+IBM FileNet P8
+IBM FlashSystem
+IBM FlashSystem 5000
+IBM FlashSystem 7200
+IBM FlashSystem 9200
+IBM FlashSystem A9000
+IBM FlashSystem V9000
+IBM Gentran
+IBM Host Access Client Package
+IBM HR Solutions
+IBM HTTP Server
+IBM Hybrid Cloud
+IBM i
+IBM i2 Analyze
+IBM IEBCOPY
+IBM ILOG CPLEX Optimization Studio
+IBM Impact Server
+IBM Incentive Compensation Management
+IBM Information Governance Catalog (IGC)
+IBM Information Management System
+IBM Informix
+IBM Informix Genero
+IBM InfoSphere BigInsights
+IBM InfoSphere Change Data Capture
+IBM InfoSphere Federation Server
+IBM InfoSphere Identity Insight
+IBM InfoSphere Information Governance Catalog
+IBM InfoSphere Information Server
+IBM InfoSphere Master Data Management
+IBM InfoSphere Optim
+IBM InfoSphere Patient Hub
+IBM InfoSphere Platform
+IBM InfoSphere QualityStage
+IBM InfoSphere Warehouse
+IBM Initiate Master Data Service
+IBM Instana Observability
+IBM Integrated Analytics System
+IBM Intrusion Detection and Prevention System
+IBM ISPF
+IBM ISS
+IBM iX
+IBM JES2
+IBM Kenexa Talent Acquisition Suite
+IBM License Metric Tool (ILMT)
+IBM LinuxONE
+IBM Lotus Symphony
+IBM LTO Ultrium Data Cartridges
+IBM Mainframe
+IBM MarketScan Research Databases
+IBM Maximo
+IBM Mobile Foundation
+IBM MobileFirst
+IBM MQ
+IBM N Series Arrays
+IBM Netcool Network Management
+IBM Netcool Operations Insight
+IBM Netcool/Portal
+IBM Netezza
+IBM Netezza 100
+IBM Netezza 1000
+IBM Netezza Replication Services
+IBM Network Attached Storage (NAS)
+IBM OMEGAMON
+IBM OpenPages
+IBM Operational Decision Manager
+IBM Order Management
+IBM PC
+IBM Phytel
+IBM Planning Analytics
+IBM Power System AC922
+IBM POWER Systems
+IBM POWER5
+IBM POWER6
+IBM POWER7 Systems
+IBM POWER8 Systems
+IBM POWER9 Systems
+IBM PowerAI Enterprise
+IBM PowerHA
+IBM PowerVC
+IBM PowerVM
+IBM ProtecTIER
+IBM Proventia
+IBM PureApplication System
+IBM PureData System
+IBM PureFlex System
+IBM Qiskit Runtime
+IBM QRadar
+IBM QRadar SIEM
+IBM QRadar Vulnerability Manager
+IBM QSAM
+IBM RACF
+IBM Rational Application Developer
+IBM Rational Asset Manager
+IBM Rational Build Forge
+IBM Rational Change
+IBM Rational ClearCase
+IBM Rational ClearQuest
+IBM Rational Developer for i
+IBM Rational DOORS
+IBM Rational Functional Tester
+IBM Rational Method Composer
+IBM Rational Performance Tester
+IBM Rational Publishing Engine
+IBM Rational Quality Manager
+IBM Rational RequisitePro
+IBM Rational Rhapsody
+IBM Rational Robot
+IBM Rational Rose
+IBM Rational Software Architect Designer
+IBM Rational Software Modeler
+IBM Rational Synergy
+IBM Rational Team Concert
+IBM Rational Test
+IBM Rational Test RealTime
+IBM Rational Test Workbench
+IBM Rational Unified Process
+IBM Red Brick
+IBM Resilient
+IBM Robotic Process Automation
+IBM Scale Out Network Attach Storage (SONAS)
+IBM Security Access Manager
+IBM Security Directory Server
+IBM Security Guardium
+IBM Security Guardium Data Encryption
+IBM Security Guardium Vulnerability Assessment
+IBM Security Identity Governance and Intelligence
+IBM Security Identity Manager
+IBM Security Key Lifecycle Manager
+IBM Security MaaS360
+IBM Security Privileged Identity Manager
+IBM Security QRadar SOAR
+IBM Security Trusteer
+IBM Security Verify
+IBM Security zSecure
+IBM Service Delivery Manager
+IBM SevOne
+IBM Smart Analytics System
+IBM Smarter Workforce
+IBM SMP/E
+IBM SoftLayer
+IBM Spectrum
+IBM Spectrum Archive
+IBM Spectrum Computing
+IBM Spectrum Conductor
+IBM Spectrum Control
+IBM Spectrum LSF
+IBM Spectrum Protect
+IBM Spectrum Protect Plus
+IBM Spectrum Scale
+IBM Spectrum Symphony
+IBM Spectrum Virtualize
+IBM SPSS Advanced Statistics
+IBM SPSS Modeler
+IBM SPSS Statistics
+IBM SPSS Text Analytics
+IBM Sterling
+IBM Sterling B2B Integrator
+IBM Sterling Configure, Price, Quote (CPQ)
+IBM Sterling Control Center
+IBM Sterling File Gateway
+IBM Sterling Order Management
+IBM Sterling Secure File Transfer
+IBM Sterling Secure Proxy
+IBM Sterling Selling and Fulfillment Suite
+IBM Storage Area Network (SAN)
+IBM StoredIQ Suite
+IBM Storwize
+IBM Storwize V3700
+IBM Storwize V5000
+IBM Storwize V5030
+IBM Storwize V7000
+IBM Streams
+IBM StrongLoop
+IBM Supply Chain Intelligence Suite
+IBM System i Midrange Computing Server
+IBM System p Server
+IBM System Storage DCS3200
+IBM System Storage DCS3700
+IBM System Storage Disk Systems
+IBM System Storage DS4700 Express
+IBM System Storage SAN Volume Controller (SVC)
+IBM System Storage Tape Drives
+IBM System Storage Tape Libraries
+IBM System z Mainframe
+IBM Tape Systems
+IBM Tape Systems TS3500
+IBM Telelogic System Architect
+IBM Tivoli
+IBM Tivoli Access Manager
+IBM Tivoli AF/OPERATOR on z/OS
+IBM Tivoli Application Dependency Discovery Manager (TADDM)
+IBM Tivoli Asset Management for IT
+IBM Tivoli Compliance Insight Manager
+IBM Tivoli Composite Application Manager (ITCAM)
+IBM Tivoli Configuration Manager (ITCM)
+IBM Tivoli Directory Integrator (TDI)
+IBM Tivoli Enterprise Console (TEC)
+IBM Tivoli Federated Identity Manager
+IBM Tivoli Identity Manager
+IBM Tivoli License Compliance Manager
+IBM Tivoli Management Framework
+IBM Tivoli Monitoring
+IBM Tivoli Netcool Configuration Manager
+IBM Tivoli Netcool Performance Manager
+IBM Tivoli Netcool/Impact
+IBM Tivoli Netcool/Reporter
+IBM Tivoli Netcool/Webtop
+IBM Tivoli Output Manager
+IBM Tivoli Performance Analyzer
+IBM Tivoli Provisioning Manager
+IBM Tivoli Remote Control
+IBM Tivoli Security Operations Manager
+IBM Tivoli Service Automation Manager
+IBM Tivoli Service Level Advisor
+IBM TotalStorage
+IBM TRIRIGA
+IBM TS1140
+IBM TS1150 Tape Drive
+IBM TS4500 Tape Library
+IBM TS7760 Virtual Tape Library
+IBM Turbonomic
+IBM UrbanCode Deploy
+IBM VersaStack
+IBM VSAM
+IBM VTAM
+IBM Watson
+IBM Watson Analytics
+IBM Watson Assistant
+IBM Watson Content Analytics
+IBM Watson Customer Experience Analytics
+IBM Watson Discovery
+IBM Watson Explorer
+IBM Watson IoT
+IBM Watson Knowledge Catalog
+IBM Watson Knowledge Studio
+IBM Watson Machine Learning
+IBM Watson Marketing
+IBM Watson Marketing Insights
+IBM Watson Natural Language Understanding (NLU)
+IBM Watson Personality Insights
+IBM Watson Speech-to-Text
+IBM Watson Studio
+IBM Watson Studio on Cloud Pak for Data
+IBM Watson Supply Chain
+IBM Watson Text to Speech
+IBM Watson Tone Analyzer
+IBM Watson Visual Recognition
+IBM Watsonx
+IBM WebSphere
+IBM WebSphere Application Server
+IBM WebSphere Business Integration
+IBM WebSphere Business Modeler
+IBM WebSphere Cast Iron Cloud
+IBM WebSphere Commerce
+IBM WebSphere Data Interchange
+IBM WebSphere eXtreme Scale
+IBM WebSphere ILOG JRules
+IBM WebSphere Message Broker
+IBM WebSphere Presence Server
+IBM WebSphere Transformation Extender
+IBM WebSphere Virtual Enterprise
+IBM WebSphere Voice Response for AIX
+IBM Workload Deployer
+IBM X-Force Exchange
+IBM XIV
+IBM Z Workload Scheduler
+IBM z/OS
+IBM z/OS Data Set Mobility Facility
+IBM z/Transaction Processing Facility (z/TPF)
+IBM z/VM
+IBM z/VSE Operating System
+IBM z13
+Kenexa 2x BrassRing
+Merge AIMS
+Merge Eye Care PACS
+Merge Healthcare
+Merge iConnect
+ParkMyCloud
+PowerHA SystemMirror
+Q1 Labs

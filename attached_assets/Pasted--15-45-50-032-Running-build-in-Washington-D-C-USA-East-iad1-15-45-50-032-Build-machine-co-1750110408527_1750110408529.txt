@@ -1,0 +1,966 @@
+[15:45:50.032] Running build in Washington, D.C., USA (East) – iad1
+[15:45:50.032] Build machine configuration: 2 cores, 8 GB
+[15:45:50.045] Cloning github.com/devraj24/elp-data-platform (Branch: main, Commit: c49c03d)
+[15:45:50.228] Previous build caches not available
+[15:45:50.696] Cloning completed: 650.000ms
+[15:45:51.040] Running "vercel build"
+[15:45:51.469] Vercel CLI 42.2.0
+[15:45:51.614] WARN! Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
+[15:45:52.143] Installing dependencies...
+[15:45:57.500] npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+[15:45:58.026] npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+[15:45:58.049] npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+[15:46:03.035] 
+[15:46:03.036] added 517 packages in 11s
+[15:46:03.037] 
+[15:46:03.037] 66 packages are looking for funding
+[15:46:03.038]   run `npm fund` for details
+[15:46:03.094] Running "npm run build"
+[15:46:03.208] 
+[15:46:03.208] > elpdata-platform@1.0.0 build
+[15:46:03.209] > cd client && npm run build
+[15:46:03.209] 
+[15:46:03.324] 
+[15:46:03.326] > elpdata-platform@1.0.0 build
+[15:46:03.326] > cd client && npm run build
+[15:46:03.326] 
+[15:46:03.438] 
+[15:46:03.438] > elpdata-platform@1.0.0 build
+[15:46:03.438] > cd client && npm run build
+[15:46:03.438] 
+[15:46:03.552] 
+[15:46:03.553] > elpdata-platform@1.0.0 build
+[15:46:03.553] > cd client && npm run build
+[15:46:03.553] 
+[15:46:03.665] 
+[15:46:03.666] > elpdata-platform@1.0.0 build
+[15:46:03.666] > cd client && npm run build
+[15:46:03.666] 
+[15:46:03.782] 
+[15:46:03.782] > elpdata-platform@1.0.0 build
+[15:46:03.782] > cd client && npm run build
+[15:46:03.782] 
+[15:46:03.896] 
+[15:46:03.896] > elpdata-platform@1.0.0 build
+[15:46:03.896] > cd client && npm run build
+[15:46:03.896] 
+[15:46:04.010] 
+[15:46:04.013] > elpdata-platform@1.0.0 build
+[15:46:04.013] > cd client && npm run build
+[15:46:04.013] 
+[15:46:04.125] 
+[15:46:04.125] > elpdata-platform@1.0.0 build
+[15:46:04.125] > cd client && npm run build
+[15:46:04.125] 
+[15:46:04.238] 
+[15:46:04.238] > elpdata-platform@1.0.0 build
+[15:46:04.238] > cd client && npm run build
+[15:46:04.239] 
+[15:46:04.354] 
+[15:46:04.356] > elpdata-platform@1.0.0 build
+[15:46:04.357] > cd client && npm run build
+[15:46:04.357] 
+[15:46:04.469] 
+[15:46:04.469] > elpdata-platform@1.0.0 build
+[15:46:04.469] > cd client && npm run build
+[15:46:04.469] 
+[15:46:04.585] 
+[15:46:04.585] > elpdata-platform@1.0.0 build
+[15:46:04.585] > cd client && npm run build
+[15:46:04.586] 
+[15:46:04.702] 
+[15:46:04.702] > elpdata-platform@1.0.0 build
+[15:46:04.706] > cd client && npm run build
+[15:46:04.706] 
+[15:46:04.821] 
+[15:46:04.822] > elpdata-platform@1.0.0 build
+[15:46:04.822] > cd client && npm run build
+[15:46:04.822] 
+[15:46:04.941] 
+[15:46:04.941] > elpdata-platform@1.0.0 build
+[15:46:04.941] > cd client && npm run build
+[15:46:04.942] 
+[15:46:05.058] 
+[15:46:05.058] > elpdata-platform@1.0.0 build
+[15:46:05.061] > cd client && npm run build
+[15:46:05.061] 
+[15:46:05.177] 
+[15:46:05.177] > elpdata-platform@1.0.0 build
+[15:46:05.177] > cd client && npm run build
+[15:46:05.177] 
+[15:46:05.306] 
+[15:46:05.306] > elpdata-platform@1.0.0 build
+[15:46:05.306] > cd client && npm run build
+[15:46:05.306] 
+[15:46:05.439] 
+[15:46:05.440] > elpdata-platform@1.0.0 build
+[15:46:05.440] > cd client && npm run build
+[15:46:05.440] 
+[15:46:05.569] 
+[15:46:05.570] > elpdata-platform@1.0.0 build
+[15:46:05.571] > cd client && npm run build
+[15:46:05.571] 
+[15:46:05.699] 
+[15:46:05.699] > elpdata-platform@1.0.0 build
+[15:46:05.699] > cd client && npm run build
+[15:46:05.699] 
+[15:46:05.833] 
+[15:46:05.835] > elpdata-platform@1.0.0 build
+[15:46:05.835] > cd client && npm run build
+[15:46:05.835] 
+[15:46:05.963] 
+[15:46:05.964] > elpdata-platform@1.0.0 build
+[15:46:05.964] > cd client && npm run build
+[15:46:05.964] 
+[15:46:06.098] 
+[15:46:06.098] > elpdata-platform@1.0.0 build
+[15:46:06.099] > cd client && npm run build
+[15:46:06.099] 
+[15:46:06.231] 
+[15:46:06.232] > elpdata-platform@1.0.0 build
+[15:46:06.232] > cd client && npm run build
+[15:46:06.233] 
+[15:46:06.435] 
+[15:46:06.435] > elpdata-platform@1.0.0 build
+[15:46:06.436] > cd client && npm run build
+[15:46:06.437] 
+[15:46:06.613] 
+[15:46:06.613] > elpdata-platform@1.0.0 build
+[15:46:06.613] > cd client && npm run build
+[15:46:06.613] 
+[15:46:06.758] 
+[15:46:06.759] > elpdata-platform@1.0.0 build
+[15:46:06.760] > cd client && npm run build
+[15:46:06.760] 
+[15:46:06.910] 
+[15:46:06.911] > elpdata-platform@1.0.0 build
+[15:46:06.911] > cd client && npm run build
+[15:46:06.911] 
+[15:46:07.056] 
+[15:46:07.058] > elpdata-platform@1.0.0 build
+[15:46:07.058] > cd client && npm run build
+[15:46:07.059] 
+[15:46:07.211] 
+[15:46:07.212] > elpdata-platform@1.0.0 build
+[15:46:07.212] > cd client && npm run build
+[15:46:07.212] 
+[15:46:07.359] 
+[15:46:07.360] > elpdata-platform@1.0.0 build
+[15:46:07.361] > cd client && npm run build
+[15:46:07.361] 
+[15:46:07.507] 
+[15:46:07.508] > elpdata-platform@1.0.0 build
+[15:46:07.508] > cd client && npm run build
+[15:46:07.508] 
+[15:46:07.664] 
+[15:46:07.664] > elpdata-platform@1.0.0 build
+[15:46:07.665] > cd client && npm run build
+[15:46:07.665] 
+[15:46:07.815] 
+[15:46:07.815] > elpdata-platform@1.0.0 build
+[15:46:07.815] > cd client && npm run build
+[15:46:07.816] 
+[15:46:07.958] 
+[15:46:07.959] > elpdata-platform@1.0.0 build
+[15:46:07.960] > cd client && npm run build
+[15:46:07.960] 
+[15:46:08.105] 
+[15:46:08.105] > elpdata-platform@1.0.0 build
+[15:46:08.105] > cd client && npm run build
+[15:46:08.105] 
+[15:46:08.251] 
+[15:46:08.251] > elpdata-platform@1.0.0 build
+[15:46:08.251] > cd client && npm run build
+[15:46:08.252] 
+[15:46:08.393] 
+[15:46:08.394] > elpdata-platform@1.0.0 build
+[15:46:08.394] > cd client && npm run build
+[15:46:08.394] 
+[15:46:08.541] 
+[15:46:08.542] > elpdata-platform@1.0.0 build
+[15:46:08.543] > cd client && npm run build
+[15:46:08.543] 
+[15:46:08.695] 
+[15:46:08.695] > elpdata-platform@1.0.0 build
+[15:46:08.696] > cd client && npm run build
+[15:46:08.696] 
+[15:46:08.846] 
+[15:46:08.846] > elpdata-platform@1.0.0 build
+[15:46:08.846] > cd client && npm run build
+[15:46:08.846] 
+[15:46:09.023] 
+[15:46:09.024] > elpdata-platform@1.0.0 build
+[15:46:09.024] > cd client && npm run build
+[15:46:09.024] 
+[15:46:09.150] 
+[15:46:09.151] > elpdata-platform@1.0.0 build
+[15:46:09.151] > cd client && npm run build
+[15:46:09.151] 
+[15:46:09.282] 
+[15:46:09.283] > elpdata-platform@1.0.0 build
+[15:46:09.283] > cd client && npm run build
+[15:46:09.283] 
+[15:46:09.417] 
+[15:46:09.418] > elpdata-platform@1.0.0 build
+[15:46:09.418] > cd client && npm run build
+[15:46:09.418] 
+[15:46:09.552] 
+[15:46:09.553] > elpdata-platform@1.0.0 build
+[15:46:09.553] > cd client && npm run build
+[15:46:09.553] 
+[15:46:09.700] 
+[15:46:09.700] > elpdata-platform@1.0.0 build
+[15:46:09.700] > cd client && npm run build
+[15:46:09.700] 
+[15:46:09.833] 
+[15:46:09.833] > elpdata-platform@1.0.0 build
+[15:46:09.833] > cd client && npm run build
+[15:46:09.834] 
+[15:46:09.969] 
+[15:46:09.973] > elpdata-platform@1.0.0 build
+[15:46:09.973] > cd client && npm run build
+[15:46:09.973] 
+[15:46:10.106] 
+[15:46:10.106] > elpdata-platform@1.0.0 build
+[15:46:10.107] > cd client && npm run build
+[15:46:10.107] 
+[15:46:10.242] 
+[15:46:10.245] > elpdata-platform@1.0.0 build
+[15:46:10.245] > cd client && npm run build
+[15:46:10.245] 
+[15:46:10.379] 
+[15:46:10.380] > elpdata-platform@1.0.0 build
+[15:46:10.380] > cd client && npm run build
+[15:46:10.380] 
+[15:46:10.515] 
+[15:46:10.517] > elpdata-platform@1.0.0 build
+[15:46:10.517] > cd client && npm run build
+[15:46:10.517] 
+[15:46:10.652] 
+[15:46:10.652] > elpdata-platform@1.0.0 build
+[15:46:10.652] > cd client && npm run build
+[15:46:10.653] 
+[15:46:10.789] 
+[15:46:10.789] > elpdata-platform@1.0.0 build
+[15:46:10.789] > cd client && npm run build
+[15:46:10.790] 
+[15:46:10.930] 
+[15:46:10.931] > elpdata-platform@1.0.0 build
+[15:46:10.931] > cd client && npm run build
+[15:46:10.931] 
+[15:46:11.069] 
+[15:46:11.069] > elpdata-platform@1.0.0 build
+[15:46:11.071] > cd client && npm run build
+[15:46:11.071] 
+[15:46:11.208] 
+[15:46:11.209] > elpdata-platform@1.0.0 build
+[15:46:11.209] > cd client && npm run build
+[15:46:11.209] 
+[15:46:11.355] 
+[15:46:11.355] > elpdata-platform@1.0.0 build
+[15:46:11.356] > cd client && npm run build
+[15:46:11.356] 
+[15:46:11.499] 
+[15:46:11.500] > elpdata-platform@1.0.0 build
+[15:46:11.500] > cd client && npm run build
+[15:46:11.500] 
+[15:46:11.652] 
+[15:46:11.653] > elpdata-platform@1.0.0 build
+[15:46:11.654] > cd client && npm run build
+[15:46:11.654] 
+[15:46:11.796] 
+[15:46:11.796] > elpdata-platform@1.0.0 build
+[15:46:11.796] > cd client && npm run build
+[15:46:11.796] 
+[15:46:11.942] 
+[15:46:11.943] > elpdata-platform@1.0.0 build
+[15:46:11.943] > cd client && npm run build
+[15:46:11.943] 
+[15:46:12.101] 
+[15:46:12.101] > elpdata-platform@1.0.0 build
+[15:46:12.102] > cd client && npm run build
+[15:46:12.102] 
+[15:46:12.248] 
+[15:46:12.250] > elpdata-platform@1.0.0 build
+[15:46:12.250] > cd client && npm run build
+[15:46:12.251] 
+[15:46:12.404] 
+[15:46:12.405] > elpdata-platform@1.0.0 build
+[15:46:12.405] > cd client && npm run build
+[15:46:12.405] 
+[15:46:12.565] 
+[15:46:12.565] > elpdata-platform@1.0.0 build
+[15:46:12.566] > cd client && npm run build
+[15:46:12.566] 
+[15:46:12.726] 
+[15:46:12.727] > elpdata-platform@1.0.0 build
+[15:46:12.727] > cd client && npm run build
+[15:46:12.727] 
+[15:46:12.890] 
+[15:46:12.891] > elpdata-platform@1.0.0 build
+[15:46:12.891] > cd client && npm run build
+[15:46:12.891] 
+[15:46:13.040] 
+[15:46:13.040] > elpdata-platform@1.0.0 build
+[15:46:13.040] > cd client && npm run build
+[15:46:13.041] 
+[15:46:13.194] 
+[15:46:13.194] > elpdata-platform@1.0.0 build
+[15:46:13.194] > cd client && npm run build
+[15:46:13.194] 
+[15:46:13.348] 
+[15:46:13.348] > elpdata-platform@1.0.0 build
+[15:46:13.348] > cd client && npm run build
+[15:46:13.348] 
+[15:46:13.511] 
+[15:46:13.512] > elpdata-platform@1.0.0 build
+[15:46:13.512] > cd client && npm run build
+[15:46:13.513] 
+[15:46:13.669] 
+[15:46:13.669] > elpdata-platform@1.0.0 build
+[15:46:13.669] > cd client && npm run build
+[15:46:13.669] 
+[15:46:13.814] 
+[15:46:13.815] > elpdata-platform@1.0.0 build
+[15:46:13.816] > cd client && npm run build
+[15:46:13.816] 
+[15:46:13.964] 
+[15:46:13.964] > elpdata-platform@1.0.0 build
+[15:46:13.965] > cd client && npm run build
+[15:46:13.965] 
+[15:46:14.110] 
+[15:46:14.110] > elpdata-platform@1.0.0 build
+[15:46:14.111] > cd client && npm run build
+[15:46:14.112] 
+[15:46:14.260] 
+[15:46:14.261] > elpdata-platform@1.0.0 build
+[15:46:14.261] > cd client && npm run build
+[15:46:14.261] 
+[15:46:14.407] 
+[15:46:14.407] > elpdata-platform@1.0.0 build
+[15:46:14.408] > cd client && npm run build
+[15:46:14.408] 
+[15:46:14.555] 
+[15:46:14.555] > elpdata-platform@1.0.0 build
+[15:46:14.555] > cd client && npm run build
+[15:46:14.555] 
+[15:46:14.702] 
+[15:46:14.702] > elpdata-platform@1.0.0 build
+[15:46:14.703] > cd client && npm run build
+[15:46:14.703] 
+[15:46:14.889] 
+[15:46:14.890] > elpdata-platform@1.0.0 build
+[15:46:14.890] > cd client && npm run build
+[15:46:14.890] 
+[15:46:15.037] 
+[15:46:15.039] > elpdata-platform@1.0.0 build
+[15:46:15.039] > cd client && npm run build
+[15:46:15.039] 
+[15:46:15.183] 
+[15:46:15.184] > elpdata-platform@1.0.0 build
+[15:46:15.184] > cd client && npm run build
+[15:46:15.184] 
+[15:46:15.326] 
+[15:46:15.326] > elpdata-platform@1.0.0 build
+[15:46:15.327] > cd client && npm run build
+[15:46:15.327] 
+[15:46:15.514] 
+[15:46:15.514] > elpdata-platform@1.0.0 build
+[15:46:15.515] > cd client && npm run build
+[15:46:15.515] 
+[15:46:15.670] 
+[15:46:15.670] > elpdata-platform@1.0.0 build
+[15:46:15.670] > cd client && npm run build
+[15:46:15.670] 
+[15:46:15.828] 
+[15:46:15.828] > elpdata-platform@1.0.0 build
+[15:46:15.829] > cd client && npm run build
+[15:46:15.829] 
+[15:46:15.982] 
+[15:46:15.984] > elpdata-platform@1.0.0 build
+[15:46:15.985] > cd client && npm run build
+[15:46:15.985] 
+[15:46:16.149] 
+[15:46:16.149] > elpdata-platform@1.0.0 build
+[15:46:16.149] > cd client && npm run build
+[15:46:16.150] 
+[15:46:16.304] 
+[15:46:16.304] > elpdata-platform@1.0.0 build
+[15:46:16.306] > cd client && npm run build
+[15:46:16.306] 
+[15:46:16.466] 
+[15:46:16.467] > elpdata-platform@1.0.0 build
+[15:46:16.467] > cd client && npm run build
+[15:46:16.467] 
+[15:46:16.634] 
+[15:46:16.635] > elpdata-platform@1.0.0 build
+[15:46:16.635] > cd client && npm run build
+[15:46:16.635] 
+[15:46:16.796] 
+[15:46:16.796] > elpdata-platform@1.0.0 build
+[15:46:16.796] > cd client && npm run build
+[15:46:16.797] 
+[15:46:16.963] 
+[15:46:16.963] > elpdata-platform@1.0.0 build
+[15:46:16.964] > cd client && npm run build
+[15:46:16.964] 
+[15:46:17.127] 
+[15:46:17.128] > elpdata-platform@1.0.0 build
+[15:46:17.128] > cd client && npm run build
+[15:46:17.129] 
+[15:46:17.295] 
+[15:46:17.296] > elpdata-platform@1.0.0 build
+[15:46:17.296] > cd client && npm run build
+[15:46:17.296] 
+[15:46:17.457] 
+[15:46:17.458] > elpdata-platform@1.0.0 build
+[15:46:17.458] > cd client && npm run build
+[15:46:17.458] 
+[15:46:17.608] 
+[15:46:17.609] > elpdata-platform@1.0.0 build
+[15:46:17.609] > cd client && npm run build
+[15:46:17.610] 
+[15:46:17.777] 
+[15:46:17.777] > elpdata-platform@1.0.0 build
+[15:46:17.777] > cd client && npm run build
+[15:46:17.777] 
+[15:46:17.937] 
+[15:46:17.938] > elpdata-platform@1.0.0 build
+[15:46:17.938] > cd client && npm run build
+[15:46:17.938] 
+[15:46:18.105] 
+[15:46:18.105] > elpdata-platform@1.0.0 build
+[15:46:18.105] > cd client && npm run build
+[15:46:18.106] 
+[15:46:18.265] 
+[15:46:18.265] > elpdata-platform@1.0.0 build
+[15:46:18.265] > cd client && npm run build
+[15:46:18.265] 
+[15:46:18.428] 
+[15:46:18.429] > elpdata-platform@1.0.0 build
+[15:46:18.429] > cd client && npm run build
+[15:46:18.429] 
+[15:46:18.602] 
+[15:46:18.602] > elpdata-platform@1.0.0 build
+[15:46:18.603] > cd client && npm run build
+[15:46:18.603] 
+[15:46:18.768] 
+[15:46:18.768] > elpdata-platform@1.0.0 build
+[15:46:18.768] > cd client && npm run build
+[15:46:18.768] 
+[15:46:18.942] 
+[15:46:18.943] > elpdata-platform@1.0.0 build
+[15:46:18.943] > cd client && npm run build
+[15:46:18.943] 
+[15:46:19.106] 
+[15:46:19.107] > elpdata-platform@1.0.0 build
+[15:46:19.107] > cd client && npm run build
+[15:46:19.107] 
+[15:46:19.274] 
+[15:46:19.275] > elpdata-platform@1.0.0 build
+[15:46:19.275] > cd client && npm run build
+[15:46:19.276] 
+[15:46:19.442] 
+[15:46:19.442] > elpdata-platform@1.0.0 build
+[15:46:19.442] > cd client && npm run build
+[15:46:19.442] 
+[15:46:19.602] 
+[15:46:19.602] > elpdata-platform@1.0.0 build
+[15:46:19.602] > cd client && npm run build
+[15:46:19.602] 
+[15:46:19.777] 
+[15:46:19.778] > elpdata-platform@1.0.0 build
+[15:46:19.778] > cd client && npm run build
+[15:46:19.779] 
+[15:46:19.940] 
+[15:46:19.941] > elpdata-platform@1.0.0 build
+[15:46:19.941] > cd client && npm run build
+[15:46:19.941] 
+[15:46:20.108] 
+[15:46:20.108] > elpdata-platform@1.0.0 build
+[15:46:20.109] > cd client && npm run build
+[15:46:20.109] 
+[15:46:20.281] 
+[15:46:20.282] > elpdata-platform@1.0.0 build
+[15:46:20.282] > cd client && npm run build
+[15:46:20.282] 
+[15:46:20.441] 
+[15:46:20.441] > elpdata-platform@1.0.0 build
+[15:46:20.441] > cd client && npm run build
+[15:46:20.441] 
+[15:46:20.599] 
+[15:46:20.599] > elpdata-platform@1.0.0 build
+[15:46:20.600] > cd client && npm run build
+[15:46:20.600] 
+[15:46:20.755] 
+[15:46:20.756] > elpdata-platform@1.0.0 build
+[15:46:20.756] > cd client && npm run build
+[15:46:20.756] 
+[15:46:20.923] 
+[15:46:20.923] > elpdata-platform@1.0.0 build
+[15:46:20.924] > cd client && npm run build
+[15:46:20.924] 
+[15:46:21.089] 
+[15:46:21.090] > elpdata-platform@1.0.0 build
+[15:46:21.090] > cd client && npm run build
+[15:46:21.093] 
+[15:46:21.272] 
+[15:46:21.273] > elpdata-platform@1.0.0 build
+[15:46:21.273] > cd client && npm run build
+[15:46:21.273] 
+[15:46:21.441] 
+[15:46:21.442] > elpdata-platform@1.0.0 build
+[15:46:21.442] > cd client && npm run build
+[15:46:21.443] 
+[15:46:21.608] 
+[15:46:21.608] > elpdata-platform@1.0.0 build
+[15:46:21.608] > cd client && npm run build
+[15:46:21.609] 
+[15:46:21.775] 
+[15:46:21.776] > elpdata-platform@1.0.0 build
+[15:46:21.776] > cd client && npm run build
+[15:46:21.776] 
+[15:46:21.948] 
+[15:46:21.948] > elpdata-platform@1.0.0 build
+[15:46:21.948] > cd client && npm run build
+[15:46:21.949] 
+[15:46:22.111] 
+[15:46:22.112] > elpdata-platform@1.0.0 build
+[15:46:22.112] > cd client && npm run build
+[15:46:22.112] 
+[15:46:22.276] 
+[15:46:22.279] > elpdata-platform@1.0.0 build
+[15:46:22.279] > cd client && npm run build
+[15:46:22.279] 
+[15:46:22.438] 
+[15:46:22.438] > elpdata-platform@1.0.0 build
+[15:46:22.438] > cd client && npm run build
+[15:46:22.439] 
+[15:46:22.596] 
+[15:46:22.597] > elpdata-platform@1.0.0 build
+[15:46:22.598] > cd client && npm run build
+[15:46:22.598] 
+[15:46:22.770] 
+[15:46:22.770] > elpdata-platform@1.0.0 build
+[15:46:22.770] > cd client && npm run build
+[15:46:22.770] 
+[15:46:22.936] 
+[15:46:22.936] > elpdata-platform@1.0.0 build
+[15:46:22.936] > cd client && npm run build
+[15:46:22.937] 
+[15:46:23.088] 
+[15:46:23.088] > elpdata-platform@1.0.0 build
+[15:46:23.088] > cd client && npm run build
+[15:46:23.088] 
+[15:46:23.256] 
+[15:46:23.258] > elpdata-platform@1.0.0 build
+[15:46:23.258] > cd client && npm run build
+[15:46:23.258] 
+[15:46:23.421] 
+[15:46:23.422] > elpdata-platform@1.0.0 build
+[15:46:23.422] > cd client && npm run build
+[15:46:23.423] 
+[15:46:23.587] 
+[15:46:23.588] > elpdata-platform@1.0.0 build
+[15:46:23.588] > cd client && npm run build
+[15:46:23.588] 
+[15:46:23.750] 
+[15:46:23.750] > elpdata-platform@1.0.0 build
+[15:46:23.750] > cd client && npm run build
+[15:46:23.750] 
+[15:46:23.923] 
+[15:46:23.923] > elpdata-platform@1.0.0 build
+[15:46:23.924] > cd client && npm run build
+[15:46:23.924] 
+[15:46:24.097] 
+[15:46:24.098] > elpdata-platform@1.0.0 build
+[15:46:24.098] > cd client && npm run build
+[15:46:24.098] 
+[15:46:24.263] 
+[15:46:24.264] > elpdata-platform@1.0.0 build
+[15:46:24.264] > cd client && npm run build
+[15:46:24.264] 
+[15:46:24.440] 
+[15:46:24.441] > elpdata-platform@1.0.0 build
+[15:46:24.441] > cd client && npm run build
+[15:46:24.441] 
+[15:46:24.612] 
+[15:46:24.612] > elpdata-platform@1.0.0 build
+[15:46:24.612] > cd client && npm run build
+[15:46:24.612] 
+[15:46:24.780] 
+[15:46:24.781] > elpdata-platform@1.0.0 build
+[15:46:24.781] > cd client && npm run build
+[15:46:24.781] 
+[15:46:24.961] 
+[15:46:24.961] > elpdata-platform@1.0.0 build
+[15:46:24.961] > cd client && npm run build
+[15:46:24.961] 
+[15:46:25.128] 
+[15:46:25.129] > elpdata-platform@1.0.0 build
+[15:46:25.129] > cd client && npm run build
+[15:46:25.129] 
+[15:46:25.305] 
+[15:46:25.306] > elpdata-platform@1.0.0 build
+[15:46:25.306] > cd client && npm run build
+[15:46:25.306] 
+[15:46:25.475] 
+[15:46:25.476] > elpdata-platform@1.0.0 build
+[15:46:25.476] > cd client && npm run build
+[15:46:25.476] 
+[15:46:25.644] 
+[15:46:25.645] > elpdata-platform@1.0.0 build
+[15:46:25.647] > cd client && npm run build
+[15:46:25.647] 
+[15:46:25.819] 
+[15:46:25.819] > elpdata-platform@1.0.0 build
+[15:46:25.819] > cd client && npm run build
+[15:46:25.819] 
+[15:46:25.996] 
+[15:46:25.996] > elpdata-platform@1.0.0 build
+[15:46:25.997] > cd client && npm run build
+[15:46:25.997] 
+[15:46:26.166] 
+[15:46:26.166] > elpdata-platform@1.0.0 build
+[15:46:26.167] > cd client && npm run build
+[15:46:26.167] 
+[15:46:26.346] 
+[15:46:26.347] > elpdata-platform@1.0.0 build
+[15:46:26.347] > cd client && npm run build
+[15:46:26.347] 
+[15:46:26.519] 
+[15:46:26.520] > elpdata-platform@1.0.0 build
+[15:46:26.520] > cd client && npm run build
+[15:46:26.520] 
+[15:46:26.700] 
+[15:46:26.700] > elpdata-platform@1.0.0 build
+[15:46:26.700] > cd client && npm run build
+[15:46:26.700] 
+[15:46:26.882] 
+[15:46:26.882] > elpdata-platform@1.0.0 build
+[15:46:26.882] > cd client && npm run build
+[15:46:26.883] 
+[15:46:27.052] 
+[15:46:27.054] > elpdata-platform@1.0.0 build
+[15:46:27.054] > cd client && npm run build
+[15:46:27.054] 
+[15:46:27.224] 
+[15:46:27.225] > elpdata-platform@1.0.0 build
+[15:46:27.225] > cd client && npm run build
+[15:46:27.225] 
+[15:46:27.397] 
+[15:46:27.397] > elpdata-platform@1.0.0 build
+[15:46:27.398] > cd client && npm run build
+[15:46:27.398] 
+[15:46:27.569] 
+[15:46:27.570] > elpdata-platform@1.0.0 build
+[15:46:27.570] > cd client && npm run build
+[15:46:27.570] 
+[15:46:27.749] 
+[15:46:27.750] > elpdata-platform@1.0.0 build
+[15:46:27.750] > cd client && npm run build
+[15:46:27.750] 
+[15:46:27.927] 
+[15:46:27.928] > elpdata-platform@1.0.0 build
+[15:46:27.928] > cd client && npm run build
+[15:46:27.928] 
+[15:46:28.098] 
+[15:46:28.098] > elpdata-platform@1.0.0 build
+[15:46:28.098] > cd client && npm run build
+[15:46:28.098] 
+[15:46:28.279] 
+[15:46:28.279] > elpdata-platform@1.0.0 build
+[15:46:28.279] > cd client && npm run build
+[15:46:28.279] 
+[15:46:28.459] 
+[15:46:28.460] > elpdata-platform@1.0.0 build
+[15:46:28.460] > cd client && npm run build
+[15:46:28.460] 
+[15:46:28.631] 
+[15:46:28.633] > elpdata-platform@1.0.0 build
+[15:46:28.633] > cd client && npm run build
+[15:46:28.634] 
+[15:46:28.810] 
+[15:46:28.811] > elpdata-platform@1.0.0 build
+[15:46:28.811] > cd client && npm run build
+[15:46:28.811] 
+[15:46:28.998] 
+[15:46:28.999] > elpdata-platform@1.0.0 build
+[15:46:28.999] > cd client && npm run build
+[15:46:28.999] 
+[15:46:29.170] 
+[15:46:29.171] > elpdata-platform@1.0.0 build
+[15:46:29.171] > cd client && npm run build
+[15:46:29.171] 
+[15:46:29.350] 
+[15:46:29.350] > elpdata-platform@1.0.0 build
+[15:46:29.350] > cd client && npm run build
+[15:46:29.351] 
+[15:46:29.529] 
+[15:46:29.529] > elpdata-platform@1.0.0 build
+[15:46:29.530] > cd client && npm run build
+[15:46:29.530] 
+[15:46:29.708] 
+[15:46:29.708] > elpdata-platform@1.0.0 build
+[15:46:29.708] > cd client && npm run build
+[15:46:29.708] 
+[15:46:29.879] 
+[15:46:29.880] > elpdata-platform@1.0.0 build
+[15:46:29.880] > cd client && npm run build
+[15:46:29.880] 
+[15:46:30.055] 
+[15:46:30.055] > elpdata-platform@1.0.0 build
+[15:46:30.055] > cd client && npm run build
+[15:46:30.055] 
+[15:46:30.229] 
+[15:46:30.229] > elpdata-platform@1.0.0 build
+[15:46:30.229] > cd client && npm run build
+[15:46:30.229] 
+[15:46:30.404] 
+[15:46:30.404] > elpdata-platform@1.0.0 build
+[15:46:30.404] > cd client && npm run build
+[15:46:30.404] 
+[15:46:30.577] 
+[15:46:30.579] > elpdata-platform@1.0.0 build
+[15:46:30.579] > cd client && npm run build
+[15:46:30.579] 
+[15:46:30.753] 
+[15:46:30.754] > elpdata-platform@1.0.0 build
+[15:46:30.754] > cd client && npm run build
+[15:46:30.754] 
+[15:46:30.939] 
+[15:46:30.940] > elpdata-platform@1.0.0 build
+[15:46:30.940] > cd client && npm run build
+[15:46:30.940] 
+[15:46:31.128] 
+[15:46:31.129] > elpdata-platform@1.0.0 build
+[15:46:31.129] > cd client && npm run build
+[15:46:31.129] 
+[15:46:31.312] 
+[15:46:31.312] > elpdata-platform@1.0.0 build
+[15:46:31.312] > cd client && npm run build
+[15:46:31.312] 
+[15:46:31.498] 
+[15:46:31.498] > elpdata-platform@1.0.0 build
+[15:46:31.499] > cd client && npm run build
+[15:46:31.499] 
+[15:46:31.682] 
+[15:46:31.683] > elpdata-platform@1.0.0 build
+[15:46:31.683] > cd client && npm run build
+[15:46:31.683] 
+[15:46:31.865] 
+[15:46:31.865] > elpdata-platform@1.0.0 build
+[15:46:31.866] > cd client && npm run build
+[15:46:31.866] 
+[15:46:32.051] 
+[15:46:32.052] > elpdata-platform@1.0.0 build
+[15:46:32.052] > cd client && npm run build
+[15:46:32.052] 
+[15:46:32.256] 
+[15:46:32.256] > elpdata-platform@1.0.0 build
+[15:46:32.257] > cd client && npm run build
+[15:46:32.257] 
+[15:46:32.439] 
+[15:46:32.439] > elpdata-platform@1.0.0 build
+[15:46:32.439] > cd client && npm run build
+[15:46:32.440] 
+[15:46:32.622] 
+[15:46:32.623] > elpdata-platform@1.0.0 build
+[15:46:32.624] > cd client && npm run build
+[15:46:32.624] 
+[15:46:32.812] 
+[15:46:32.812] > elpdata-platform@1.0.0 build
+[15:46:32.812] > cd client && npm run build
+[15:46:32.812] 
+[15:46:33.002] 
+[15:46:33.003] > elpdata-platform@1.0.0 build
+[15:46:33.003] > cd client && npm run build
+[15:46:33.004] 
+[15:46:33.197] 
+[15:46:33.198] > elpdata-platform@1.0.0 build
+[15:46:33.198] > cd client && npm run build
+[15:46:33.198] 
+[15:46:33.383] 
+[15:46:33.384] > elpdata-platform@1.0.0 build
+[15:46:33.384] > cd client && npm run build
+[15:46:33.384] 
+[15:46:33.570] 
+[15:46:33.571] > elpdata-platform@1.0.0 build
+[15:46:33.572] > cd client && npm run build
+[15:46:33.572] 
+[15:46:33.763] 
+[15:46:33.764] > elpdata-platform@1.0.0 build
+[15:46:33.764] > cd client && npm run build
+[15:46:33.764] 
+[15:46:33.949] 
+[15:46:33.950] > elpdata-platform@1.0.0 build
+[15:46:33.950] > cd client && npm run build
+[15:46:33.950] 
+[15:46:34.147] 
+[15:46:34.148] > elpdata-platform@1.0.0 build
+[15:46:34.148] > cd client && npm run build
+[15:46:34.149] 
+[15:46:34.335] 
+[15:46:34.336] > elpdata-platform@1.0.0 build
+[15:46:34.336] > cd client && npm run build
+[15:46:34.336] 
+[15:46:34.521] 
+[15:46:34.523] > elpdata-platform@1.0.0 build
+[15:46:34.523] > cd client && npm run build
+[15:46:34.524] 
+[15:46:34.725] 
+[15:46:34.725] > elpdata-platform@1.0.0 build
+[15:46:34.725] > cd client && npm run build
+[15:46:34.725] 
+[15:46:35.035] 
+[15:46:35.035] > elpdata-platform@1.0.0 build
+[15:46:35.035] > cd client && npm run build
+[15:46:35.035] 
+[15:46:35.217] 
+[15:46:35.218] > elpdata-platform@1.0.0 build
+[15:46:35.218] > cd client && npm run build
+[15:46:35.219] 
+[15:46:35.398] 
+[15:46:35.400] > elpdata-platform@1.0.0 build
+[15:46:35.400] > cd client && npm run build
+[15:46:35.400] 
+[15:46:35.580] 
+[15:46:35.580] > elpdata-platform@1.0.0 build
+[15:46:35.580] > cd client && npm run build
+[15:46:35.581] 
+[15:46:35.757] 
+[15:46:35.758] > elpdata-platform@1.0.0 build
+[15:46:35.758] > cd client && npm run build
+[15:46:35.758] 
+[15:46:35.944] 
+[15:46:35.944] > elpdata-platform@1.0.0 build
+[15:46:35.944] > cd client && npm run build
+[15:46:35.944] 
+[15:46:36.132] 
+[15:46:36.133] > elpdata-platform@1.0.0 build
+[15:46:36.135] > cd client && npm run build
+[15:46:36.135] 
+[15:46:36.319] 
+[15:46:36.320] > elpdata-platform@1.0.0 build
+[15:46:36.320] > cd client && npm run build
+[15:46:36.320] 
+[15:46:36.516] 
+[15:46:36.517] > elpdata-platform@1.0.0 build
+[15:46:36.517] > cd client && npm run build
+[15:46:36.517] 
+[15:46:36.700] 
+[15:46:36.700] > elpdata-platform@1.0.0 build
+[15:46:36.700] > cd client && npm run build
+[15:46:36.700] 
+[15:46:36.900] 
+[15:46:36.900] > elpdata-platform@1.0.0 build
+[15:46:36.906] > cd client && npm run build
+[15:46:36.906] 
+[15:46:37.090] 
+[15:46:37.091] > elpdata-platform@1.0.0 build
+[15:46:37.091] > cd client && npm run build
+[15:46:37.092] 
+[15:46:37.308] 
+[15:46:37.308] > elpdata-platform@1.0.0 build
+[15:46:37.308] > cd client && npm run build
+[15:46:37.308] 
+[15:46:37.499] 
+[15:46:37.500] > elpdata-platform@1.0.0 build
+[15:46:37.501] > cd client && npm run build
+[15:46:37.501] 
+[15:46:37.693] 
+[15:46:37.694] > elpdata-platform@1.0.0 build
+[15:46:37.695] > cd client && npm run build
+[15:46:37.695] 
+[15:46:37.892] 
+[15:46:37.893] > elpdata-platform@1.0.0 build
+[15:46:37.893] > cd client && npm run build
+[15:46:37.893] 
+[15:46:38.087] 
+[15:46:38.087] > elpdata-platform@1.0.0 build
+[15:46:38.088] > cd client && npm run build
+[15:46:38.088] 
+[15:46:38.281] 
+[15:46:38.281] > elpdata-platform@1.0.0 build
+[15:46:38.281] > cd client && npm run build
+[15:46:38.282] 
+[15:46:38.482] 
+[15:46:38.482] > elpdata-platform@1.0.0 build
+[15:46:38.482] > cd client && npm run build
+[15:46:38.483] 
+[15:46:38.673] 
+[15:46:38.675] > elpdata-platform@1.0.0 build
+[15:46:38.675] > cd client && npm run build
+[15:46:38.676] 
+[15:46:38.885] 
+[15:46:38.886] > elpdata-platform@1.0.0 build
+[15:46:38.886] > cd client && npm run build
+[15:46:38.886] 
+[15:46:39.086] 
+[15:46:39.088] > elpdata-platform@1.0.0 build
+[15:46:39.088] > cd client && npm run build
+[15:46:39.088] 
+[15:46:39.294] 
+[15:46:39.294] > elpdata-platform@1.0.0 build
+[15:46:39.294] > cd client && npm run build
+[15:46:39.295] 
+[15:46:39.491] 
+[15:46:39.491] > elpdata-platform@1.0.0 build
+[15:46:39.491] > cd client && npm run build
+[15:46:39.491] 
+[15:46:39.681] 
+[15:46:39.681] > elpdata-platform@1.0.0 build
+[15:46:39.681] > cd client && npm run build
+[15:46:39.681] 
+[15:46:39.883] 
+[15:46:39.883] > elpdata-platform@1.0.0 build
+[15:46:39.883] > cd client && npm run build
+[15:46:39.883] 
+[15:46:40.083] 
+[15:46:40.083] > elpdata-platform@1.0.0 build
+[15:46:40.083] > cd client && npm run build
+[15:46:40.084] 
+[15:46:40.280] 
+[15:46:40.281] > elpdata-platform@1.0.0 build
+[15:46:40.281] > cd client && npm run build
+[15:46:40.281] 
+[15:46:40.474] 
+[15:46:40.474] > elpdata-platform@1.0.0 build
+[15:46:40.475] > cd client && npm run build
+[15:46:40.475] 
+[15:46:40.671] 
+[15:46:40.671] > elpdata-platform@1.0.0 build
+[15:46:40.672] > cd client && npm run build
+[15:46:40.672] 
+[15:46:40.888] 
+[15:46:40.888] > elpdata-platform@1.0.0 build
+[15:46:40.889] > cd client && npm run build
+[15:46:40.889] 
+[15:46:41.088] 
+[15:46:41.089] > elpdata-platform@1.0.0 build
+[15:46:41.089] > cd client && npm run build
+[15:46:41.089] 
+[15:46:41.282] 
+[15:46:41.283] > elpdata-platform@1.0.0 build
+[15:46:41.283] > cd client && npm run build
+[15:46:41.283] 
+[15:46:41.483] 
+[15:46:41.484] > elpdata-platform@1.0.0 build
+[15:46:41.484] > cd client && npm run build
+[15:46:41.484] 
+[15:46:41.683] 
+[15:46:41.684] > elpdata-platform@1.0.0 build
+[15:46:41.685] > cd client && npm run build
+[15:46:41.685] 
+[15:46:41.879] 
+[15:46:41.879] > elpdata-platform@1.0.0 build
+[15:46:41.880] > cd client && npm run build
+[15:46:41.880] 
+[15:46:42.078] 
+[15:46:42.079] > elpdata-platform@1.0.0 build
+[15:46:42.083] > cd client && npm run build
+[15:46:42.083] 
+[15:46:42.278] 
+[15:46:42.279] > elpdata-platform@1.0.0 build
+[15:46:42.279] > cd client && npm run build
+[15:46:42.279] 

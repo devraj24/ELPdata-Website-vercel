@@ -1,0 +1,218 @@
+/* Data Tables Styling */
+.tech-data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 14px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.tech-data-table thead {
+    background: linear-gradient(135deg, #2c5282, #1a365d);
+    color: white;
+}
+
+.tech-data-table th {
+    padding: 15px 10px;
+    text-align: left;
+    font-weight: 600;
+    position: relative;
+}
+
+.tech-data-table tbody tr {
+    border-bottom: 1px solid #e2e8f0;
+    transition: all 0.2s ease;
+}
+
+.tech-data-table tbody tr:hover {
+    background-color: #f8fafc;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.tech-data-table tbody tr:last-child {
+    border-bottom: none;
+}
+
+.tech-data-table td {
+    padding: 12px 10px;
+    color: #4a5568;
+}
+
+.tech-data-table .company-count {
+    font-weight: 600;
+    color: #2c5282;
+    text-align: right;
+}
+
+.tech-data-container {
+    margin: 40px 0;
+    padding: 30px;
+    background-color: #f8fafc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.tech-data-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.tech-data-tab {
+    padding: 12px 20px;
+    margin-right: 5px;
+    margin-bottom: -1px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.tech-data-tab.active {
+    border: 1px solid #e2e8f0;
+    border-bottom: 1px solid white;
+    background-color: white;
+    color: #2c5282;
+}
+
+.tech-data-tab:hover:not(.active) {
+    background-color: #edf2f7;
+}
+
+.tech-data-content {
+    display: none;
+    padding: 20px;
+    background-color: white;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.tech-data-content.active {
+    display: block;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.tech-data-title {
+    margin-bottom: 20px;
+    color: #2d3748;
+    font-size: 24px;
+}
+
+.tech-data-description {
+    margin-bottom: 25px;
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+.data-highlight {
+    background-color: #ebf8ff;
+    border-left: 4px solid #3182ce;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.data-highlight p {
+    margin: 0;
+    color: #2c5282;
+}
+
+.tech-data-image {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.tech-data-image img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.tech-data-image img:hover {
+    transform: scale(1.02);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .tech-data-tab {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    
+    .tech-data-container {
+        padding: 20px 15px;
+    }
+    
+    .tech-data-table {
+        font-size: 13px;
+    }
+    
+    .tech-data-table th,
+    .tech-data-table td {
+        padding: 10px 8px;
+    }
+}
+
+/* Table pagination */
+.table-pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination-button {
+    padding: 8px 15px;
+    margin: 0 5px;
+    border: 1px solid #e2e8f0;
+    background-color: white;
+    color: #4a5568;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.pagination-button:hover {
+    background-color: #edf2f7;
+}
+
+.pagination-button.active {
+    background-color: #2c5282;
+    color: white;
+    border-color: #2c5282;
+}
+
+.pagination-button.disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Table search */
+.table-search {
+    margin-bottom: 20px;
+}
+
+.table-search input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.table-search input:focus {
+    outline: none;
+    border-color: #3182ce;
+    box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.1);
+}

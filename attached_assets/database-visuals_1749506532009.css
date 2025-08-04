@@ -1,0 +1,354 @@
+/* Database Icons and Visualization Styles */
+.db-icon {
+    width: 64px;
+    height: 64px;
+    background-color: #f8f9fa;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.db-icon img {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.db-icon:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.db-visualization {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 25px;
+    margin: 30px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.db-visualization:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6px;
+    height: 100%;
+    background: linear-gradient(to bottom, #C74634, #3A4F66);
+}
+
+.db-visualization-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 15px;
+}
+
+.db-visualization-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.db-stat-card {
+    flex: 1 1 200px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.db-stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.db-stat-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #C74634;
+    margin-bottom: 10px;
+}
+
+.db-stat-label {
+    font-size: 0.9rem;
+    color: #4a5568;
+    font-weight: 500;
+}
+
+.db-chart-container {
+    width: 100%;
+    height: 400px;
+    margin: 30px 0;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    position: relative;
+}
+
+.db-chart-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Database Feature Grid */
+.db-feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin: 40px 0;
+}
+
+.db-feature-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 25px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.db-feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.db-feature-card:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(to right, #C74634, #3A4F66);
+}
+
+.db-feature-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #ebf8ff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: #3A4F66;
+    font-size: 1.5rem;
+}
+
+.db-feature-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2d3748;
+    margin-bottom: 15px;
+}
+
+.db-feature-description {
+    color: #4a5568;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Database Comparison Table */
+.db-comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.db-comparison-table th {
+    background-color: #3A4F66;
+    color: white;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.db-comparison-table td {
+    padding: 15px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.db-comparison-table tr:last-child td {
+    border-bottom: none;
+}
+
+.db-comparison-table tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.db-comparison-table tr:hover {
+    background-color: #ebf8ff;
+}
+
+.db-comparison-feature {
+    font-weight: 500;
+    color: #2d3748;
+}
+
+.db-comparison-check {
+    color: #48bb78;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.db-comparison-x {
+    color: #e53e3e;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+/* Database Hero Section */
+.db-hero {
+    background: linear-gradient(135deg, #3A4F66, #1B75BC);
+    color: white;
+    padding: 60px 0;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+    border-radius: 8px;
+}
+
+.db-hero:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../images/hero-pattern.svg');
+    background-size: cover;
+    opacity: 0.1;
+}
+
+.db-hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.db-hero-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    color: white;
+}
+
+.db-hero-description {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.db-hero-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+/* Database Testimonial */
+.db-testimonial {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 30px;
+    margin: 40px 0;
+    position: relative;
+}
+
+.db-testimonial-quote {
+    font-size: 1.125rem;
+    font-style: italic;
+    color: #4a5568;
+    margin-bottom: 20px;
+    line-height: 1.7;
+}
+
+.db-testimonial-quote:before {
+    content: '"';
+    font-size: 4rem;
+    color: #e2e8f0;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    line-height: 1;
+    z-index: 0;
+}
+
+.db-testimonial-author {
+    display: flex;
+    align-items: center;
+}
+
+.db-testimonial-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+.db-testimonial-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.db-testimonial-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.db-testimonial-name {
+    font-weight: 600;
+    color: #2d3748;
+}
+
+.db-testimonial-position {
+    font-size: 0.875rem;
+    color: #718096;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .db-hero-title {
+        font-size: 2rem;
+    }
+    
+    .db-hero-description {
+        font-size: 1.125rem;
+    }
+    
+    .db-hero-buttons {
+        flex-direction: column;
+    }
+    
+    .db-feature-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .db-visualization-content {
+        flex-direction: column;
+    }
+    
+    .db-stat-card {
+        flex: 1 1 100%;
+    }
+}

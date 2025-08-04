@@ -1,0 +1,374 @@
+ABAP
+Badgeville
+Clicktools
+Datahug
+Gigya Share Bar
+KXEN
+LeadRocket
+Litmos
+mySAP ERP
+OpTier Always-on APM
+OrientDB
+Plateau LMS
+Procuri
+Review Ninja
+RISE with SAP
+SAP (Unspecified Product)
+SAP 3D Visual Enterprise
+SAP 4.7c
+SAP ABAP Objects
+SAP Access Control
+SAP Account Substantiation and Automation by BlackLine
+SAP Accounts Payable and Receivable
+SAP Accounts Payable Process Automation
+SAP Adaptive Server Enterprise
+SAP Advanced Planning and Optimization (APO)
+SAP Advanced Track and Trace
+SAP Afaria
+SAP AMS
+SAP Analytics Cloud
+SAP AppGyver
+SAP Ariba
+SAP Ariba APIs
+SAP Ariba Buying
+SAP Ariba Buying and Invoicing
+SAP Ariba Catalog
+SAP Ariba Cloud Integration Gateway
+SAP Ariba Contract Invoicing
+SAP Ariba Contract Management
+SAP Ariba Contracts
+SAP Ariba Discount Management
+SAP Ariba Discovery
+SAP Ariba Integration
+SAP Ariba Invoice Management
+SAP Ariba Payables
+SAP Ariba Platform
+SAP Ariba Procurement Mobile App
+SAP Ariba Snap
+SAP Ariba Sourcing
+SAP Ariba Sourcing, Savings and Pipeline Tracking
+SAP Ariba Spend Analysis
+SAP Ariba Spend Management
+SAP Ariba Spend Visibility
+SAP Ariba Start Sourcing
+SAP Ariba Strategic Sourcing Suite
+SAP Ariba Supplier Enablement Service
+SAP Ariba Supplier Lifecycle and Performance
+SAP Ariba Supplier Risk
+SAP Asset Accounting (AA)
+SAP Asset Intelligence Network
+SAP Asset Management
+SAP Asset Performance Management
+SAP Asset Strategy and Performance Management
+SAP Audit Management
+SAP Automotive Industry Solutions
+SAP Bank Analyzer
+SAP Banking Industry Solutions
+SAP Basis
+SAP BCM
+SAP Billing and Revenue Innovation Management
+SAP Build
+SAP Build Process Automation
+SAP Business All In One
+SAP Business ByDesign
+SAP Business Network
+SAP Business Network Supply Chain Collaboration
+SAP Business One
+SAP Business Planning and Consolidation (SAP BPC)
+SAP Business Role Management (BRM)
+SAP Business Suite
+SAP Business Technology Platform
+SAP Business Warehouse (BW)
+SAP Business Workflow
+SAP BusinessObjects Business Intelligence
+SAP BusinessObjects Business Intelligence Suite
+SAP BusinessObjects Dashboards
+SAP BusinessObjects Design Studio
+SAP BusinessObjects Explorer
+SAP BusinessObjects Web Intelligence
+SAP BW/4HANA
+SAP C/4 HANA
+SAP Carbon Impact
+SAP Cargo, Transportation & Logistics
+SAP Cash Management
+SAP Central Finance
+SAP Chemicals Industry Solution
+SAP Cloud Appliance Library
+SAP Cloud for Customer (C4C)
+SAP Cloud for Travel and Expense
+SAP Cloud Platform
+SAP Cloud Platform Integration
+SAP CO-PA Accelerator
+SAP Collections and Dispute Management
+SAP Commerce Cloud
+SAP Commerce Cloud Product Content Management
+SAP Commercial Project Management
+SAP Commissions
+SAP Commodity Management
+SAP Configure, Price and Quote
+SAP Consumer Products
+SAP Contact Center
+SAP Contract Lifecycle Management (CLM)
+SAP Controlling (CO)
+SAP Convergent Charging (CC)
+SAP Conversational AI
+SAP Credit Management
+SAP CRM
+SAP Crystal Dashboard
+SAP Crystal Presentation Design
+SAP Crystal Reports
+SAP Crystal Server
+SAP Crystal Solutions
+SAP Customer Activity Repository (CAR)
+SAP Customer Care and Service (CCS)
+SAP Customer Checkout (POS)
+SAP Customer Data Cloud
+SAP Customer Data Platform
+SAP Customer Interaction Center (CIC)
+SAP Data Hub
+SAP Data Intelligence Cloud
+SAP Data Maintenance for ERP by Vistex
+SAP Data Migration
+SAP Data Quality Management
+SAP Data Services
+SAP Data Warehousing
+SAP Datasphere
+SAP Demand Signal Management
+SAP Digital Boardroom
+SAP Digital CRM
+SAP Direct Store Delivery
+SAP Document Management
+SAP E-Recruiting
+SAP eCATT
+SAP ECC EHP 6
+SAP ECC EHP 7
+SAP ECC EHP 8
+SAP ECTR
+SAP Edge Services
+SAP Emarsys Customer Engagement
+SAP Emergency Access Management (EAM)
+SAP Enable Now
+SAP Enhancement Packages (EHPs)
+SAP Enterprise Asset Management (EAM)
+SAP Enterprise Inventory and Service-Level Optimization
+SAP Enterprise Learning
+SAP Enterprise Performance Management
+SAP Enterprise Threat Detection
+SAP Environment, Health, and Safety Management
+SAP Equipment & Tools Management
+SAP ERP
+SAP ERP Central Component (ECC)
+SAP ERP Central Component (ECC) 5.0
+SAP ERP Central Component (ECC) 6.0
+SAP ERP Financials
+SAP ERP Human Capital Management (HCM)
+SAP Event Management
+SAP Extended ECM (xECM)
+SAP Extended Warehouse Management
+SAP Extension Suite
+SAP Fashion Management
+SAP Field Service
+SAP Fieldglass
+SAP Financial Accounting (FI)
+SAP Financial Closing Cockpit
+SAP Financial Consolidation
+SAP Financial Management
+SAP Financial Supply Chain Management (FSCM)
+SAP Fiori
+SAP Floorplan Manager
+SAP for Aerospace and Defense
+SAP for Apparel & Footwear (AFS)
+SAP for Engineering, Construction, and Operations
+SAP for Healthcare
+SAP for Insurance
+SAP for Media
+SAP for Mill Products
+SAP for Mining
+SAP for Oil & Gas (IS Oil & Gas)
+SAP for Public Sector
+SAP for Retail (ISR)
+SAP for Utilities
+SAP Fraud Management
+SAP Funds Management (FM)
+SAP Gateway
+SAP General Ledger Accounting (FI-GL)
+SAP Global Trade Services
+SAP GRC
+SAP GRC Access Control (GRC-SAC)
+SAP GUI
+SAP Guided Buying
+SAP HANA
+SAP HANA Enterprise Cloud
+SAP HANA Live
+SAP HANA One
+SAP HANA Tailored DataCenter Integration (TDI)
+SAP High Tech Industry Solutions
+SAP Higher Education and Research
+SAP Human Capital Management
+SAP Hybris
+SAP Hybris B2B Commerce
+SAP Hybris B2C Commerce
+SAP Hybris Cloud for Customer
+SAP Hybris Products for Marketing
+SAP Hybris Sales Cloud
+SAP Hybris Social Engagement Cloud
+SAP Identity Management
+SAP Information Steward
+SAP Innovation Management
+SAP Integrated Business Planning
+SAP Integration Suite
+SAP Intelligent Technologies
+SAP Interaction Center
+SAP Intercompany Financial Hub
+SAP Internet Demonstration and Evaluation System
+SAP Inventory Collaboration Hub (ICH)
+SAP Inventory Management
+SAP Investment Management
+SAP Invoice Management by OpenText
+SAP IQ
+SAP IS Media
+SAP IS-Banking
+SAP Jam Collaboration
+SAP Job Scheduling Service
+SAP Landscape Management
+SAP Landscape Transformation Replication Server
+SAP Learning Hub
+SAP Leasing
+SAP Leonardo
+SAP Leonardo Machine Learning Foundation
+SAP Linear Asset Management
+SAP liveCache
+SAP Loans Management
+SAP Logistics Execution
+SAP Lumira
+SAP Manager Self-Service (MSS)
+SAP Manufacturing Execution
+SAP Manufacturing Integration and Intelligence
+SAP Marketing Cloud
+SAP Master Data Governance
+SAP Material Requirement Planning (MRP)
+SAP Materials Management
+SAP Mobile Platform
+SAP NetWeaver
+SAP NetWeaver Master Data Management
+SAP NetWeaver Portal
+SAP Omnichannel Banking
+SAP Omnichannel Promotional Pricing
+SAP Operational Process Intelligence
+SAP Order to Cash (OTC)
+SAP Partner Management
+SAP Payment Engine
+SAP Personnel Development
+SAP Plan-to-Product
+SAP Plant Connectivity
+SAP Plant Maintenance
+SAP Policy Management
+SAP Portfolio and Project Management
+SAP POS Data Management
+SAP PowerBuilder
+SAP PowerDesigner
+SAP Predictive Analytics
+SAP Price and Margin Management (PMM)
+SAP Process Control
+SAP Process Orchestration
+SAP Procurement
+SAP Product Data Management (PDM)
+SAP Product Development and Manufacturing
+SAP Product Lifecycle Management
+SAP Production Planning
+SAP Profitability Analysis (PA)
+SAP Profitability and Performance Management
+SAP Project System
+SAP Promotion Management for Retail (PMR)
+SAP PY
+SAP Quality Issue Management
+SAP Quality Management
+SAP Qualtrics Employee Engagement
+SAP R/2
+SAP R/3
+SAP Rapid Marts
+SAP REACH Compliance
+SAP Real Estate Management
+SAP Recycling Administration
+SAP Reinsurance Management (FS-RI)
+SAP Replication Server
+SAP Revenue Accounting and Reporting (RAR)
+SAP Risk Management
+SAP Roambi
+SAP Ruum
+SAP S/4HANA
+SAP S/4HANA Cloud
+SAP S/4HANA On-Premise Edition
+SAP Sales
+SAP Sales & Distribution (SD)
+SAP Sales & Operations Planning (SOP)
+SAP Sales Cloud
+SAP Sales Order Management
+SAP SD
+SAP Service Cloud
+SAP Service Parts Management
+SAP Service Parts Planning (SPP)
+SAP Solution Manager
+SAP Sourcing
+SAP Spartacus
+SAP Spend Management
+SAP Spot Buy
+SAP SQL Anywhere
+SAP Strategic Enterprise Management (SEM)
+SAP Strategy Management
+SAP StreamWork
+SAP Subscription Billing
+SAP SuccessFactors
+SAP SuccessFactors Business Execution Suite
+SAP SuccessFactors Compensation
+SAP SuccessFactors Employee Central
+SAP SuccessFactors Employee Central Payroll
+SAP SuccessFactors HXM Suite
+SAP SuccessFactors Learning
+SAP SuccessFactors Onboarding
+SAP SuccessFactors Performance & Goals
+SAP SuccessFactors Recruiting
+SAP SuccessFactors Workforce Analytics
+SAP Supplier Management
+SAP Supplier Relationship Management
+SAP Supply Chain Management (SCM)
+SAP Supply Network Collaboration (SNC)
+SAP Supply Network Planning (SNP)
+SAP Sustainability
+SAP Sybase Datawindow.net
+SAP Sybase EAServer
+SAP Sybase InfoMaker
+SAP Sybase mCommerce
+SAP Sybase Mirror Activator
+SAP Sybase OpenSwitch
+SAP Sybase RAP
+SAP Systems Management
+SAP Tax Compliance
+SAP Territory and Quota
+SAP Test Accelerator & Optimizer (TAO)
+SAP Test Data Migration Server (TDMS)
+SAP Time and Attendance Management
+SAP Trade Promotion Management
+SAP Transactional Banking for SAP S/4HANA
+SAP Transactionware General Merchandise (TGM)
+SAP Transportation Management (TM)
+SAP Transportation Planning/Vehicle Scheduling (TP/VS)
+SAP Travel Management
+SAP Treasury and Risk Management
+SAP User Experience Monitoring (UXMon)
+SAP Utility Customer E-Services (UCES)
+SAP Variant Configuration
+SAP Vehicle Management System
+SAP Virsa Compliance Calibrator
+SAP Virsa FireFighter
+SAP Virsa Role Expert
+SAP Vora
+SAP Warehouse Management
+SAP Warranty and Claim Management
+SAP Web Application Server
+SAP Work Clearance Management
+SAP Work Manager
+SAP Workforce Forecasting and Scheduling
+SAP Workforce Management (WFM)
+SAP Working Capital Management
+SeeWhy

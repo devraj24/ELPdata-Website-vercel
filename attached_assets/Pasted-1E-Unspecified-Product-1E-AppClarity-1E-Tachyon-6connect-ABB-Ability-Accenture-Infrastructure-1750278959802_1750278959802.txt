@@ -1,0 +1,502 @@
+1E (Unspecified Product)
+1E AppClarity
+1E Tachyon
+6connect
+ABB Ability
+Accenture Infrastructure Services
+Actian DataCloud
+Active IQ Unified Manager
+Adobe Acrobat Sign
+AetherPal
+Akamai (Unspecified Product)
+Akamai Global Traffic Manager
+Akamai Media Services Live
+Alibaba Cloud
+Alibaba DataWorks
+Alkira
+Alluxio
+Alteryx Machine Learning Cloud
+Altiris Inventory Solution
+Amazon CloudSearch
+Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+AmberPoint
+Apache Ignite
+Apple Business Manager
+Apple Device Enrollment Program
+Apptio Cost Transparency
+ArcSight Recon
+Aternity Digital Experience Management
+Atos (Unspecified Product)
+ATTO Celerity
+Automic Continuous Delivery Automation
+Avocent
+Avolution
+AWS Command Line Interface
+AWS Glue Data Catalog
+AWS Nitro Enclaves
+AWS Organizations
+AWS Outposts
+AWS Step Functions
+AWS X-Ray
+Axence
+Azure App Configuration
+Azure App Service
+Azure Bastion
+Azure Blueprints
+Azure Cloud Shell
+Azure Cost Management
+Azure CycleCloud
+Azure Data Science Virtual Machines
+Azure Dedicated HSM
+Azure DevTest Labs
+Azure ExpressRoute
+Azure Functions
+Azure HDInsight
+Azure Linux Virtual Machines
+Azure Log Analytics
+Azure Migrate
+Azure Monitor
+Azure Pipelines
+Azure Policy
+Azure Portal
+Azure Service Fabric
+Azure Service Health
+Azure Stack Edge
+Azure Stack Hub
+Azure Stream Analytics
+Azure Virtual WAN
+Azure VMware Solution
+Azure Web App for Containers
+Bandwidth
+BelManage
+BitTitan
+Black Duck Binary Analysis
+Blue Prism Cloud
+BlueConic
+Bluelock
+BMC Capacity Management
+BMC Client Management
+BMC ULTRAOPT
+BOSS Support Central
+BOSSDesk
+Box Drive
+Box Sync
+Braincube
+Broadcom CA
+Broadcom Compliance Event Manager
+Broadcom DX Unified Infrastructure Management
+Broadcom MICS Resource Management
+Broadcom OPS/MVS
+BT Cloud Compute
+BuySafe
+Bytware
+CA Asset Portfolio Management
+CA Bundl
+CA Copycat Utility
+CA Datacenter Infrastructure Management
+CA eHealth
+CA Endevor
+CA InfoRefiner
+CA JARS
+CA Remote Console
+CA Server Automation
+CA Spool
+Canonical Kubernetes
+Capgemini
+Capistrano
+CAST
+Cato Networks
+CATSWeb
+Censys
+Checkmk
+Cisco Container Platform
+Cisco Intersight
+Cisco newScale
+Cisco SCE 8000
+Cisco Software-Defined Access
+Cisco UCS Manager
+Clarity CCA
+CloneDeploy
+CloudAware
+CloudBees CD
+CloudBlue
+Cloudera SDX
+Cloudify
+CloudIQ
+Cloudistics
+Cloudprober
+Cohesity (Unspecified Product)
+CommScope iTRACS
+Configuresoft
+Confluent Cloud
+Cormant-CS
+CyrusOne
+Dagster
+Data Foundry
+Data Virtuality
+Datadog Integrations
+Dataloop
+DataPipe Hosting
+DD-WRT
+Delinea Privilege Manager
+Dell EMC Control Center
+Dell EMC HomeBase
+Dell EMC Open Migrator/LM
+Dell EMC PowerProtect DD
+Dell EMC VPLEX
+Dell OpenManage
+Device42
+Devo
+Digital Realty
+Digitate
+DiskStation Manager
+DX Infrastructure Manager
+DymaxIO
+Dynamsoft SourceAnywhere
+Earthlink
+Ecora
+Ecritel
+EdgeFrontier
+eG Enterprise
+Ekahau
+Elastic Cloud on Kubernetes
+Electric Cloud
+Ensighten Manage
+Ensono
+Epsagon
+Equinix Fabric
+Equinix International Business Exchange (IBX) data centers
+ESP Workload Automation Intelligence
+Extreme Networks (Unspecified Product)
+FileWave
+Firebolt
+Fiserv Sentry Cybersecurity
+FlashStack
+Flexera (Unspecified Product)
+FNT Command
+Forcepoint TRITON
+Fortinet FortiWAN
+FortiSIEM
+Fujitsu Systemwalker
+Gaia
+Geist
+Giant Swarm
+GigaSpaces
+Global Switch
+Globalscape
+Google Cloud Connect
+Google Cloud Data Fusion
+Google Cloud VMware Engine (GCVE)
+Google Cloud Workflows
+Google Public DNS
+H3C
+HashiCorp Terraform
+Heroix
+Hitachi JP1
+HPE Aperture VISTA
+HPE Composable Fabric
+HPE Edgeline Converged Edge Systems
+HPE FlexNetwork Architecture
+HPE HCIS
+HPE Integrity Nonstop
+HPE Intelligent Management Center
+HPE Nimble Storage All Flash Arrays
+HPE NonStop Systems
+HPE OneView
+HPE ProCurve Manager Plus
+HPE ProLiant
+HPE ProLiant BL Blade Servers
+HPE ProLiant BL460c
+HPE Serviceguard
+HPE Synergy
+Hyland Capture
+IBM Business Automation Workflow
+IBM Cloud Kubernetes Service
+IBM Databand
+IBM DataPower Gateway
+IBM Engineering Requirements Management DOORS Next
+IBM Hybrid Cloud
+IBM Impact Server
+IBM Information Management System
+IBM InfoSphere Identity Insight
+IBM InfoSphere Information Server
+IBM Power System AC922
+IBM SMP/E
+IBM Sterling Control Center
+IBM Tivoli Monitoring
+IBM Tivoli Netcool/Reporter
+IBM Tivoli Output Manager
+IBM Tivoli Provisioning Manager
+IBM Tivoli Service Automation Manager
+IBM VersaStack
+IBM Watson Knowledge Catalog
+IBM WebSphere Application Server
+IBM WebSphere Data Interchange
+IBM WebSphere eXtreme Scale
+IBM z/OS Data Set Mobility Facility
+iBwave Design
+iMail Server
+Intel DCM
+IntelliFlash
+InterSystems IRIS
+Interxion
+Ionix
+ITRS Geneos
+Ivanti Neurons for Discovery
+JBoss Enterprise Application Platform
+Jelastic
+Jira Service Management
+Joyent
+Joyent Hosting
+KeyServer
+Kong Enterprise
+Kyndryl (Unspecified Product)
+Lenovo (Unspecified Product)
+Lenovo XClarity
+LexisNexis SmartLinx
+Linoma Software
+Logicalis
+LogMeIn Central
+Lumen Cloud Application Manager
+Lumen Colocation
+Lumen Vyvx
+M3COM IaaS
+MacStadium
+ManageEngine AssetExplorer
+Maxta
+Micro Focus Business Service Automation (BSA)
+Micro Focus iFolder
+Micro Focus StormRunner
+Microsoft 365 E3
+Microsoft Azure
+Microsoft Data Platform
+Microsoft Dynamics 365 for Talent
+Microsoft Office 365 E1
+Microsoft Office 365 E3
+Microsoft System Center
+Microsoft Windows Workflow Foundation
+MigrationWiz
+Mijnwebwinkel
+MinIO
+Monitis
+MooseFS
+Morpheus
+Motadata
+MOVEit Automation
+MxToolbox Delivery Center
+N3K
+NATS
+NaturalONE
+NEAR
+NetApp FlexCache
+NetApp SnapLock
+Netflix Eureka
+Netflix Zuul
+NetIQ Aegis
+Netmagic Solutions
+Netreo
+NetScaler
+NetScout (Unspecified Product)
+Netspan
+NetZoom
+New Generation Software
+Next4biz
+Nlyte (Unspecified Product)
+Nlyte DCIM
+Novell Data Synchronizer
+Novetta
+Now Platform
+Ntirety
+Numara
+Nutanix Enterprise Cloud
+Nutanix HCI
+Nutanix Karbon
+Nutanix Prism
+Nutanix Prism Pro
+Nutanix Xi Cloud Services
+Nutanix Xi Epoch
+NVIDIA BlueField
+NVIDIA Tesla P100 GPU
+NVIDIA Tesla V100 GPU
+OnApp
+OnCommand Insight
+Onehub
+Oomnitza
+Open Policy Agent
+Open Service Broker API
+Open vSwitch
+OpenAPI
+OpenData
+OpenIO
+OpenSCAP
+OpenTelemetry
+OpenText BizConnect
+OpenText Contivo
+OpenText Cordys
+OpenText Covisint Connect
+OpenText Fax2Mail
+OpenText File Reporter
+OpenText Information Exchange
+OpenText Lens
+OpenText TrustedLink
+OpenText ZENworks Linux Management
+Oracle Analytics Cloud
+Oracle Business Analytics
+Oracle Cloud Infrastructure FastConnect
+Oracle Cloud Platform
+Oracle Communications MetaSolv Solution
+Oracle Data Catalog
+Oracle Depot Repair
+Oracle Enterprise GRC
+Oracle Enterprise Manager
+Oracle Enterprise Pack for Eclipse
+Oracle Fusion Cloud Procurement
+Oracle Fusion Governance, Risk, and Compliance
+Oracle IaaS
+Oracle Java Cloud Service
+Oracle Net Services
+Oracle Partitioning
+Oracle Rdb
+Oracle Real User Experience Insight
+Oracle Scripting
+Oracle Siebel Campaign Management and Dialogue Manager
+Oracle Siebel Remote and Mobile Web Client
+Oracle Siebel Warranty
+Oracle Siebel Wireless
+Oracle SQL Developer Data Modeler
+Oracle Unity
+Papertrail
+Pimcore
+Pluribus (Unspecified Product)
+Polygon (Unspecified Product)
+Portus
+Progress Chef
+Prosci
+Proxmox VE
+QTS Data Center Solutions
+Quest Archive Manager
+Rackspace (Unspecified Product)
+Rackspace Data Center Colocation
+Rackwise DCiM X
+Raritan
+Red Flag
+Red Hat Ansible
+Red Hat Insights
+Red Hat OpenStack
+Redgate SQL Monitor
+REI Systems
+Rescale
+RFID Global Solution
+Rimini Street
+Robot Monitor
+Rocket Software (Unspecified Product)
+RSA Access Manager
+SAI360
+Sakura Internet
+Sangfor HCI
+SAP 4.7c
+SAP Basis
+SAP Business Suite
+SAP Conversational AI
+SAP HANA Tailored DataCenter Integration (TDI)
+SAP Intelligent Technologies
+SAP Landscape Transformation Replication Server
+SAP NetWeaver
+SAP NetWeaver Portal
+SAP on Google Cloud
+SAP Quality Management
+SAP Solution Manager
+SAP Sybase OpenSwitch
+SAP Virsa FireFighter
+SAP Work Manager
+SAS Enterprise Guide
+SAS/SHARE
+Savvis
+Seasoft
+SecureCRT
+Sematext
+Sensu
+ServiceNow IT Operations Management (ITOM)
+ServiceNow IT Service Management (ITSM)
+Siebel HelpDesk
+SingleHop
+SkyKick
+SL1
+SmartDeploy
+Snow License Manager
+Softchoice
+SonarCloud
+SOTI (Unspecified Product)
+Sourcegear Vault
+Specops Deploy
+Spiceworks
+Spigit
+Splunk Observability
+Splunk On-Call
+Spot.io
+StackPath
+SteelCentral NetIM
+Stensul
+Stibo Systems STEP
+StruxureWare
+Subsystem Analyzer for Db2 for z/OS
+Sunbird DCIM
+Sunbird dcTrack
+SureMDM
+Synopsys Design Compiler
+Synopsys Fusion Compiler
+SysTools
+Tanzu Kubernetes Grid
+TDengine
+TechSoup (Unspecified Product)
+Temporal
+Tenjin
+Teradata QueryGrid
+ThunderCat Technologies
+TIBCO Enterprise Message Service
+TierPoint (Unspecified Product)
+TinyTERM Plus
+Tmax
+Trellis
+Tresorit
+Trillium DQ
+Unisys (Unspecified Product)
+Unitrends (Unspecified Product)
+USU License Management (SmartTrack)
+vcluster
+Velero
+Veritas InfoScale Enterprise
+Virtana (Unspecified Product)
+VMware AirWatch
+VMware Aria Operations
+VMware Aria Operations for Logs
+VMware Aria Operations for Networks
+VMware Capacity Planner
+VMware Cloud Director
+VMware Cloud Foundation
+VMware Cloud on Dell EMC
+VMware Disaster Recovery
+VMware Distributed Power Management (DPM)
+VMware ESX 4.0
+VMware ESXi
+VMware ESXi 4.1
+VMware Harbor
+VMware IT Business Management
+VMware NSX Data Center
+VMware NSX Data Center for vSphere
+VMware Service Manager
+VMware vCenter Server
+VMware vCloud Air
+VMware Virtual Infrastructure
+VMware vRealize
+VMware vSAN ReadyNode
+Vonage Integration Suite
+Wasabi
+Weave Net
+Weave Scope
+Weaveworks
+werf
+WS_FTP
+Zerto
+Zscaler Private Access
+ZStack

@@ -1,0 +1,152 @@
+.tech-api-config {
+    background-color: #f0f9ff;
+    color: #008080;
+    border: 1px solid #008080;
+    border-radius: 4px;
+    padding: 8px 15px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.tech-api-config:hover {
+    background-color: #008080;
+    color: white;
+}
+
+.tech-api-config i {
+    font-size: 1rem;
+}
+
+/* API Key Input Styling */
+#api-key-input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-top: 10px;
+    transition: border-color 0.2s ease;
+}
+
+#api-key-input:focus {
+    border-color: #008080;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 128, 128, 0.2);
+}
+
+/* Security Notice */
+.api-security-notice {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-left: 3px solid #008080;
+}
+
+/* API Status Indicator */
+.api-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    margin-top: 15px;
+}
+
+.api-status.connected {
+    background-color: #f0fff4;
+    color: #38a169;
+    border: 1px solid #c6f6d5;
+}
+
+.api-status.disconnected {
+    background-color: #fff5f5;
+    color: #e53e3e;
+    border: 1px solid #fed7d7;
+}
+
+.api-status i {
+    font-size: 1rem;
+}
+
+/* Response Quality Selector */
+.api-quality-selector {
+    margin-top: 15px;
+}
+
+.api-quality-selector label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+    color: #333;
+}
+
+.api-quality-selector select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 0.95rem;
+}
+
+.api-quality-selector select:focus {
+    border-color: #008080;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(0, 128, 128, 0.2);
+}
+
+/* API Error Message */
+.api-error {
+    background-color: #fff5f5;
+    color: #e53e3e;
+    padding: 12px;
+    border-radius: 4px;
+    margin-top: 15px;
+    border-left: 4px solid #e53e3e;
+}
+
+.api-error-title {
+    font-weight: 600;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.api-error-message {
+    font-size: 0.9rem;
+}
+
+.api-error-actions {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.api-error-actions button {
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border: none;
+}
+
+.api-error-retry {
+    background-color: #e53e3e;
+    color: white;
+}
+
+.api-error-config {
+    background-color: #f8f9fa;
+    border: 1px solid #e2e8f0;
+    color: #4a5568;
+}

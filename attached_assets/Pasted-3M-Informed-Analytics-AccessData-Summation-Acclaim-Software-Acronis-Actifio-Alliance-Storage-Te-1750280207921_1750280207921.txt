@@ -1,0 +1,229 @@
+3M Informed Analytics
+AccessData Summation
+Acclaim Software
+Acronis
+Actifio
+Alliance Storage Technologies
+Alteryx (Unspecified Product)
+Alteryx Connect
+Amazon Cloud Directory
+Apache Allura
+Apache Avro
+Apache Chukwa
+Apache Drill
+Apache Flume
+Apache Geode
+Apache Hadoop
+Apache Hadoop HDFS
+Apache ORC
+Apache Spark SQL
+Arcserve UDP Cloud Direct
+Assure MIMIX
+Atempo (Unspecified Product)
+Atlassian Crowd
+AWS Managed Services
+AWS Secrets Manager
+Axcient
+Azure Analysis Services
+Azure Archive Storage
+Azure Disk Storage
+Azure Queue Storage
+Azure SQL Data Warehouse
+Azure Stack Edge
+Azure Synapse
+Azure Table Storage
+Azure Virtual Machine Scale Sets
+Broadcom Disk Backup and Restore
+Broadcom TLMS Tape Management
+Broadcom XCOM Data Transport
+BVD Mint Global
+BVD Orbis
+CA ASM2
+CA CMDB Management
+CA Compress
+CA Hyper-Buf
+CA MasterCat VSAM Catalog Management
+CA MLINK
+Caringo Swarm
+CCleaner
+Clonezilla
+Cloudera (Unspecified Product)
+Cloudera Enterprise BDR
+Cloudera Manager
+Cohesity SiteContinuity
+Commvault (Unspecified Product)
+Commvault Simpana
+Continuent
+COOP Systems
+Corodata
+CrashPlan
+Data Deposit Box
+Data Dynamics (Unspecified Product)
+DataCore SANsymphony
+Datrium
+Datto SIRIS
+DefendX
+Dell Data Domain
+Dell ECS
+Dell EMC AppSync
+Dell EMC Avamar
+Dell EMC Disaster Recovery
+Dell EMC NetWorker
+Dell EMC RecoverPoint
+Dell EMC TimeFinder
+Dell PowerVault Storage Arrays
+Dell Unisphere
+DeviceAtlas
+Disk Drill
+Druva Cloud Platform
+Druva Phoenix
+DWRF (ORC)
+ExaGrid
+FalconStor DiskSafe
+FalconStor RecoverTrac
+FileMaker Bento
+Firmex
+Fivetran (Unspecified Product)
+Flexera IT Asset Management (ITAM)
+GE Proficy Historian
+Ghost Solution Suite
+Global IDs
+Hitachi Basic Operating System (BOS)
+HPE Command View EVA Software
+HPE Disk Array Storage Systems
+HPE Ezmeral Data Fabric
+HPE IBRIX
+HPE Nimble Storage dHCI
+HPE Storage Systems
+HPE StorageWorks XP12000 Disk Array
+HPE StoreOnce
+HPE StoreVirtual
+HPE XP P9500
+HPE XP1024 Disk Array
+HPE XP20000 Disk Array
+HPE XP7 Storage
+Hyland Capture
+IBM Content Manager
+IBM Db2 Content Manager
+IBM InfoSphere BigInsights
+IBM Netezza Replication Services
+IBM Spectrum Archive
+IBM Spectrum Control
+IBM Spectrum Protect
+IBM Spectrum Scale
+IBM Sterling Configure, Price, Quote (CPQ)
+IBM Sterling Secure File Transfer
+IBM System Storage SAN Volume Controller (SVC)
+IBM VSAM
+Iceflo
+InfiniBox
+Infinidat
+Informatica Data Replication
+Informatica Intelligent Cloud Services (IICS)
+Innowera Process Runner
+Intronis Backup
+IPRO ADD
+Iron Mountain
+Iron Mountain SecureSync
+Kaminario
+Kiteworks
+LevelDB
+LexisNexis WorldCompliance
+Livedrive
+LlamaIndex
+LogicalDOC
+Logicalis
+Macrium Reflect
+Micro Focus Digital Safe
+Micro Focus Storage Manager
+Micro Focus Structured Data Manager
+Microsoft Active Directory
+Microsoft Open Data Initiative
+Microsoft Roaming User Profiles
+Microsoft SEAL
+Microsoft System Center Data Protection Manager
+Navisite Disaster Recovery as a Service (DRaaS)
+NeoXam DataHub
+NetApp Cloud Backup
+NetApp Data Storage Systems
+NetApp FlexCache
+NetApp ONTAP Data Management
+NetApp Open Systems SnapVault
+NetApp SANtricity
+NetApp SnapMirror
+NetApp SnapShot
+NetApp SnapVault
+NetApp SyncMirror
+NonStop SQL
+Norton Ghost
+Nutanix Mine
+NVIDIA DGX SuperPOD
+Odaseva
+ONLYOFFICE
+OpenText ControlPoint
+OpenText Data Protector
+OpenText Databridge
+Oracle 10g Standard Edition
+Oracle Analytics Cloud
+Oracle Exalytics
+Oracle Flashback
+Oracle GoldenGate
+Oracle RAC One Node
+Oracle Real Application Testing
+Oracle Secure Backup
+Oracle XML DB
+ownCloud
+Panasas PanFS
+Panoply
+pCloud
+pixitmedia
+PKWARE
+PowerFlex
+PowerTrack
+PropertyShark
+Qlik Data Integration Platform
+Qlik Replicate
+Quest InTrust
+Quest Recovery Manager
+Rackspace Private Cloud
+RainStor
+RecoveryPlanner
+Revver
+Salesforce Data.com
+SAP Emergency Access Management (EAM)
+SAP HANA
+SAP Sybase Datawindow.net
+SAP Sybase Mirror Activator
+Saperion ECM
+SAS Data Integration Studio
+SAS ETL
+SAS/FSP
+ServiceNow Business Continuity Management
+SGI InfiniteStorage
+SolarWinds Serv-U
+Stellar Information
+StoneFly
+Storage Performance Development Kit (SPDK)
+StorageTek Storage Archive Manager
+StorageX
+SyncBackPro
+Talend Data Catalog
+Talend Stitch
+Tanzu GemFire
+Teradata Aster
+Teradata Vantage
+Thunder 9500 V Series Storage System
+TreeSize
+VAST Data
+Veeam Availability Suite
+Veeam Backup & Replication
+Vembu StoreGrid
+Veritas Disaster Recovery Orchestrator
+Veritas InfoScale Operations Manager
+Veritas NetBackup
+VMware Cloud Foundation
+VMware vSAN
+vSphere High Availability (HA)
+Xplenty
+Zadara
+Zenith ARCA

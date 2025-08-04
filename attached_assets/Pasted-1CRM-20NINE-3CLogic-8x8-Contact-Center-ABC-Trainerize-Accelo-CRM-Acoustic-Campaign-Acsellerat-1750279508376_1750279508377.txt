@@ -1,0 +1,466 @@
+1CRM
+20NINE
+3CLogic
+8x8 Contact Center
+ABC Trainerize
+Accelo CRM
+Acoustic Campaign
+Acsellerate
+Ada AI Chatbot
+AddressTwo
+Adfinity
+Adobe Customer Journey Analytics
+Adobe Real-Time CDP
+AdvisorEngine
+Affinity CRM
+Afiniti Enterprise Behavioral Pairing
+Agile CRM
+Agiline
+Alyce
+Amazon Pinpoint
+Amazon Polly
+Apache OFBiz
+AppDirect
+Apptivo
+Ardexus
+Ascendix
+Atento
+Avaya Aura Experience Portal
+Avaya Callback Assist
+Avaya Contact Analyzer
+Avidian Prophet
+Aviso
+Axelor
+Axional ERP
+Axonaut
+Batchbook
+Big Biller
+BigContacts
+Blackbaud
+Blueshift
+Bright Pattern
+BrightEdge
+Brightmetrics
+BryterCX
+BSI CRM
+BT Cloud Contact Next Generation (CCng)
+BugHerd
+Bullhorn CRM
+BuyerDeck
+C2CRM
+Calabrio ONE
+CallProof
+CallTrackingMetrics
+CampaignerCRM
+CapsuleCRM
+Catalyst
+Cendyn CRM
+Certinia Professional Services Automation
+Cheetah Digital (Unspecified Product)
+Cheetah Experiences
+Chorus
+ChurnZero
+Ciboodle
+cieTrade
+Cincom Synchrony
+Cirrus Insight
+Cisco MX200
+Cisco Unified Intelligent Contact Management Enterprise
+CiviCRM
+ClaritySoft
+CleverTap
+Click Field Service Edge
+Click Software
+Client ConneXion
+Close CRM
+CloudCC CRM
+Clyde
+Cobalt
+CollisionLink
+CommBox
+Commence CRM
+CommSoft
+Configio
+Conrep CRM
+ContactEase CRM
+Contactually
+Contivio
+Convio
+Cosential
+Creatio
+CRMnext
+Customers.ai
+DealerBuilt
+DealerSocket
+DealerSocket CRM
+Dealertrack
+Delighted NPS (Net Promoter Score)
+Dell EMC ClaimPack
+DeltaPhi SIGLA
+Deltek Vision CRM
+DialedIn
+Diamond Relations
+Dolibarr ERP CRM
+DonorDirect
+donorflex
+DriveCentric
+Duck Creek OnDemand
+Dynamo Software
+Ebsta
+Eckoh
+Efficy CRM
+ELCIA Diapason
+eLead
+Electric Imp
+Element451
+Eleveo Call Recording
+Ellucian CRM Advise
+ELO ECM Suite
+Emplifi
+Encharge
+Encompass Technologies (Unspecified Product)
+EngageBay
+Enterprise 21 ERP
+Envoy (Unspecified Product)
+Epic Cheers
+EPMS
+eraPower
+Ericsson Order Care
+EspoCRM
+Eudonet CRM
+Exact for CRM
+FAQ Bot
+Feefo
+Five9 Workforce Management
+Followup CRM
+FoodStorm
+ForceManager
+Foundation 3000
+FPX CPQ
+Freestyle Multichannel Order Management
+Freshmarketer
+Freshsales
+Freshworks CRM
+Front
+FrontRange Voice
+FullContact
+Gem
+Genesys (Unspecified Product)
+Genesys Cloud CX
+Genesys Contact Center
+Genesys Engage on-premises
+Genesys Gplus Adapter
+Genesys Inbound
+Genesys PureCloud
+Genesys PureEngage
+Genoo
+Gentrack Junifer
+Glue Up
+Gold-Vision CRM
+Google Channel Intelligence
+Google Contact Center AI
+Google Dialogflow
+Google Surveys
+Grasshopper
+Green 4
+Greenlight CRM
+Higher Logic Vanilla
+Highrise CRM
+Hightouch
+HubSpot (Unspecified Product)
+Husky Field Service Management
+Hy.ly
+IBM Comergent
+IBM iX
+IBM Order Management
+IBM Sterling Selling and Fulfillment Suite
+IBM WebSphere Voice Response for AIX
+IFS Applications
+IFS ERP
+improveit 360
+Infor CloudSuite CRM
+Infor CloudSuite Field Service
+Infor CloudSuite PLM
+Infor Customer Experience Suite
+Infor Demand Management
+Infor SalesLogix
+Infor Supply Management
+Insightly
+Intermedia Contact Center
+Itineris UMAX 365
+Ivinex
+Jacada
+Jim2
+JivoChat
+Jobber
+Joblogic
+JobNimbus
+Juniper Square
+JustCall
+Kaizen Platform
+Kapture CRM
+karmaCRM
+Kenect
+KeyMetric
+Khoros Care
+Knock CRM
+Kommo
+Kore.ai
+LeadsPedia
+LeadSquared
+Less Annoying CRM
+LeverTRM
+LexisNexis InterAction
+Lifesize CxEngage
+Lime CRM
+LimeLight
+LionDesk
+Locobuzz
+LogicBox
+Logo CRM
+Magazine Manager
+ManyChat
+Marketcircle Daylite
+MARS CRM
+Marsello
+MechanicNet CRM Cloud
+MECOMS
+MessageBird
+Method:CRM
+mHelpDesk
+Microsoft Customer Experience Management
+Microsoft Dynamics
+Microsoft Dynamics 365
+Microsoft Dynamics 365 Customer Engagement
+Microsoft Dynamics 365 for Customer Service
+Microsoft Dynamics AX
+Microsoft Dynamics CRM
+Microsoft Dynamics CRM 2011
+Microsoft Dynamics CRM 3.0
+Microsoft Dynamics CRM 4.0
+Mitchell1 eCRM
+Mixpanel
+monday sales CRM
+MosaicCRM
+Mothernode
+MYOB Exo
+MyTime Scheduler
+NeonCRM
+NetSuite CRM
+NetSuite for Retail
+Netsuite Partner Relationship Management
+Nice inContact
+Nimble
+Nokia Service Management Platform
+Now Interact
+Nutshell CRM
+Octopus CRM
+Odigo
+Odoo (Unspecified Product)
+Odoo CRM
+OfficeRnD Flex
+Ometria
+OneBill
+OnePageCRM
+Onespot
+Optimizely Data Platform
+Optimove
+Oracle Advanced Inbound Telephony
+Oracle Contact Center Anywhere
+Oracle Contextual Intelligence
+Oracle CRM
+Oracle CX Cloud Suite
+Oracle Fusion
+Oracle Fusion CRM
+Oracle Interaction Center
+Oracle JD Edwards EnterpriseOne CRM
+Oracle Partner Management
+Oracle Retail Sales Audit
+Oracle Sales Contracts
+Oracle Siebel CRM
+Oracle Siebel Handheld
+Oracle Siebel Sales
+Oracle Siebel Wireless
+OroCRM
+Ortto
+Orum
+osTicket
+Ozonetel CloudAgent
+PatronManager
+Pax8 Platform
+PayPanther
+Pega CRM Suite
+PeopleSoft CRM
+Perkville
+PFL Direct Mail Platform
+Pike13
+Pipedrive
+PipelineDeals
+Pipeliner CRM
+PisaSales CRM
+Pivotal CRM
+PlanPlus Online
+Power Virtual Agents
+prairieFyre
+Promys PSA
+Prosodie
+Pypestream
+Q4
+Qiscus
+QPLIX
+Quadia
+Quantcast
+Questback
+Radancy
+Rasa Platform
+RAYNET CRM
+Really Simple Systems CRM
+RealPage Contact Center
+RealScout
+Realvolve
+RecDesk
+Recruiterflow
+Redtail CRM
+Refractive Dialer
+RepairQ
+RepairShopr
+Repsly CRM
+REVIEWS.io
+Revinate
+RingDNA
+ROI Solutions
+Sage CRM
+SalesBabu
+Salesflare
+Salesforce Community Cloud
+Salesforce CRM
+Salesforce CRM Analytics
+Salesforce Customer 360
+Salesforce Einstein AI
+Salesforce Essentials
+Salesforce Live Agent
+Salesforce Sales Cloud
+Salesforce Service Cloud
+Salesforce Web To Case
+Salesforce Web-To-Lead
+Salesforce Work.com
+Salesforce.com Desk.com
+Salesforce.com Jigsaw
+SalesJunction
+SalesNexus
+SalesNOW
+SalesOptima
+SalesOutlook CRM
+SalesPage Asset Management CRM
+SalesSeek
+Salestrakr
+SalesWarp
+Salsa CRM
+Samwin Contact Center
+sandsiv
+SAP (Unspecified Product)
+SAP Business Suite
+SAP Cloud for Customer (C4C)
+SAP Contact Center
+SAP CRM
+SAP Data Maintenance for ERP by Vistex
+SAP Digital CRM
+SAP ERP Central Component (ECC) 6.0
+SAP Hybris
+SAP Product Lifecycle Management
+SAP REACH Compliance
+SAP Sales Order Management
+SAP Service Cloud
+Saratoga CRM
+SAVO
+SentiOne
+ServiceM8
+ServiceNow Communities
+ServiceNow Order Management
+ServiceNow Order Management for Telecommunications
+ServSuite
+SharpSpring
+Siebel
+Sighten
+Simplicate
+SingleOps
+Slaask
+Slate for Advancement
+SmartCOMM
+SmarterSelect
+SMS-Magic
+Snapforce CRM
+Solutions For Direct Selling (S4DS)
+SPIFF
+SS&C Salentica
+Stonly
+Streak CRM
+Sugar Sell
+SugarCRM
+Sugester
+Sumac CRM
+SurveyMonkey (Unspecified Product)
+Swiftpage
+Swiftpage ACT!
+SYDLE ONE
+Symbee
+Synchroteam
+Tableau CRM
+Tact.ai
+Talisma
+Talisma CRM
+TargetX
+TaxDome
+Teamleader CRM
+TELUS
+Temenos Journey Manager
+Tenant Turner
+Teradata CRM
+Thryv
+Tiflux
+TopProducer
+Total Expert
+Total Management
+Tour de Force CRM
+Traction Rec
+Tribe Community Platform
+Twilio (Unspecified Product)
+Unanet (Unspecified Product)
+User.com
+vAuto
+vCita
+Veeva CRM
+Veevart
+Virtual Spirits
+Vision FI
+Volusion LiveChat
+Vonigo
+Vtiger
+Vuture
+Wealthbox
+Webphone
+White Fluffy Cloud
+WinLine
+Wintac
+Workbooks
+WORKetc
+WorkWave (Unspecified Product)
+WorkWave PestPac
+WorkWise ERP
+Xactly Forecasting
+Xima Software
+XRS Platform
+YCLIENTS
+yonyou
+Yotpo SMSBump
+YouCanBookMe
+Zendesk Explore
+Zendesk for Service
+Zendesk Sunshine
+Zendesk Support
+Zinrelo
+Znuny
+Zoho (Unspecified Product)
+Zoho Bigin
+Zoho CRM
+Zoom Contact Center

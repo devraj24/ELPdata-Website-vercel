@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>ELP Data - Premium Technology Data & Business Intelligence Platform</title>
+    <meta name="description" content="Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers, target specific implementations, and accelerate B2B sales with 96% accurate data.">
+    <meta name="keywords" content="technology data, enterprise data, B2B data, technology users, CRM data, ERP users, database lists, business intelligence, lead generation">
+    <meta name="author" content="ELP Data">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://elpdata.com">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://elpdata.com">
+    <meta property="og:title" content="ELP Data - Premium Technology Data & Business Intelligence Platform">
+    <meta property="og:description" content="Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers and accelerate B2B sales with 96% accurate data.">
+    <meta property="og:image" content="https://elpdata.com/og-image.jpg">
+    <meta property="og:site_name" content="ELP Data">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://elpdata.com">
+    <meta property="twitter:title" content="ELP Data - Premium Technology Data & Business Intelligence Platform">
+    <meta property="twitter:description" content="Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers and accelerate B2B sales.">
+    <meta property="twitter:image" content="https://elpdata.com/twitter-image.jpg">
+    
+    <!-- Additional SEO -->
+    <meta name="theme-color" content="#1e40af">
+    <meta name="msapplication-TileColor" content="#1e40af">
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "ELP Data",
+      "url": "https://elpdata.com",
+      "logo": "https://elpdata.com/logo.png",
+      "description": "Premium technology data and business intelligence platform providing verified technology user lists and enterprise data.",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-234-567-8900",
+        "contactType": "customer service",
+        "email": "info@elpdata.com"
+      },
+      "sameAs": [
+        "https://linkedin.com/company/elpdata",
+        "https://twitter.com/elpdata"
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+  </body>
+</html>

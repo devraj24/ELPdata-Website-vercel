@@ -1,0 +1,190 @@
+24SevenOffice
+3GTMS
+ADSI Shipping
+AESCUDATA
+AgileAssets
+Alpega TMS
+amfori BSCI platform
+AscendTMS
+Asprova
+Atlas Planning Platform
+Autodata
+Azuga
+Baxter Planning
+Bentley SUPERLOAD
+Blue Yonder (Unspecified Product)
+Blue Yonder Transportation
+Blue Yonder WMS
+BluJay (Unspecified Product)
+Blume
+Bourque Logistics
+CalAmp
+CargoWise Optimisation
+CargoWise Transport
+CargoWise Warehouse
+Cegid Notilus
+Cetaris
+Cognex (Unspecified Product)
+CrossTalk IoT Suite
+CyberPlan
+DaWinci
+Deposco
+Descartes Systems
+DigitalShipper
+DNV ShipManager
+Dossier
+Dr Dispatch
+DSC Logistics
+E2open (Unspecified Product)
+eBizNET
+Echo
+EchoTrak
+Elementum
+Elemica Eyefreight
+Elite EXTRA
+eoStar
+Epicor SCM
+Exact Online
+FactoryLogix
+FarEye IDM Platform
+FedEx Supply Chain
+Fleetio
+FleetLocate
+Fleetsoft
+Flexport
+FourKites
+Freightos
+Freightquote
+Freightview
+Freitrater
+Fullbay
+GEODIS
+Geoforce
+Global Shop
+GlobalTranz
+GpsGate
+Havenstar
+HighJump
+IFS Supply Chain
+Infor CloudSuite Distribution Enterprise
+Infor Distribution
+Infor Nexus Transportation Management
+Infor Supply Chain Management
+Inmar Supply Chain
+IntelliTrans
+Iptor ERP
+Kaleris
+Karmak Fusion
+KeepTruckin
+Kewill Clippership
+Kibo OM
+Kleinschmidt (Unspecified Product)
+Koerber Supply Chain
+Kuebix
+Kuebix TMS
+Lalamove
+LeanLogistics
+LLamasoft
+Loadlink
+LoadTrek TMS
+LOG-NET
+Logi-Sys
+Logicor
+Logility Demand Planning
+Lytx
+Magaya
+Manhattan Active Supply Chain
+MaxLoad Pro
+MercuryGate
+MetaPack
+Microdea
+Microlise
+Motive
+MoveIt
+MPO
+MRPeasy
+Navisphere Vision
+NexTraq
+Oildex
+OM Partners
+Omnitracs
+One Network TMS
+Onfleet
+OpenText Active Catalogue
+OpenText Liaison Athena
+Oracle Logistics Cloud
+Oracle Logistics Inventory Visibility Cloud
+Oracle Supplier Qualification Management Cloud
+Oracle Transportation Management Cloud
+Pacejet
+Par Excellence Systems
+PeopleNet
+PrePass
+Proactis Procurement
+project44
+ProMiles
+ProShip
+PTV Visum
+Radley
+RateLinx (Unspecified Product)
+Redzone
+ReTrans
+River Logic (Unspecified Product)
+Rosmiman IWMS
+Route4Me
+Routific
+RTA Fleet Management
+Samsara
+SAP Ariba Sourcing
+SAP Business Network Supply Chain Collaboration
+SAP Cargo, Transportation & Logistics
+SAP Extended Warehouse Management
+SAP Inventory Management
+SAP Supplier Management
+SAP Supply Network Planning (SNP)
+SAP Transportation Management (TM)
+SAP Transportation Planning/Vehicle Scheduling (TP/VS)
+SAP Vehicle Management System
+Scandit
+Schedaero
+SendSuite Tracking
+ShipExec
+ShipGear
+ShipLinx
+Shippo
+ShipWorks
+Siebel Field Service
+Skybitz
+SmartDrive
+SmartFreight
+SpeedCommerce
+Spireon
+StarShip
+Stocklin
+SupplyOn
+Synergi Electric
+Synergi Gas
+Teapplix
+Tecsys
+Teletrac Navman
+Temando
+Tenstreet
+TMC
+TMW TMS
+Tookan
+Transplace TMS
+Transporeon
+TransVoyant
+Trapeze Software
+Trinium-TMS
+Truckstop
+TrueCommerce
+TruVideo
+Uber Freight
+UPS Supply Chain Solutions
+Venzee
+W Energy (Unspecified Product)
+Whip Around
+Wialon
+XPS Parcel
+XRS Platform

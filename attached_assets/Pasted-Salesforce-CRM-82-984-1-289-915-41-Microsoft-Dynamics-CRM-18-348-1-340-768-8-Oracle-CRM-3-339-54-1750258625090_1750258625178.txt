@@ -1,0 +1,54 @@
+Salesforce CRM	82,984	1,289,915	41%
+Microsoft Dynamics CRM	18,348	1,340,768	8%
+Oracle CRM	3,339	541,926	< 5%
+NetSuite CRM	1,016	43,857	< 5%
+TargetX	11,923	24,859	< 5%
+Zoho CRM	11,560	30,988	< 5%
+SAP CRM	6,939	1,641,926	< 5%
+Siebel Customer Relationship Management (CRM)	113,152	509,571	< 5%
+SugarCRM	7,794	47,543	< 5%
+Oracle Fusion CRM	4,889	17,283	< 5%
+Infor CRM	3,891	11,921	< 5%
+Swiftpage CRM	3,922	25,063	< 5%
+Sage CRM	1,965	35,821	< 5%
+Oracle RightNow	1,307	7,972	< 5%
+Pivotal CRM	1,499	9,143	< 5%
+Insightly CRM	1,533	9,351	< 5%
+Agile CRM	3,302	20,412	< 5%
+Convergys CRM	2,126	12,968	< 5%
+Redtail CRM	744	4,538	< 5%
+Amdocs CRM	3,074	18,751	< 5%
+LimeLight CRM	711	4,337	< 5%
+Oracle CRM On Demand	741	4,520	< 5%
+Freshsales CRM	1,802	10,992	< 5%
+Infor Epiphany CRM	1,322	8,064	< 5%
+Vtiger CRM	2,336	14,249	< 5%
+Salesforce Sales Cloud CRM	3,337	20,355	< 5%
+Oracle Sales Cloud CRM	801	4,886	< 5%
+Medallia CRM	2,563	15,634	< 5%
+Gainsight CRM	1,103	6,728	< 5%
+Nimble CRM	2,002	12,212	< 5%
+Pipedrive CRM	7,377	44,999	< 5%
+PeopleSoft CRM	2,197	13,401	< 5%
+Gigya CRM	2,194	13,383	< 5%
+Verint CRM	4,534	27,657	< 5%
+PandaDoc CRM	345	2,104	< 5%
+SAP Sales Cloud CRM	2,447	14,926	< 5%
+Technolutions slate	743	4,278	< 5%
+amoCRM Customers List	993	5,718	< 5%
+Aptean Pivotal CRM Customers List	316	1,819	< 5%
+BenchmarkONE Customers List	810	3,407	< 5%
+BuzzStream Customers List	282	1,623	< 5%
+CiviCRM Customers List	369	2,124	< 5%
+Deltek Vision CRM Customers List	83	477	< 5%
+GoldMine Customers List	820	4,721	< 5%
+Infor SalesLogix Customers List	378	2,174	< 5%
+JD Edwards Sales Order Management Customers List	109	627	< 5%
+Junxure Customers List	146	840	< 5%
+KANA Software Customers List	58	333	< 5%
+Microsoft Customer Care Framework Customers List	162	932	< 5%
+Ontraport Customers List	2,190	12,610	< 5%
+Pega CRM Customers List	354	2,038	< 5%
+Veeva CRM Customers List	276	1,589	< 5%
+Veeva Systems Customers List	2,230	12,841	< 5%
+WalkMe Customers List	1,247	7,180

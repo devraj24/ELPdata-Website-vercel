@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Technology Database Pages
+Allow: /vmware-users-list
+Allow: /sap-users-list
+Allow: /ibm-users-list
+Allow: /oracle-users-list
+Allow: /salesforce-users-list
+
+# Industry Email Lists
+Allow: /healthcare-industry-email-list
+Allow: /technology-industry-email-list
+Allow: /financial-services-email-list
+Allow: /manufacturing-industry-email-list
+
+# Role-Based Lists
+Allow: /ceo-email-list
+Allow: /cto-email-list
+Allow: /cfo-email-list
+
+# Crawl-delay for bots
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://www.elpdata.com/sitemap-998.xml

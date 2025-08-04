@@ -1,0 +1,257 @@
+abas ERP
+Accelerated ERP
+AcctVantage
+Acorn ERP
+Acumatica
+Adion ProShop
+AFAS ERP
+Agresso
+AnyCasting
+Apache OFBiz
+APplus
+Apprise ERP
+Apptricity
+Aptean (Unspecified Product)
+Arca EVOLUTION
+Aspen Systems Canopy
+Axional ERP
+Baseplan
+BatchMaster
+Blue Link ERP
+CDC
+Cegid XRP
+Cetec ERP
+CGI Advantage
+Cincom
+COMCASH ERP
+Consona
+CrossTalk IoT Suite
+Dancik Navigator
+Datacor Chempax
+Deacom
+DELMIAWorks Manufacturing ERP
+DeltaPhi SIGLA
+Deltek Costpoint
+Deltek Maconomy
+Deltek Vantagepoint
+Deskera
+Diaspark
+DMSi Agility
+Dolibarr ERP CRM
+Duzon ERP
+E2 Manufacturing System
+E2 Shop System
+ECi E-automate
+ECi M1
+ECI Software (Unspecified Product)
+Ecount ERP
+Eka Platform
+Ekon ERP
+ELCIA Diapason
+Enmark Eniteo
+Enterprise 21 ERP
+Entrinsik Semtek
+Enuit
+ePDS
+Epicor (Unspecified Product)
+Epicor Avante
+EPICOR CMS
+Epicor DataFlo
+Epicor Eclipse
+Epicor ERP
+Epicor Kinetic
+Epicor Manage 2000
+Epicor Prelude ERP
+Epicor Vista
+ePROMIS
+ERP Diapason
+ERP Omega
+ERP PIRAMIDE
+ERP-ONE
+ERPAG
+ERPNext
+Exact
+Exact Dimoni
+Exact ERP
+Expandable ERP
+Famous Software (Unspecified Product)
+FDM4 ERP
+Finesse ERP
+First Resonance ION Platform
+FlexiBake
+Foundation 3000
+FRAMECAD
+Friedman
+Genius ERP
+Global Shop
+Glovia
+GLOVIA G2
+GPI EUSIS
+HansaWorld ERP
+Harris Enterprise Resource Planning
+IBM Comergent
+iDempiere Business Suite
+IFS (Unspecified Product)
+IFS Applications
+IFS ERP
+Ignition MES
+Infor CloudSuite Distribution
+Infor ERP A+
+Infor ERP LN
+Infor LN
+Infor LX
+Infor System21
+Infor SyteLine
+Infor XA
+INNERGY ERP
+InOrder ERP
+InspHire
+integraSoft
+Invera
+IQMS
+Jamis
+JAMIS Prime ERP
+JD Edwards (Unspecified Product)
+JD Edwards EnterpriseOne
+Jeeves ERP
+JobBOSS
+Jobscope ERP
+JustFood ERP
+K-System (Unspecified Product)
+Karmak
+Kenandy Cloud ERP
+KeyedIn
+Kinaxis RapidResponse
+L2L (Leading2Lean)
+Lawson M3 Financial Management
+Lawson Software
+Logo ERP
+LogOn ERP
+Macola
+Made2Manage ERP
+ManEx
+Microsoft Dynamics
+Microsoft Dynamics 365 Business Central
+Microsoft Dynamics ERP
+Microsoft Dynamics GP
+Microsoft Dynamics NAV
+Microsoft FRx
+MIE Trak Pro
+Mincron ERP
+Mindbridge Systems
+MJ Platform
+myfactory ERP
+MYOB Advanced
+MYOB Exo
+mySAP ERP
+NetSuite (Unspecified Product)
+NetSuite ERP
+NetSuite OneWorld
+o9 Digital Brain
+OBIC 7
+Omie
+Open Systems
+Openbravo
+OpenPro
+Oracle E-Business Suite
+Oracle ERP Cloud
+Oracle Fusion Cloud ERP
+Oracle PeopleSoft
+Passepartout Mexal
+PBS Manufacturing
+PENTA Construction Software
+PeopleSoft Cash Management
+plentymarkets
+Plex Manufacturing Cloud
+Plex Online
+Plex Systems (Unspecified Product)
+PolyPM ERP
+PowerShift Enterprise System
+Priority ERP
+proALPHA
+PROCAS
+Produce Pro
+ProfitKey
+ProfitKey Manufacturing
+Pronto Software
+Pronto Xi ERP
+ProShop ERP
+QAD
+QAD Adaptive
+QAD ERP
+QAD Manufacturing
+Ramco ERP
+RLM Apparel Software
+Rootstock Cloud ERP
+Ross ERP
+S2k Enterprise Cloud
+Sage (Unspecified Product)
+Sage 100
+Sage 100cloud
+Sage 300cloud
+Sage 500
+Sage Logic Class
+Sage X3
+SAM ERP2
+Sankhya
+SAP (Unspecified Product)
+SAP Automotive Industry Solutions
+SAP Business ByDesign
+SAP Business One
+SAP Consumer Products
+SAP Data Maintenance for ERP by Vistex
+SAP ECC EHP 6
+SAP ECC EHP 7
+SAP ECC EHP 8
+SAP ERP
+SAP ERP Central Component (ECC)
+SAP ERP Central Component (ECC) 5.0
+SAP ERP Central Component (ECC) 6.0
+SAP ERP Financials
+SAP for Apparel & Footwear (AFS)
+SAP for Public Sector
+SAP for Utilities
+SAP High Tech Industry Solutions
+SAP Plant Maintenance
+SAP Product Development and Manufacturing
+SAP R/2
+SAP R/3
+SAP S/4HANA
+SAP S/4HANA Cloud
+SAP S/4HANA On-Premise Edition
+SAP Sales & Operations Planning (SOP)
+SAP SD
+SAP Strategic Enterprise Management (SEM)
+ServiceNow Communities
+Sistemi eSolver
+Smart ERP
+Softland ERP
+Southware ERP
+Sparkrock 365
+SYSPRO
+SYSPRO ERP
+Tally.ERP 9
+TechnologyOne
+Texada
+Total ETO
+TOTVS ERP
+TRAVERSE ERP
+Trimble Spectrum
+TrueERP
+Trulinx
+Unanet (Unspecified Product)
+Unit4 Business World
+Unit4 CAMS Enterprise
+Unit4 ERP
+VIENNA Advantage
+Visibility ERP
+Visma.net
+Visual EstiTrack
+Winshuttle
+WinTeam
+WORKPLAN
+Works Applications
+WorkWise ERP
+xTuple
+yonyou
+Zedonk

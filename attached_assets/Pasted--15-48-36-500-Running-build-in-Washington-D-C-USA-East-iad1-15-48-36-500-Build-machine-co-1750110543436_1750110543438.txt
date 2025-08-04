@@ -1,0 +1,42 @@
+[15:48:36.500] Running build in Washington, D.C., USA (East) – iad1
+[15:48:36.500] Build machine configuration: 2 cores, 8 GB
+[15:48:36.513] Cloning github.com/devraj24/elp-data-platform (Branch: main, Commit: 04660a2)
+[15:48:36.681] Previous build caches not available
+[15:48:37.099] Cloning completed: 586.000ms
+[15:48:37.475] Running "vercel build"
+[15:48:37.923] Vercel CLI 42.2.0
+[15:48:38.068] WARN! Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
+[15:48:38.598] Installing dependencies...
+[15:48:43.007] npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+[15:48:43.507] npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+[15:48:43.546] npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+[15:48:48.650] 
+[15:48:48.652] added 517 packages in 10s
+[15:48:48.652] 
+[15:48:48.653] 66 packages are looking for funding
+[15:48:48.653]   run `npm fund` for details
+[15:48:48.899] Using TypeScript 5.6.3 (local user-provided)
+[15:48:53.023] server/vite.ts(39,5): error TS2322: Type '{ middlewareMode: boolean; hmr: { server: Server<typeof IncomingMessage, typeof ServerResponse>; }; allowedHosts: boolean; }' is not assignable to type 'ServerOptions'.
+[15:48:53.024]   Types of property 'allowedHosts' are incompatible.
+[15:48:53.024]     Type 'boolean' is not assignable to type 'true | string[] | undefined'.
+[15:48:53.024] 
+[15:48:56.914] client/src/pages/wordpress-users-list.tsx(1,20): error TS2307: Cannot find module '@/components/Header' or its corresponding type declarations.
+[15:48:56.914] client/src/pages/wordpress-users-list.tsx(2,20): error TS2307: Cannot find module '@/components/Footer' or its corresponding type declarations.
+[15:48:56.914] client/src/pages/wordpress-users-list.tsx(3,58): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+[15:48:56.914] client/src/pages/wordpress-users-list.tsx(4,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+[15:48:56.914] 
+[15:48:57.089] client/src/pages/woocommerce-users-list.tsx(1,20): error TS2307: Cannot find module '@/components/Header' or its corresponding type declarations.
+[15:48:57.089] client/src/pages/woocommerce-users-list.tsx(2,20): error TS2307: Cannot find module '@/components/Footer' or its corresponding type declarations.
+[15:48:57.090] client/src/pages/woocommerce-users-list.tsx(3,58): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+[15:48:57.090] client/src/pages/woocommerce-users-list.tsx(4,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+[15:48:57.090] 
+[15:48:57.494] client/src/pages/white-papers.tsx(2,20): error TS2307: Cannot find module '@/components/Header' or its corresponding type declarations.
+[15:48:57.494] client/src/pages/white-papers.tsx(3,20): error TS2307: Cannot find module '@/components/Footer' or its corresponding type declarations.
+[15:48:57.494] 
+[15:48:57.667] client/src/pages/webinar-detail.tsx(2,20): error TS2307: Cannot find module '@/components/Header' or its corresponding type declarations.
+[15:48:57.668] client/src/pages/webinar-detail.tsx(3,20): error TS2307: Cannot find module '@/components/Footer' or its corresponding type declarations.
+[15:48:57.668] client/src/pages/webinar-detail.tsx(4,58): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+[15:48:57.670] client/src/pages/webinar-detail.tsx(5,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+[15:48:57.670] 
+[15:48:58.053] client/src/pages/vmware-users-list.tsx(1,20): error TS2307: Cannot find module '@/components/Header' or its corresponding type declarations.
+[15:48:58.054] client/src/pages/vmware-users-list.tsx(2,20): error TS2307: Cannot find module '@/components/Footer' or its corresponding type declarations.

@@ -1,0 +1,505 @@
+3Play Media
+AccuWeather
+ACDSee
+Activu
+Adobe (Unspecified Product)
+Adobe After Effects CC
+Adobe Animate
+Adobe Creative Cloud
+Adobe Creative Suite
+Adobe Dreamweaver
+Adobe Experience Platform Launch
+Adobe Fonts
+Adobe Illustrator
+Adobe Lightroom
+Adobe Photoshop
+Adobe Photoshop CC
+Adobe Photoshop Elements
+Adobe Photoshop Express
+Adobe Photoshop Lightroom Classic CC
+Adobe Portfolio
+Adobe RoboHelp
+Affinity Photo
+AGi32
+AirMap
+Altair AcuSolve
+Altair FEKO
+Altair HyperGraph
+Altair Monarch
+Altair SmartSight
+Altova MapForce
+Amazon Elastic Transcoder
+Amazon Kinesis Video Streams
+Amazon QuickSight
+Amazon Rekognition
+Amazon Reserved Instance (RI) Reporting
+Amazon Sumerian
+AMBER
+AMICAS RadSuite
+Amsterdam Density Functional
+Angelfish
+Ansys Discovery
+AnyLogic
+Anzo
+Apache Hudi
+Apache Superset
+AppInsights
+Apple Compressor
+Apple Final Cut Pro X
+Apple iLife
+Apple Keynote
+ArbiterSports
+Arcadia Enterprise
+ArcGIS Drone2Map
+ArcGIS Pro
+ArcGIS Workforce
+arcplan
+ARIS Simulation
+Arria NLG
+ASC‘s neo Suite
+AT Internet
+ATLAS.ti
+AtScale
+Autodesk A360
+Autodesk Assemble
+Autodesk AutoSketch
+Autodesk BIM 360
+Autodesk BIM 360 Docs
+Autodesk BIM Collaborate
+Autodesk Build
+Autodesk Civil 3D
+Autodesk Eagle
+Autodesk Factory Design Utilities
+Autodesk MatchMover
+Autodesk Navisworks
+Avaya Communications Server
+Avaya Proactive Contact
+AVEVA Diagrams
+AVEVA InTouch HMI
+AVEVA PI System
+Avid Media Composer
+AWS Cost & Usage Report
+AWS Elemental MediaPackage
+AWS Elemental MediaTailor
+AWS Glue DataBrew
+AWS Migration Hub
+Axio LE
+Azure Managed Grafana
+Azure Media Player
+Basware Analytics
+BearingPoint Infonova
+BEE Pro
+Beeline SmartView Data Analytics
+BeFunky
+Bentley OpenFlows StormCAD
+Bentley OpenPlant
+Bently LumenRT
+Blue Iris
+Bluebeam Revu
+Bluescape
+Blurb
+Bokeh
+BoxCast
+Brightcove
+Brightcove Zencoder
+Brightmetrics
+BryterCX
+Cacoo
+Cadence Conformal Low Power
+Cadence Innovus
+Canva (Unspecified Product)
+Canva for Enterprise
+CapCut
+CARAT
+Carbonmade
+Carlson Software (Unspecified Product)
+Cascade CMS
+Chart.js
+Chartio
+Chief Architect
+Chronograf
+CityCAD
+Clientexec
+Clipchamp
+CLO3D
+CloudBees CD
+Cloudcraft
+Cloudera Data Platform (CDP)
+Cloudinary
+Cognite Data Fusion
+Cognizant Softvision
+Conceptboard
+ConceptDraw
+Configura CET Designer
+ContextCapture
+Corel PaintShop Pro
+CoSchedule
+Covadis
+CP2K
+Creately
+Crimson Hexagon
+Croogo
+CSiBridge
+Cubeware
+Dacast
+DAEMON Tools
+Dassault BIOVIA
+Dassault Dymola
+Dassault ICEM Surf
+Dassault MagicDraw
+Datadog Cloud SIEM
+Datadog Dashboards
+Datadog Log Management
+Datadog NPM
+Datadog Real User Monitoring
+datapine
+DataV
+Datawrapper
+Debut Video Capture
+DeployStudio
+Descript
+DesignBuilder
+DGIT
+Dgraph
+Displayr
+Doceri
+Draw.io
+dRofus
+Dynistics
+EagleView Property Reports
+EagleView Reveal
+EasternGraphics (Unspecified Product)
+EasyMorph
+EditLive!
+EdrawMax
+Energy Toolbase
+Ensemble Video
+Eramba
+ERDAS APOLLO
+ERDAS IMAGINE
+Esri Location Analytics
+ETABS
+Everbridge Visual Command Center
+eVSM
+Exago
+EZMaxMobile
+FCS Express
+FeedBurner
+Figma
+FilmLight Baselight
+FlexLogger
+FlowMapp
+Fujitsu RunMyProcess
+FusionCharts
+Gaussian 16
+GE Predix Platform
+GE Vernova CIMPLICITY
+Genially
+Geocortex
+Geopointe
+GeoProbe
+GEOVIA Surpac
+ggplot2
+Gigya Share Bar
+Gliffy
+Google Analytics 360
+Google Business Profile
+Google Cast SDK
+Google Charts
+Google Cloud Looker
+Google Cloud Tasks
+Google Data Studio
+Google Maps
+Google Panoramio
+Google Photos
+Google Places
+GoPro
+Grass Valley
+Gravatar
+GreenSock
+Hadapt
+HandBrake
+HelioScope
+Hexagon GeoMedia
+Hexagon Geospatial
+Hexagon ImageStation
+Highcharts
+HOMER Energy
+HostBill
+Humio
+IBM Cognos Analytics
+IBM Cognos Insight
+IBM Cognos Integration Server
+IBM Cognos Visualizer
+IBM Information Governance Catalog (IGC)
+IBM InfoSphere BigInsights
+IBM iX
+IBM Lotus Symphony
+IBM Order Management
+IBM Rational Rose
+IBM Watson Analytics
+IBM Watson Explorer
+IBM Watson Visual Recognition
+IBM WebSphere Data Interchange
+ICONICS
+iDashboards
+idomoo
+IFTTT
+IHS Markit Kingdom
+ImageMagick
+ImagePro
+Imaris
+imgix
+Incorta
+Indicative
+Infogram
+Infragistics
+Inkscape
+iPlotz
+IQbase
+JAGGAER Advantage
+Jamboard
+JReport
+K-Lite Codec Pack
+KeyTiles
+Kibana
+Kofax Front Office Server
+Kollective
+KONA
+Labguru
+Leadfeeder
+Lightdash
+Lighting Reality
+LivePlan
+Loftware (Unspecified Product)
+Logi Analytics Platform
+LucidChart
+LucidShape
+Lumen5
+Make (formerly Integromat)
+Mapbox (Unspecified Product)
+MapLarge
+MapTiler
+Maptitude
+Maptive
+Markforged
+MarkMagic
+MathWorks (Unspecified Product)
+Matrox
+MediaShout
+Metro Monitor
+Microsoft Bing Maps
+Microsoft PlayReady
+Microsoft Power BI
+Microsoft PowerPoint
+Microsoft SQL Server Business Intelligence
+Microsoft Syntex
+Microsoft Visio
+MicroStrategy (Unspecified Product)
+MicroStrategy Dossier
+Microvellum
+MindMeister
+MineRP
+Miro
+MOO
+MouseStats
+Mozaik
+MSC Software
+MURAL
+mySidewalk
+Nearmap on OpenSolar
+Necto
+NewTek (Unspecified Product)
+Nitro Pro
+NodeXL
+Noetix Generator
+NoMuda VisualFactory
+NWChem
+Olapic
+Opendatasoft
+OpendTect
+OpenStreetMap
+OpenText GroupWise 2012
+OpenWater
+OptSim
+Oracle Crystal Ball
+Oracle Data Visualization
+Oracle Maintenance Cloud
+Oracle Spatial and Graph
+Oracle Utility Analytics
+Palette CAD
+Panaya
+Pano2VR
+Paperless Post
+PATRAN
+Penji
+Pexels
+PFTrack
+PhantomBuster
+Photoswipe
+PicMonkey
+Pixlr
+Planfix
+Planview LeanKit
+PLAXIS 2D
+Plotly.js
+PowerFLOW
+Powtoon
+Presagis (Unspecified Product)
+Presto
+PrestoDB
+Principle
+Procreate
+ProKitchen
+Pronto Software
+Proteus
+ProtoShare
+Prowly
+PTV Vissim
+Pushnami
+PVsyst
+Qarbon
+Qlik Analytics Platform
+Qlik Cloud
+Qlik Sense
+QUINDOS
+Reality Engine
+Red Giant
+Red Giant Magic Bullet Suite
+Redcine-X Pro
+Roadmunk
+Rocket CorVu
+RockWorks
+RokDoc
+Rokoko
+Roku
+Runway ML
+Salesforce Einstein Analytics
+Salesforce Maps
+Salesforce Net Zero Cloud
+SAP Analytics Cloud
+SAP Automotive Industry Solutions
+SAP BusinessObjects Business Intelligence
+SAP BusinessObjects Business Intelligence Suite
+SAP BusinessObjects Dashboards
+SAP BusinessObjects Design Studio
+SAP BusinessObjects Explorer
+SAP BusinessObjects Web Intelligence
+SAP Crystal Presentation Design
+SAP Enterprise Performance Management
+SAP GUI
+SAP HANA Live
+SAP HANA One
+SAP Lumira
+SAP Manager Self-Service (MSS)
+SAP Sybase InfoMaker
+SAS Business Intelligence
+Schlumberger Petrel
+Schrodinger Desmond
+Schrodinger Maestro
+Scout APM
+Seaborn
+Segment Analytics.js
+ServiceNow Service Mapping
+ServiceNow Store
+SevenBridges
+Shelf Logic
+Shogun
+Siemens SIMATIC WinCC
+Siemens Teamcenter Visualization
+Siemens XHQ
+Sighten
+Simcenter Flotherm
+Simcenter Nastran
+Sketch
+Sketchbook
+SketchUp
+Skrollr
+Skydio
+SmugMug
+Snapfish
+Solibri
+Sorenson Media
+Sourcepoint
+Sparx Systems
+SpeakerDeck
+Spectrum
+SpeedTree
+Splunk Enterprise
+Stardog
+StarSteer
+Statgraphics
+Streamlabs
+StreamYard
+Supermetrics
+Synopsys Avalon
+Synopsys CATS
+Synopsys Odyssey
+Synopsys Yield Explorer
+Synthesia
+Tableau (Unspecified Product)
+Tableau Bridge
+Tableau Desktop
+Tableau Mobile
+Tableau Online
+Tableau Prep Builder
+Tableau Prep Conductor
+Tableau Public
+Tableau Server
+Talend Data Integration
+Talend Data Preparation
+TensorBoard
+Teradata Vantage
+ThingLink
+TIBCO Data Virtualization
+TIBCO Statistica
+TIBCO WebFOCUS
+TigerGraph
+Toon Boom Harmony
+Toucan Toco
+Triberr
+Trimble TerraModel
+Tungsten VRS Elite
+Twiddla
+Twinmotion
+UL 360 Sustainability Essentials
+Unit4 Prevero
+Universal Type Server
+Unreal Engine
+Uscreen
+Useberry
+User Insight
+VASP
+VEED
+Vegas Pro
+Verizon Encode
+VideoLAN
+Viewlet
+Viewpoint Vista
+Vimeo OTT
+Visitor Queue
+Visual Website Optimizer
+Visualutions
+Visualutions VisDental
+VITAC
+Viz Virtual Studio
+Vizlib
+VMIX
+VMware Carbon Black EDR
+Vuforia
+Vyond
+WebinarJam
+Whatagraph
+Whimsical
+Wibbitz
+Wistia
+Wix.com
+Workday Data-as-a-Service
+Wowza
+Xmind
+XTools Pro
+YuJa
+Zenfolio
+Zoho Office Suite
+Zoomdata
+Zype

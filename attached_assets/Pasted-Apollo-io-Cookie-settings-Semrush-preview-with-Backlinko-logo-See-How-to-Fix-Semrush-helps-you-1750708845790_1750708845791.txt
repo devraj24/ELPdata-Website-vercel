@@ -1,0 +1,293 @@
+Apollo.io
+Cookie settings
+Semrush preview with Backlinko logo
+See How to Fix
+
+Semrush helps you fix it. Sign up for free.
+Free SEO Checker
+Get a detailed SEO score for any webpage instantly. Identify quick wins, fix critical issues, and outrank your competitors.
+
+www.elpdata.com
+Check SEO
+You have 2 / 3 free checks left for today.
+
+favicon
+https://www.elpdata.com/
+SEO Check
+
+58
+of 100
+This page received an SEO score of 58 out of 100. There are 8 important issues that should be fixed to improve your website's ranking on search engines and enhance its overall performance.
+7 Critical
+
+1 Warnings
+
+10 Passed
+
+Issues Overview
+7 Issues
+Robots.TXT
+Robots.txt contains invalid syntax.
+Content
+Low text-to-code ratio (0.00%) — increase content relative to code.
+Content is too thin (0 words) — expand to at least 800 words.
+H1-H6 Structure
+We suggest implementing HTML headings (H1 through H3).
+H1 Heading
+No H1 tag found — add a main heading between 5-70 characters.
+Description
+Meta description is too long (196 characters) — shorten to 140-160 characters.
+Canonical
+Missing canonical tag — search engines might index duplicate pages. Add a canonical tag to avoid confusion.
+Title
+Meta title is a bit long (67 characters) — aim for 50-60 characters.
+Get SEO insights, fix issues, and grow with a free Semrush account.
+Identify technical SEO issues quickly
+Uncover errors impacting rankings
+Analyze competitors' site health
+Access 55+ more powerful tools
+Create Free Account
+No credit card needed.
+
+Semrush Domain Analytics
+Authority Score
+
+7
+
+Ranking Keywords
+
+17
+
+Referring Domains
+
+68
+
+Organic Traffic
+
+4.2K
+Unlock
+
+Paid Traffic
+
+4.2K
+Unlock
+
+On-Page SEO Analysis
+9 Checks
+URL
+
+Tips
+URL length is good (15 characters).
+www.elpdata.com
+
+
+Canonical
+
+Tips
+Missing canonical tag — search engines might index duplicate pages. Add a canonical tag to avoid confusion.
+n/a
+
+
+Title
+
+Tips
+Meta title is a bit long (67 characters) — aim for 50-60 characters.
+ELP Data - Premium Technology Data & Business Intelligence Platform
+
+
+Description
+
+Tips
+Meta description is too long (196 characters) — shorten to 140-160 characters.
+Access verified technology user lists and enterprise data across 1000+ technologies. Connect with decision-makers, target specific implementations, and accelerate B2B sales with 96% accurate data.
+
+
+H1 Heading
+
+Tips
+No H1 tag found — add a main heading between 5-70 characters.
+n/a
+
+
+H1-H6 Structure
+
+Tips
+We suggest implementing HTML headings (H1 through H3).
+
+
+Content
+
+Tips
+Low text-to-code ratio (0.00%) — increase content relative to code.
+Content is too thin (0 words) — expand to at least 800 words.
+
+
+Image Alt
+
+Tips
+All images have alt text.
+
+
+Keyword Density
+
+Tips
+Total words: 0
+2-word phrases: 0
+3-word phrases: 0
+4-word phrases: 0
+1 word
+2 words
+3 words
+4 words
+Word	Repeats	Density
+Site Compliance
+8 Checks
+Robots.TXT
+
+Tips
+Robots.txt contains invalid syntax.
+https://www.elpdata.com/robots.txt
+
+
+XML Sitemaps
+
+Tips
+Your website contains an XML sitemap.
+https://www.elpdata.com/sitemap.xml
+
+
+Language
+
+Tips
+Language properly declared.
+en
+
+
+Noindex
+
+Tips
+Page is properly configured for search engine indexing.
+
+
+Doctype
+
+Tips
+Valid DOCTYPE declaration found.
+HTML5
+
+
+Encoding
+
+Tips
+Character encoding properly specified
+UTF-8
+
+
+Favicon
+
+Tips
+Favicon found and accessible
+https://www.elpdata.com/favicon.ico
+
+
+Security
+
+Tips
+Website is properly secured with HTTPS
+
+
+Internal & External Links
+internal Links (found 0)
+
+external Links (found 0)
+
+Improve Your SEO Strategy
+6 Tasks
+
+Review your content to match audience needs
+Read Guide
+
+Compare your traffic and rankings to competitors
+Read Guide
+
+Analyze your backlinks and find gaps compared to competitors
+Read Guide
+
+Ensure your site is fast, mobile-friendly, and easy to use
+Read Guide
+
+Set SEO goals and create a simple action plan
+Read Guide
+
+Track progress regularly and adjust as needed
+Read Guide
+Get SEO insights, fix issues, and grow with a free Semrush account.
+Instantly see all keyword positions
+Analyze competitors’ strategies
+Track performance over time
+Unlock 55+ more powerful tools
+Create Free Account
+No credit card needed.
+
+Top Pages
+The site’s top pages based on Semrush’s traffic estimate.
+URL	Traffic %	Keywords
+elpdata.com/pricing/
+100.00	2
+elpdata.com/dirty-inaccurate-exhausted-data/
+0.00	1
+View All Top Pages
+Main Organic Competitors
+Competitive domains are displayed depending on competition level.
+Domain	Com. Keywords	Com. Level
+stacko.io
+2	49%
+bridgemarksolutions.com
+2	36%
+View All Organic Competitors
+Keyword Rankings
+See your site’s top 5 keyword rankings, sorted by the highest traffic-driving keywords.
+Keyword	Rank	Traffic %	Volume	KD %	CPC (USD)	# of Results	Search Trend
+prospect data kopen	
+1
+50.00	90	
+0.00	66	
+prospectdata kopen	
+1
+50.00	90	
+0.00	67	
+company email list	
+61
+0.00	140	
+5.51	2.9B	
+b2b list building services	
+93
+0.00	90	
+0.00	68.9M	
+mailing lists business	
+78
+0.00	30	
+20.79	6.4B	
+Get a 14-day FREE Semrush trial to see more
+Get more requests and unlock hidden results by starting a free Pro trial now.
+
+Get free trial
+See plans and pricing
+Google Search Console Performance
+Connect Google Services
+Create a Semrush project and enrich your analysis with real-time data from Google Analytics and Google Search Console
+
+Create Free Account
+Report Navigation
+
+Summary
+Domain Analytics
+SEO Analysis
+Site Compliance
+Links
+SEO Strategy
+Semrush Analysis
+Audit your entire website & fix what’s holding you back
+
+Start for Free
+

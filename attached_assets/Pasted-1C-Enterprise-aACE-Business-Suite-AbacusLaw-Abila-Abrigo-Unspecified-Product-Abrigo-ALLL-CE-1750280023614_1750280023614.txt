@@ -1,0 +1,760 @@
+1C Enterprise
+aACE Business Suite
+AbacusLaw
+Abila
+Abrigo (Unspecified Product)
+Abrigo ALLL & CECL
+Abrigo BAM+
+Abrigo Sageworks
+AccessPay
+Acclaim Software
+Accountant’s Drill
+Accountedge
+Accounting Seed
+AccountMate
+AccuFund
+AchieveIt
+ACI Worldwide
+Acomba
+Acumatica Financial Management
+Adfinity
+Adhesion Wealth
+Adirondack
+Adsolut
+AfterPay
+Airbase
+Algorithmics
+AliPay
+Alkami
+Alogent
+Alpha Vantage
+Amdocs Optima
+American Express
+American Utility Management
+AmpliFund
+AMTdirect
+Aplos Accounting
+Apptio Cloudability
+ArchiOffice
+Aria Systems
+AscendEX
+Aspen Systems Canopy
+Asset4000
+AssetBook
+AssureNET
+ATPI Corporate Travel
+aurora
+Avantage PRO
+AVEVA Production Management
+AvidXchange
+AWS Cost Explorer
+Axiom Software
+B2W Track
+Backstop CRM
+Backstop Portfolio Management
+Backstop Solutions
+Bakkt
+BankVOD
+Basecone
+Basware Accounts Receivable
+Basware AP Automation
+Basware Financing Services
+Basware Source to Pay
+Beanworks
+Bectran
+Bento
+bexio
+BigTime
+Bill.com
+Bill4Time
+BillingPlatform
+BillQuick
+BillTrust
+BirchStreet
+Blackbaud
+Blackbaud Financial Edge
+Blackbaud Financial Edge NXT
+Blackbaud NetCommunity
+BlackLine
+Blockdaemon
+Blue Sage Solutions
+Blueleaf
+Boardable
+Bonterra Organizing
+Bostonpost
+Botkeeper
+Bottomline Accounts Payable Automation
+BQE CORE
+Broadridge
+Broadridge Advisor Solutions
+BrokerSumo
+BST10
+BuildingBlok
+Buildium (Unspecified Product)
+BytePro
+Calero Telecom Expense Management
+CALUMO
+Canopy
+Canopy Tax
+Capgemini
+Capium
+Captable.io
+Captools/net
+CaseWorthy
+CBiz
+CCH ProSystem fx Suite
+CCH Tagetik
+Centage Planning Maestro
+Certify
+Certinia Accounting
+Cforia
+CGI ACAPS
+CGI Advantage
+CGI Momentum
+Chargebacks911
+Chargebee
+ChargeOver
+Chargify
+Charityproud
+Checkbook
+Checkout.com
+Cheetah
+Cheops
+Chili Piper
+Chrome River
+Chrome River Invoice
+Chronograph
+Clarity Travel Management
+Clear Books
+ClearGov
+ClearView CRM
+Clearview InFocus
+Clearwater Analytics
+Cleemy
+ClickBid
+Clio Manage
+CoConstruct
+Codat
+COINS
+Columbia Ultimate
+Comdata
+Commerce Server
+CompAnalyst
+Compleat
+ComplySci
+Computer Guidance Corporation
+ComputerEase
+Comtravo
+Concur Analytics
+Concur Budget
+Concur Detect by Oversight
+Concur Drive
+Concur Expense
+Concur ExpenseIt
+Concur Gelco
+Concur Intelligence
+Concur Invoice
+Concur Invoice Capture
+Concur Payment
+Concur Purchase Request
+Concur Request
+Concur Three-Way Match
+Concur Travel
+Concur TripLink
+ContaAzul
+Contanet
+CONTPAQi
+Corcentric (Unspecified Product)
+Corcentric Accounts Payable Automation
+Corelation
+Cougar Mountain Denali
+Coupa (Unspecified Product)
+Coupa Expense
+Coupa Invoice
+Coupa Pay
+Coupa Procure-to-Pay
+Coupa Spend Analysis
+Coupa Spend360
+Coupa Travel and Expense Management
+Coupa Treasury
+CREALOGIX
+Cross River Bank
+Crunch Accounting
+CTM
+Cube Software
+Danea Easyfatt
+Databuild
+DataSnipper
+DataVisor
+DATEV Accounting
+DCI iCore360
+Debtbook
+DecisionLogic
+Deltek Costpoint
+Deltek FMS
+Deltek Sema4
+Deltek Vision
+DESTINI Estimator
+Diamond SIS
+DIAMS
+Digital River
+Divvy
+dLocal
+DNAcreator
+DocFinance
+DonorDrive
+DonorPerfect
+DonorSnap
+Drake Accounting
+DriveWealth
+Dun & Bradstreet (Unspecified Product)
+Duzon
+Duzon ERP
+Eagle Investment Systems
+Early Warning
+Ecount ERP
+Elite 3E
+Ellucian Banner Finance
+Emida
+Employee Advocacy by Sprout Social
+Enertia Accounting and Financials
+Enfusion
+Entrata Accounting
+Envestnet
+ePDS
+Epicor Manage 2000
+Ericsson Billing
+ERP Omega
+Esker
+eWealthManager
+Exact
+eXimius
+Expense8
+ExpensePoint
+Eze Investment Suite
+EZlease
+ezyCollect
+Family Law Software
+Feedzai
+FinancialForce
+Finantix
+Finicity
+FinScan
+Finxact
+FIS Adaptiv
+FIS AddVantage
+FIS BancWare
+FIS Data Integrity Manager
+FIS EAS
+FIS Global Systematics
+FIS IBS Core Platform
+FIS InvestOne
+FIS Investran
+FIS Trax
+FIS Trust and Custody Services
+Fisa System
+Fiserv (Unspecified Product)
+Fiserv DNA
+Fiserv Prologue
+Fiserv Weiland Account Analysis
+Flexline ERP
+Floify
+FloQast
+Flywire
+Foundation Software
+FPS GOLD
+FreshBooks
+FrontStream GiftWorks
+FUND E-Z
+Fundbox
+FundCount
+FusionIM
+Futrli
+FXmicropay
+Fyle
+GDS Link
+GoCardless
+GoTransverse
+GPI EUSIS
+Greenshades
+Harris Accounting +Plus
+Harris Enterprise Resource Planning
+Harris Govern
+HarrisData (Unspecified Product)
+HarrisData ERP
+High Radius
+HoneyBook
+Horizon ERP
+i2c
+IBM Cognos Controller
+IBM Cognos Financial Statement Reporting (FSR)
+IBM Emptoris Spend Analysis
+IBM Watson Supply Chain
+Ideagen Pentana Audit
+IDU-Concept
+IFS Applications
+IFS Financials
+IHS MarkitSERV FX
+IMSplus
+inDinero
+Infinicept
+Infoodle
+Infor CloudSuite Expense Management
+Infor CloudSuite Financials
+Infor CloudSuite Public Sector
+Infor Construction
+Infor Dynamic Enterprise Performance Management
+Infor F9
+Infor SmartStream
+Infor Supply Chain Finance
+Innovest (Unspecified Product)
+Intapp Intake
+Intapp Integration Service
+Intellect Design Arena
+Intuit Mint
+InvestCloud
+Invoice2go
+InvoiceCloud
+Iress
+IRIS PTP
+iTimeKeep
+Itineris UMAX 365
+Ivalua eInvoicing
+Ivalua Invoicing
+Ivalua Payables
+Ixaris
+Jack Henry Yellow Hammer
+JAGGAER Accounts Payable
+JAMIS Prime ERP
+JD Edwards EnterpriseOne Fixed Asset Accounting
+JD Edwards World Accounts Payable
+JD Edwards World Accounts Receivable
+JD Edwards World Expense Management
+JD Edwards World Fixed Asset Accounting
+JD Edwards World General Ledger Accounting
+Jirav
+JobBOSS
+Jonas Construction
+K-System (Unspecified Product)
+Karmak
+KashFlow
+Kashoo
+KCI CONTROL
+Kofax SupplierExpress
+KwikTag
+Latitude by Genesys
+Lawson S3 Financial Management
+LeaseCalcs
+LeaseCrunch
+LeaseQuery
+Lender Price
+LexisNexis Juris
+Linedata
+Lone Wolf Real Estate
+LucaNet
+Lucernex
+M3
+Maincare M-GELF
+Mambu
+Mark Systems IHMS
+Mastercard Click to Pay
+Mazooma
+Megara
+Meniga
+Microsoft Dynamics 365 Finance
+Microsoft Dynamics AX
+Microsoft Dynamics GP
+Microsoft Dynamics NAV
+Microsoft FRx
+MINDBill
+MindBridge
+MineralTree (Unspecified Product)
+MineralTree TotalAP
+MIP Fund Accounting
+Mitratech Managed Bill Review
+MobileCause
+Moody's Analytics ALM
+Moody's ESG
+Mooncard
+Morningstar Principia
+MSCI ESG
+Mudrex
+Multipub
+MX.2.11
+MX.3.1
+My Quorum Accounting
+My Quorum TIPS
+MYOB
+mySAP ERP
+Nansen
+Naver Pay
+Neo
+Neodata
+NeoXam Investment Accounting
+NETELLER
+NetLease
+NetSuite (Unspecified Product)
+NetSuite Financial Management
+NetSuite OneWorld
+NetSuite OpenAir
+NetSuite Revenue Management
+Netsuite SuiteSuccess Nonprofit
+NetYield
+New Generation Software
+Nexonia
+Nexus Systems
+NICE Actimize
+Nitrogen Wealth
+NolaPro
+Nova Credit
+NOZA
+Nvoicepay
+ObjectWay
+Odoo (Unspecified Product)
+Omie
+OneStream
+OneSumX
+OnPay
+Onvio
+Open Systems
+Open Systems Accounting Software (OSAS)
+OpenDigits
+OpenGov
+Oracle 360 Contract Billing
+Oracle Advanced Collections
+Oracle Banking Digital Experience
+Oracle BRM (Oracle Billing & Revenue Management)
+Oracle Cash Management
+Oracle Cloud EPM
+Oracle Cloud EPM Planning
+Oracle Cloud EPM Profitability and Cost Management
+Oracle Credit Management
+Oracle Crystal Ball
+Oracle ERP Cloud
+Oracle Financial Consolidation and Close Cloud
+Oracle Financial Services
+Oracle Financials Cloud
+Oracle Financing
+Oracle FLEXCUBE
+Oracle Fusion Cloud Enterprise Performance Management (EPM)
+Oracle General Ledger
+Oracle Hyperion Enterprise
+Oracle Hyperion Financial Management
+Oracle iReceivables
+Oracle JD Edwards EnterpriseOne Accounts Payable
+Oracle JD Edwards EnterpriseOne Accounts Receivable
+Oracle JD Edwards EnterpriseOne Financial Management
+Oracle JD Edwards EnterpriseOne General Ledger
+Oracle MES for Process Manufacturing
+Oracle Payables
+Oracle Payments
+Oracle Payroll
+Oracle Project Billing
+Oracle Project Costing
+Oracle Receivables
+Oracle Retail Merchandise Financial Planning
+Oracle Revenue Management Cloud
+Oracle Spend Classification
+Oracle Textura
+Pagaya
+Pandell PetroNet
+Papersoft
+Patriot Accounting
+Patriot Payroll
+Patriot Software (Unspecified Product)
+Pax8 Platform
+paygate
+PayPanther
+PaySafe
+PENTA Construction Software
+PeopleSoft Billing
+PeopleSoft ePay
+Persefoni
+PEX
+Pinwheel
+PitchBook
+Pleo
+Plooto
+Plus&Minus
+PracticeMaster
+PracticePanther
+PreciseFP
+PrecisionLender
+PRGX
+Principia
+Priority ERP
+PrismHR
+Proactis Invoice
+PROCAS
+Procore Invoice Management
+PROFITsystems
+Prologue Financials
+ProPay
+Proximis
+Q2 Fintech
+QPLIX
+Questica
+QuickBooks
+Quickbooks Desktop
+QuickBooks Desktop Pro
+QuickBooks Enterprise
+QuickBooks Online
+QuickBooks Online Advanced
+Quickbooks Premier Plus
+Quickbooks Time
+Quicken Premier
+Quorum Execute
+Qvinci
+R3 (Unspecified Product)
+RealPage Accounting
+RealPage Utility Management
+ReconArt
+ReconNET
+RecVue
+Red Wing CenterPoint
+REG-Reporter
+Regate
+RepRisk
+Resource Management by Smartsheet
+ResourceLink
+Rev.io
+RevTrak
+RIB MTWO
+RiskConfidence
+RR Donnelley Venue
+Saasu
+SafeSend
+Sage (Unspecified Product)
+Sage 100
+Sage 100 Contractor
+Sage 100cloud
+Sage 200
+Sage 300cloud
+Sage 50
+Sage 500
+Sage 50cloud Accounting
+Sage Accounting
+Sage Business Cloud
+Sage BusinessVision Accounting
+Sage BusinessWorks
+Sage DacEasy
+Sage Fixed Assets
+Sage Intacct
+Sage Logic Class
+Sage Pay
+Sage TimeSlips
+Sageworks Credit Risk
+Salary Finance
+SalesPad Cloud
+SAP Account Substantiation and Automation by BlackLine
+SAP Accounts Payable and Receivable
+SAP Accounts Payable Process Automation
+SAP Ariba Buying and Invoicing
+SAP Ariba Contract Invoicing
+SAP Ariba Invoice Management
+SAP Ariba Payables
+SAP Ariba Procurement Mobile App
+SAP Ariba Snap
+SAP Ariba Sourcing, Savings and Pipeline Tracking
+SAP Asset Accounting (AA)
+SAP Bank Analyzer
+SAP Banking Industry Solutions
+SAP BCM
+SAP Billing and Revenue Innovation Management
+SAP Cash Management
+SAP Central Finance
+SAP Collections and Dispute Management
+SAP Controlling (CO)
+SAP Credit Management
+SAP Customer Care and Service (CCS)
+SAP ECC EHP 6
+SAP ECC EHP 7
+SAP ECC EHP 8
+SAP ERP
+SAP ERP Central Component (ECC)
+SAP ERP Central Component (ECC) 5.0
+SAP ERP Central Component (ECC) 6.0
+SAP ERP Financials
+SAP Financial Accounting (FI)
+SAP Financial Closing Cockpit
+SAP Financial Consolidation
+SAP Financial Management
+SAP Financial Supply Chain Management (FSCM)
+SAP for Insurance
+SAP General Ledger Accounting (FI-GL)
+SAP Intercompany Financial Hub
+SAP Invoice Management by OpenText
+SAP Loans Management
+SAP POS Data Management
+SAP Price and Margin Management (PMM)
+SAP Profitability Analysis (PA)
+SAP Profitability and Performance Management
+SAP PY
+SAP R/2
+SAP R/3
+SAP Recycling Administration
+SAP Reinsurance Management (FS-RI)
+SAP Revenue Accounting and Reporting (RAR)
+SAP Subscription Billing
+SAP Utility Customer E-Services (UCES)
+SAP Working Capital Management
+Sargon Decimal
+SAS Fraud Management
+SatuitCRM
+Sayari Labs
+SBS Financials
+ScaleFactor
+SchoolCash
+SEI Investment Platform
+Sentieo
+Serrala
+ServiceNow Audit Management
+ServiceNow Financial Services Operations
+SGA Accounting
+Shareworks
+Shiftsuite
+Sidetrade
+SimCorp
+SimCorp Dimension
+Sistemi eSolver
+SkyStem ART
+Smart Contractor
+SmartFusion
+Softeon Warehouse Management System
+Soliam
+Sopheon
+Southware ERP
+Sparkrock 365
+Spendesk
+Spendwise
+Spenmo
+SpyGlass
+SS&C
+SS&C Antares
+SS&C FundRunner Marathon
+SS&C Geneva
+SS&C HiPortfolio
+SS&C Maximis
+SS&C Syncova
+SS&C WalletShare
+Stampli (Unspecified Product)
+Stampli Accounts Payable Automation
+State Street (Unspecified Product)
+State Street DataGX
+Stessa
+sticky.io
+STORIS
+Stripe Billing
+STRUCTURE
+SuccessWare
+Suralink
+SutiExpense
+SWIFT
+Symitar
+Synario
+T24
+Tabs3
+Talisma Fundraising
+Tally.ERP 9
+TallyPrime
+Tamarac
+tastytrade
+Tastyworks
+TaxBit
+Taxfiler
+TaxSlayer
+TaxSlayer Pro
+TCS BaNCS
+TeamMate Audit
+Teampay
+Technisys
+TechnologyOne
+TechnologyOne Financials
+Temenos Infinity
+Temenos Transact
+Teradata Decision Experts
+TermSync
+Tesorio
+The Portfolio Genius
+ThetaRay
+Thomson Reuters (Unspecified Product)
+Thomson Reuters ProLaw
+Thought Machine
+Tipalti
+TOPS [ONE]
+Total System Services (TSYS)
+TOTVS ERP
+TouchNet
+TRACKMAX
+TradingScreen
+Transcepta
+TravelBank
+TRAVERSE ERP
+Treasury Intelligence Solutions (TIS)
+Trinity TMS
+Trintech Cadency
+TriplePoint Capital
+Trovata
+TrueLayer
+Trumid
+Trustly
+Tungsten AP Essentials
+Tungsten MarkView
+Tungsten Network
+Tungsten Network Workflow
+Turnkey Lender
+Unanet (Unspecified Product)
+Unit4 ERP
+Universal Accounting Software
+Uplevl
+Vena
+Ventus
+VersaPay
+Vestserve
+Viewpoint Vista
+Visa
+Visma Enterprise Suite
+Volante (Unspecified Product)
+VolPay
+W Energy (Unspecified Product)
+Wallstreet Suite
+Wave Accounting
+Weiland BRMedge
+Wellspring
+WinTeam
+Wise
+Wolters Kluwer (Unspecified Product)
+Wolters Kluwer Twinfield
+Workday
+Workday Accounting and Finance
+Workday Accounting Center
+Workday Expenses
+Workday Financial Management
+Workday Revenue Management
+WorkWave ServMan
+Wrapbook
+Xceptor
+Xeeva
+Xentis
+Xero
+Xero Practice Manager
+Xledger
+Yardi Genesis2
+Yardi Investment Management
+Yardi Investment Suite
+Yardi PAYscan
+Yardi Voyager
+YayPay
+yonyou
+Yooz
+Zahara
+Zelle
+Zetadocs
+ZipBooks
+Zoho Books
+Zucchetti
+Zuora CPQ
+Zuora RevPRO
+Zycus
+Zycus eInvoicing Software
+Zycus Financial Savings Management Software - iSave

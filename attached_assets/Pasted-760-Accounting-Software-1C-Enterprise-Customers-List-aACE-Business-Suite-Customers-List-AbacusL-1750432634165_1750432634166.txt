@@ -1,0 +1,428 @@
+760+
+Accounting Software
+1C Enterprise Customers List
+aACE Business Suite Customers List
+AbacusLaw Customers List
+Abila Customers List
+Abrigo ALLL & CECL Customers List
+Abrigo BAM+ Customers List
+Abrigo Sageworks Customers List
+AccessPay Customers List
+Acclaim Software Customers List
+Accountant's Drill Customers List
+All Technologies (10):
+1C Enterprise
+234,567
+aACE Business Suite
+189,456
+AbacusLaw
+156,789
+Abila
+123,456
+Abrigo ALLL & CECL
+98,765
+Abrigo BAM+
+87,654
+Abrigo Sageworks
+76,543
+AccessPay
+65,432
+Acclaim Software
+54,321
+Accountant's Drill
+43,210
+Hide Technologies
+20+
+Big Data
+Apache Spark Customers List
+Informatica Customers List
+Teradata Customers List
+Apache Hadoop Customers List
+Apache Hbase Customers List
+MongoDB Customers List
+Cassandra Customers List
+Cloudera Customers List
+Hortonworks Customers List
+MapR Customers List
+View All 20 Technologies
+30+
+Marketing Automation
+HubSpot Customers List
+Marketo Customers List
+InfusionSoft Customers List
+Salesforce Pardot Customers List
+Adobe DTM Customers List
+Eloqua Customers List
+Act-On Customers List
+SharpSpring Customers List
+GetResponse Customers List
+Constant Contact Customers List
+View All 30 Technologies
+229+
+DBMS
+Microsoft SQL Server Customers List
+MySQL Customers List
+Oracle Database Customers List
+MongoDB Customers List
+PostgreSQL Customers List
+Redis Customers List
+Elasticsearch Customers List
+Cassandra Customers List
+IBM DB2 Customers List
+SAP HANA Customers List
+View All 229 Technologies
+40+
+HR Management
+ADP Payroll Customers List
+Oracle HCM Cloud Customers List
+BambooHR Customers List
+PeopleSoft HCM Customers List
+Workday HCM Customers List
+Ultimate Software Customers List
+Cornerstone OnDemand Customers List
+SuccessFactors Customers List
+Kronos Customers List
+Ceridian Customers List
+View All 40 Technologies
+25+
+WCMS Software
+WordPress Customers List
+Joomla Customers List
+Magento Customers List
+Drupal Customers List
+Adobe Dreamweaver Customers List
+Sitecore Customers List
+Umbraco Customers List
+Kentico Customers List
+DotNetNuke Customers List
+Squarespace Customers List
+View All 25 Technologies
+20+
+Middleware
+IBM WebSphere MQ Customers List
+Microsoft BizTalk Server Customers List
+MuleSoft Customers List
+Oracle Fusion Middleware Customers List
+Informatica PowerCenter Customers List
+Tibco Customers List
+Apache Camel Customers List
+Red Hat JBoss Customers List
+View All 20 Technologies
+15+
+Live Chat Software
+Freshdesk Customers List
+Zendesk Customers List
+Tawk.to Customers List
+LiveChat Customers List
+LivePerson Customers List
+Intercom Customers List
+Drift Customers List
+Olark Customers List
+Zopim Customers List
+Pure Chat Customers List
+View All 15 Technologies
+505+
+Business Intelligence
+Microsoft Power BI Customers List
+Tableau Customers List
+SAP Analytics Cloud Customers List
+Qlik Sense Customers List
+IBM Cognos Analytics Customers List
+MicroStrategy Customers List
+Looker Customers List
+SAS Business Intelligence Customers List
+Oracle Analytics Cloud Customers List
+Amazon QuickSight Customers List
+View All 505 Technologies
+30+
+Enterprise Applications
+Oracle E-Business Suite Customers List
+Software AG Customers List
+Ab Initio Customers List
+SAP Quality Management Customers List
+Oracle AutoVue Customers List
+PeopleSoft Customers List
+Siebel Customers List
+JD Edwards Customers List
+Lawson Customers List
+Infor Customers List
+View All 30 Technologies
+20+
+Supply Chain Management
+SAP Ariba Customers List
+SAP MM Customers List
+Infor GT Nexus Customers List
+Infor Demand Management Customers List
+JDA Customers List
+Oracle SCM Customers List
+Manhattan Associates Customers List
+Blue Yonder Customers List
+Kinaxis Customers List
+E2open Customers List
+View All 20 Technologies
+15+
+Marketing Cloud Platform
+Salesforce Marketing Cloud Customers List
+Infor Orbis Customers List
+SAP Marketing Cloud Customers List
+Adobe Marketing Cloud Customers List
+Oracle Eloqua Customers List
+HubSpot Marketing Hub Customers List
+Marketo Engage Customers List
+View All 15 Technologies
+25+
+Financial Management
+PeopleSoft Project Costing Customers List
+QuickBooks Capital Customers List
+SAP Billing Customers List
+PeopleSoft Billing Customers List
+Lawson S3 Customers List
+Oracle Financials Customers List
+NetSuite Financials Customers List
+Sage Intacct Customers List
+Workday Financials Customers List
+View All 25 Technologies
+20+
+Project Management
+Oracle Primavera Customers List
+NetSuite PSA Customers List
+Trello Customers List
+BaseCamp Customers List
+Microsoft Project Customers List
+Asana Customers List
+Monday.com Customers List
+Smartsheet Customers List
+Wrike Customers List
+Jira Customers List
+View All 20 Technologies
+25+
+Data Integration
+SAS Data Integration Customers List
+SAS/ACCESS Customers List
+IBM InfoSphere Information Server Customers List
+Talend Customers List
+IBM InfoSphere DataStage Customers List
+Informatica PowerCenter Customers List
+MuleSoft Customers List
+Dell Boomi Customers List
+SnapLogic Customers List
+Apache Kafka Customers List
+View All 25 Technologies
+40+
+Cloud Infrastructure
+Amazon AWS Customers List
+Microsoft Azure Customers List
+Google Cloud Platform Customers List
+IBM Cloud Customers List
+Oracle Cloud Infrastructure Customers List
+DigitalOcean Customers List
+Linode Customers List
+Vultr Customers List
+Alibaba Cloud Customers List
+Salesforce Heroku Customers List
+View All 40 Technologies
+35+
+Security & Compliance
+Symantec Endpoint Protection Customers List
+McAfee ePO Customers List
+Trend Micro Customers List
+Kaspersky Customers List
+CrowdStrike Falcon Customers List
+SentinelOne Customers List
+Carbon Black Customers List
+Cylance Customers List
+Palo Alto Networks Customers List
+Fortinet FortiGate Customers List
+View All 35 Technologies
+30+
+DevOps & Development Tools
+Jenkins Customers List
+GitLab CI/CD Customers List
+GitHub Actions Customers List
+CircleCI Customers List
+Travis CI Customers List
+Azure DevOps Customers List
+TeamCity Customers List
+Bamboo Customers List
+Octopus Deploy Customers List
+Spinnaker Customers List
+View All 30 Technologies
+25+
+Collaboration & Communication
+Microsoft Teams Customers List
+Slack Customers List
+Zoom Customers List
+WebEx Customers List
+GoToMeeting Customers List
+Skype for Business Customers List
+Google Workspace Customers List
+Microsoft 365 Customers List
+Dropbox Business Customers List
+Box Customers List
+View All 25 Technologies
+20+
+Analytics & Data Science
+SAS Customers List
+SPSS Customers List
+R Customers List
+Python Customers List
+Apache Spark Customers List
+Hadoop Customers List
+Databricks Customers List
+Snowflake Customers List
+Palantir Customers List
+Alteryx Customers List
+View All 20 Technologies
+18+
+E-commerce & Retail
+Shopify Customers List
+WooCommerce Customers List
+Magento Customers List
+BigCommerce Customers List
+Salesforce Commerce Cloud Customers List
+SAP Commerce Customers List
+Oracle Commerce Customers List
+Adobe Commerce Customers List
+Prestashop Customers List
+OpenCart Customers List
+View All 18 Technologies
+15+
+Manufacturing & IoT
+Siemens PLM Customers List
+Autodesk Customers List
+SolidWorks Customers List
+PTC Windchill Customers List
+Dassault Systemes Customers List
+ANSYS Customers List
+Bentley Systems Customers List
+Rockwell Automation Customers List
+Schneider Electric Customers List
+GE Digital Customers List
+View All 15 Technologies
+190+
+Transportation Management Software (TMS)
+24SevenOffice Customers List
+3GTMS Customers List
+ADSI Shipping Customers List
+AESCUDATA Customers List
+AgileAssets Customers List
+Alpega TMS Customers List
+amfori BSCI platform Customers List
+AscendTMS Customers List
+Asprova Customers List
+Atlas Planning Platform Customers List
+View All 190 Technologies
+240+
+Electronic Payment Systems
+2Checkout Customers List
+ACI Base24 Customers List
+ACI Base24-eps Customers List
+ACI Worldwide Customers List
+Adyen Customers List
+Affirm Customers List
+AfterPay Customers List
+Airwallex Customers List
+Ali WangWang Customers List
+AliPay Customers List
+View All 240 Technologies
+120+
+Spend Management
+Acubiz Customers List
+Addepar Customers List
+Aggregate Knowledge Customers List
+Airbase Customers List
+AmpliFund Customers List
+APEX Analytix Customers List
+Apptricity Customers List
+Azure Cost Management Customers List
+Basware Procure-to-Pay Customers List
+Basware Travel & Expense Management Customers List
+View All 120 Technologies
+240+
+Construction Software
+AccuBuild Customers List
+Acculynx Customers List
+Active Takeoff Customers List
+ADAPT Customers List
+AGTEK Customers List
+AroFlo Customers List
+Asite Customers List
+Assignar Customers List
+Autodesk Constructware Customers List
+AVEVA Bocad Customers List
+View All 240 Technologies
+310+
+Payroll Software
+1C Enterprise Customers List
+7Shifts Customers List
+Access EasyPay Customers List
+Accountedge Customers List
+ACCURAT HCM Customers List
+ActivityHD Customers List
+AcuStaf Customers List
+ADP Customers List
+ADP Celergo Customers List
+ADP Comprehensive Services Customers List
+View All 310 Technologies
+963+
+Application Development Tools
+C Enterprise Customers List
+A1WebStats Customers List
+Abstract Customers List
+Accelerite CloudPortal Business Manager Customers List
+ACCELQ Customers List
+accessiBe Customers List
+Accompa Customers List
+Active>Data Customers List
+ActiveState Customers List
+Adobe Analytics Data Connector Customers List
+View All 963 Technologies
+502+
+Data Center Infrastructure Management
+1E Customers List
+1E AppClarity Customers List
+1E Tachyon Customers List
+6connect Customers List
+ABB Ability Customers List
+Accenture Infrastructure Services Customers List
+Actian DataCloud Customers List
+Active IQ Unified Manager Customers List
+Adobe Acrobat Sign Customers List
+AetherPal Customers List
+View All 502 Technologies
+328+
+Identity Governance
+1Password Customers List
+Accertify Customers List
+Access Auditor Customers List
+Adabas SAF Security Customers List
+ADSelfService Plus Customers List
+Aegify Customers List
+Akamai EAA Customers List
+AlertEnterprise Customers List
+Alloy Customers List
+Amazon Cognito Customers List
+View All 328 Technologies
+316+
+Security Information and Event Management (SIEM)
+42Crunch Customers List
+Access Auditor Customers List
+ADSelfService Plus Customers List
+Agent Vi Customers List
+Alert Logic Customers List
+Alert Logic Cybersecurity Monitoring Customers List
+AlienVault Customers List
+AlienVault Unified Security Management Customers List
+Amazon Fraud Detector Customers List
+Amazon GuardDuty Customers List
+View All 316 Technologies
+15+
+PLM Software
+Dassault Enovia Customers List
+Oracle Agile PLM Customers List
+Siemens Teamcenter Customers List
+Infor PLM Customers List
+PTC Windchill Customers List
+Autodesk Vault Customers List
+Arena PLM Customers List
+View All 15 Technologies

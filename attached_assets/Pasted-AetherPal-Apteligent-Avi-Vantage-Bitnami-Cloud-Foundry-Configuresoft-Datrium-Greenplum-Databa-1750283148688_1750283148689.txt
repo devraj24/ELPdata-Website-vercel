@@ -1,0 +1,127 @@
+AetherPal
+Apteligent
+Avi Vantage
+Bitnami
+Cloud Foundry
+Configuresoft
+Datrium
+Greenplum Database
+Heptio Kubernetes Subscription
+Ionix
+Jasmine
+Pivotal Data Suite
+Pivotal HDB
+Pivotal Software
+Pivotal SQLFire
+Pivotal tc Server
+Pivotal Tracker
+Pivotal Web Server
+RabbitMQ
+Salt Open
+SaltStack
+Sonobuoy
+Spring
+Spring Boot
+Spring Cloud
+Spring Cloud Sleuth
+Spring XD
+Velero
+VMware (Unspecified Product)
+VMware ACE
+VMware AirWatch
+VMware App Volumes
+VMware AppDefense
+VMware Aria Automation
+VMware Aria Operations
+VMware Aria Operations for Logs
+VMware Aria Operations for Networks
+VMware Blast
+VMware Capacity Planner
+VMware Carbon Black
+VMware Carbon Black Cloud Endpoint Standard
+VMware Carbon Black EDR
+VMware Cloud Director
+VMware Cloud Foundation
+VMware Cloud Management
+VMware Cloud on Dell EMC
+VMWare CloudHealth
+VMware Data Recovery
+VMware Disaster Recovery
+VMware Distributed Power Management (DPM)
+VMware Distributed Resource Scheduler (DRS)
+VMware Enterprise PKS
+VMware ESX 3.0
+VMware ESX 3.5
+VMware ESX 4.0
+VMware ESXi
+VMware ESXi 4.0
+VMware ESXi 4.1
+VMware ESXi 5.0
+VMware Fusion
+VMware GSX Server
+VMware Harbor
+VMware HCI
+VMware HCX
+VMware Horizon
+VMware Horizon Client
+VMware IT Business Management
+VMware Nicira
+VMware NSX
+VMware NSX Data Center
+VMware NSX Data Center for vSphere
+VMware NSX-T Data Center
+VMware Photon OS
+VMware PLUMgrid
+VMware SD-WAN by VeloCloud
+VMware Secure Access
+VMware Server
+VMware Service Manager
+VMware Site Recovery Manager
+VMware Socialcast
+VMware Storage vMotion
+VMware Studio
+VMware ThinApp
+VMware vCenter
+VMware vCenter Application Discovery Manager
+VMware vCenter AppSpeed
+VMware vCenter CapacityIQ
+VMware vCenter Chargeback
+VMware vCenter Converter
+VMware vCenter Lab Manager
+VMware vCenter Operations
+VMware vCenter Server
+VMware vCenter Server Heartbeat
+VMware vCloud
+VMware vCloud Air
+VMware vCloud Director
+VMware vFabric
+VMware vFabric Application Director
+VMware vFabric Application Performance Manager
+VMware vFabric Data Director
+VMware View Manager
+VMware Virtual Desktop Infrastructure
+VMware Virtual Infrastructure
+VMware VMmark
+VMware Volume Purchasing Program
+VMware vRealize
+VMware vRealize Configuration Manager
+VMware vRealize Hyperic
+VMware vRealize Operations
+VMware vRealize Orchestrator
+VMware vSAN
+VMware vSAN ReadyNode
+VMware vShield
+VMware vShield Edge
+VMware vShield Endpoint
+VMware vSphere
+VMware vSphere Enterprise Plus
+VMware Workspace ONE
+VMware Workstation Player
+VMware Workstation Pro
+vSphere Fault Tolerance (FT)
+vSphere High Availability (HA)
+vSphere ROBO
+vSphere vMotion
+Wanova
+Wavefront
+Workspace ONE Unified Endpoint Management

@@ -1,0 +1,171 @@
+2Checkout
+ACI Base24
+ACI Base24-eps
+ACI Worldwide
+Adyen
+Affirm
+AfterPay
+Airwallex
+Ali WangWang
+AliPay
+Alogent
+Amazon Payments
+American Express
+American Utility Management
+Apple Pay
+Apriva
+Authorize.Net
+Avaloq Core
+Avangate Monetization Platform
+Bancontact
+Barclaycard Smartpay
+BitPay
+Blackhawk Network
+BlueSnap
+Bolt
+Bottomline Paymode-X
+Braintree
+Bread
+Brex
+CardinalCommerce
+Cash App
+Cashfree
+CCBill
+Cerner Revenue Cycle Management
+Chargify
+Clair Digital Banking
+Clearpay
+CoinDesk
+CoreCard
+Corpay
+CR2
+CyberSource
+dLocal
+Dwolla
+EBANX
+EBizCharge
+Elavon Fusebox
+Epos Now
+Equisoft
+FamilyID
+Fexco Currency Conversion Solutions
+Finastra Global PAYplus
+Finastra Transaction Banking
+Flattr
+Flutterwave
+Forter
+Fundtech
+FXmicropay
+Galileo
+GCPay
+GiftRocket
+GoCardless
+Google Checkout
+Google Pay
+Google Wallet
+GPS
+Green Dot
+Heartland Payment Systems
+Hyperwallet
+Ingenico
+Intuit Mint
+IRIS Payroll Professional
+Iugu
+K-System (Unspecified Product)
+Kabbage
+Kakao Pay
+Klarna
+Kount
+LevelUp
+Linedata
+Marqeta
+Mastercard Click to Pay
+Masterpass
+Melio
+Microsoft AppSource
+Microsoft Dynamics GP
+Miiduu
+MindGate
+Mollie
+Moneris
+Naver Pay
+NIM
+OmniPay
+One Inc
+Oracle Textura
+Oracle Textura Payment Management
+Paddle
+PagSeguro
+Payeezy
+PayFort
+paygate
+PayJunction
+Paymentsense
+Paymetric
+Payoneer
+PayPal
+PayPal Zettle
+Paytm
+PayU
+Plaid
+Portico Virtual Terminal
+PPRO
+Princeton Payment
+ProfitStars
+Quantrax
+QuickBooks GoPayment
+Rapyd
+Razorpay
+Recurly
+Sage Pay
+Samsung Pay
+Samsung Wallet
+SAP Omnichannel Banking
+SAP Order to Cash (OTC)
+SAP Payment Engine
+SAP Policy Management
+SAP POS Data Management
+SAP Price and Margin Management (PMM)
+SAP Reinsurance Management (FS-RI)
+SAP Revenue Accounting and Reporting (RAR)
+Serrala
+Shift4
+Signifyd
+Spreedly
+Square
+Square Payments
+SS&C Evare
+Stripe (Unspecified Product)
+Stripe Atlas
+Stripe Billing
+Stripe Connect
+Stripe Payments
+SWIFT Alliance Gateway
+SwipeSimple
+Taxfiler
+Thales payShield
+TireMaster
+TrueLayer
+TrustCommerce
+Tungsten Network Workflow
+Vantiv
+Venmo
+Verifone Point to Point Encryption (P2PE)
+Verifone VX 820
+Vindicia
+Visa
+Viva Wallet
+Way4
+WePay
+Wex
+Wibmo
+WildApricot
+Wirecard
+Wisely Pay
+WorkWave ServMan
+Worldpay
+YapStone
+Yardi PAYscan
+Zelle
+Zooz
+Zuora
