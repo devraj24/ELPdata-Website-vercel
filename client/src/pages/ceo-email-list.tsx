@@ -1,9 +1,11 @@
 import { useState } from "react";
-import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card";
-import { Button } from "./components/ui/button";
-import { Input } from "./components/ui/input";
-import { Textarea } from "./components/ui/textarea";
-import { Badge } from "./components/ui/badge";
+// Corrected import paths based on a common project structure
+// Assuming 'components' and 'pages' are at the same level
+import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
+import { Button } from "../components/ui/button";
+import { Input } from "../components/ui/input";
+import { Textarea } from "../components/ui/textarea";
+import { Badge } from "../components/ui/badge";
 import { Users, Download, Building2, TrendingUp, Globe, Target } from "lucide-react";
 
 // Placeholder components for SEOHead, Header, Footer, and FastNavigateButton
@@ -44,6 +46,7 @@ const FastNavigateButton = ({ children, href, size, variant, className }) => (
     {children}
   </a>
 );
+
 
 export default function App() {
   const [formData, setFormData] = useState({
