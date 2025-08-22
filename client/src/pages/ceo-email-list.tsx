@@ -1,15 +1,51 @@
 import { useState } from "react";
-import SEOHead from "@/components/SEOHead";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card";
+import { Button } from "./components/ui/button";
+import { Input } from "./components/ui/input";
+import { Textarea } from "./components/ui/textarea";
+import { Badge } from "./components/ui/badge";
 import { Users, Download, Building2, TrendingUp, Globe, Target } from "lucide-react";
 
-export default function CEOEmailList() {
+// Placeholder components for SEOHead, Header, Footer, and FastNavigateButton
+// In a real application, you would import these from your project's components directory.
+const SEOHead = ({ title, description, keywords }) => (
+  <head>
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="keywords" content={keywords} />
+  </head>
+);
+
+const Header = () => (
+  <header className="py-4 px-4 bg-white shadow-md">
+    <div className="max-w-7xl mx-auto flex justify-between items-center">
+      <div className="text-2xl font-bold text-blue-600">ELP Data</div>
+      <nav>
+        <ul className="flex space-x-4">
+          <li><a href="#" className="text-gray-600 hover:text-blue-600">Home</a></li>
+          <li><a href="#" className="text-gray-600 hover:text-blue-600">About</a></li>
+          <li><a href="#" className="text-gray-600 hover:text-blue-600">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+);
+
+const Footer = () => (
+  <footer className="py-8 px-4 bg-gray-800 text-white">
+    <div className="max-w-7xl mx-auto text-center">
+      <p>&copy; 2024 ELP Data. All rights reserved.</p>
+    </div>
+  </footer>
+);
+
+const FastNavigateButton = ({ children, href, size, variant, className }) => (
+  <a href={href} className={`inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background ${className} ${size === "lg" ? "h-11 px-8" : ""} ${variant === "secondary" ? "bg-secondary text-secondary-foreground hover:bg-secondary/80" : ""}`}>
+    {children}
+  </a>
+);
+
+export default function App() {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -18,16 +54,17 @@ export default function CEOEmailList() {
     requirements: ""
   });
 
-  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleInputChange = (e) => {
     setFormData({
       ...formData,
       [e.target.name]: e.target.value
     });
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Form submitted:", formData);
+    // You would add your form submission logic here, e.g., an API call.
   };
 
   const keySegments = [
@@ -38,7 +75,7 @@ export default function CEOEmailList() {
   ];
 
   const industryBreakdown = [
-    "Technology", "Healthcare", "Financial Services", "Manufacturing", 
+    "Technology", "Healthcare", "Financial Services", "Manufacturing",
     "Retail", "Energy", "Real Estate", "Education", "Transportation", "Media"
   ];
 
@@ -74,13 +111,13 @@ export default function CEOEmailList() {
 
   return (
     <>
-      <SEOHead 
+      <SEOHead
         title="CEO Email List - 355K+ Chief Executive Officer Contacts | ELP Data"
         description="Connect with 355,250+ verified CEO email addresses. Target Chief Executive Officers across Fortune 500, startups, and international markets. Download comprehensive database."
         keywords="CEO email list, Chief Executive Officer contacts, CEO database, executive mailing list, Fortune 500 CEOs"
       />
       <Header />
-      
+
       <main className="bg-gradient-to-b from-blue-50 to-white">
         {/* Hero Section */}
         <section className="py-20 px-4">
@@ -95,14 +132,14 @@ export default function CEOEmailList() {
                   CEO Email List
                 </h1>
                 <p className="text-lg text-gray-600 mb-6">
-                  Connect with 355,250+ Chief Executive Officers leading organizations across all industries and company sizes. 
+                  Connect with 355,250+ Chief Executive Officers leading organizations across all industries and company sizes.
                   Target decision-makers with ultimate authority over strategic initiatives, partnerships, and major business decisions.
                 </p>
                 <p className="text-lg text-gray-600 mb-8">
-                  Our CEO database includes Fortune 500 leaders, startup founders, non-profit executives, and international CEOs 
+                  Our CEO database includes Fortune 500 leaders, startup founders, non-profit executives, and international CEOs
                   across diverse industries and markets.
                 </p>
-                
+
                 <div className="grid grid-cols-2 gap-6 mb-8">
                   <div className="text-center bg-white rounded-lg p-4 shadow-md">
                     <div className="text-3xl font-bold text-blue-600 mb-2">355,250+</div>
@@ -113,7 +150,7 @@ export default function CEOEmailList() {
                     <div className="text-gray-600">Data Accuracy</div>
                   </div>
                 </div>
-                
+
                 <Button size="lg" className="bg-blue-600 hover:bg-blue-700 mr-4">
                   <Download className="w-5 h-5 mr-2" />
                   Get CEO Email List
@@ -122,11 +159,11 @@ export default function CEOEmailList() {
                   View Sample Data
                 </Button>
               </div>
-              
+
               <div className="bg-white rounded-2xl shadow-2xl p-8">
                 <h3 className="text-2xl font-bold text-gray-900 mb-2">Get Custom CEO List</h3>
                 <h4 className="text-xl font-semibold text-blue-600 mb-6">Request Quote</h4>
-                
+
                 <form onSubmit={handleSubmit} className="space-y-4">
                   <div>
                     <Input
@@ -191,7 +228,7 @@ export default function CEOEmailList() {
               <h2 className="text-3xl font-bold text-gray-900 mb-4">CEO Segments Available</h2>
               <p className="text-xl text-gray-600">Target specific CEO categories based on your business needs</p>
             </div>
-            
+
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               {keySegments.map((segment, index) => (
                 <Card key={index} className="border-0 shadow-lg hover:shadow-xl transition-shadow">
@@ -245,7 +282,7 @@ export default function CEOEmailList() {
                   </div>
                 </div>
               </div>
-              
+
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-6">Industry Coverage</h2>
                 <div className="grid grid-cols-2 gap-3">
@@ -255,7 +292,7 @@ export default function CEOEmailList() {
                     </div>
                   ))}
                 </div>
-                
+
                 <div className="mt-8 p-6 bg-blue-50 rounded-lg">
                   <h3 className="font-bold text-gray-900 mb-3">Decision-Making Authority</h3>
                   <ul className="space-y-2 text-gray-700">
@@ -278,7 +315,7 @@ export default function CEOEmailList() {
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Sample CEO Database Records</h2>
               <p className="text-xl text-gray-600">Preview of available CEO contact information</p>
             </div>
-            
+
             <div className="overflow-x-auto">
               <table className="w-full bg-white rounded-lg shadow-lg">
                 <thead className="bg-gray-50">
@@ -318,10 +355,11 @@ export default function CEOEmailList() {
               Access 355,250+ verified CEO email addresses across all industries and company sizes
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <FastNavigateButton 
-                href="/request-sample?samples=CEO%20Email%20List"
-                size="lg" 
+              <FastNavigateButton
+                href="#"
+                size="lg"
                 variant="secondary"
+                className="bg-white text-blue-600 hover:bg-gray-200"
               >
                 <Download className="w-5 h-5 mr-2" />
                 Request Sample List
@@ -333,7 +371,7 @@ export default function CEOEmailList() {
           </div>
         </section>
       </main>
-      
+
       <Footer />
     </>
   );
